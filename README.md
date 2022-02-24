@@ -26,6 +26,6 @@ Xbox 1/Series X
 Linux  
   
   
-There's also Mac, but I don't care about Mac. The 5 people that use it can port it themselves.  
+There's also Mac, but I don't care about Mac. The 5 people that use Mac can port it themselves.  
 I have tested GUSTALE on a PSVita emulator, and it ran perfectly, as seen below  
 ![Gus](https://github.com/RKReid/GUSTALE/blob/main/gustale%20on%20ps%20vita%202022-2-24.png?raw=true)   
