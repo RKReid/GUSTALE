@@ -6596,95 +6596,96 @@ item_names_2
 item_names_3
 item_names_4
 item_names_5
-item_names_6
+huh
+Muffet stopper
+SpdrDonut
 item_names_7
+Stoic man
 item_names_8
+Ghost Fruwddwwdit
 item_names_9
+MUFFET STOPE
 item_names_10
+Butts Pie
 item_names_11
 item_names_12
 item_names_13
+Blue Nitrile Gloves
 item_names_14
+Manly banana
 item_names_15
 item_names_16
 item_names_17
+Puph Icecream
 item_names_18
 item_names_19
+Trisicle
 item_names_20
+Cinny Bun
 item_names_21
 item_names_22
+Quichse
 item_names_23
+Old man
 item_names_24
+gay shoes
 item_names_25
 item_names_26
+KILL Card
 item_names_27
 item_names_28
+toby
 item_names_29
 item_names_30
 item_names_31
 item_names_32
 item_names_33
 item_names_34
+Chungy CHo CHOICE
 item_names_35
+Gay Noodles
 item_names_36
 item_names_37
 item_names_38
 item_names_39
+Gayburger
 item_names_40
 item_names_41
 item_names_42
+Legndryowoww herowo
 item_names_43
+Deez Nuts
 item_names_44
+Torn nuts
 item_names_45
+Bloody Apron
 item_names_46
 item_names_47
 item_names_48
 item_names_49
+Fart Locket
 item_names_50
+Sadj Dagger
 item_names_51
 item_names_52
 item_names_53
 item_names_54
 item_names_55
+Letter
 item_names_56
 item_names_57
+Crhips
 item_names_58
 item_names_59
+Key
 item_names_60
+Rob Face Steak
 item_names_61
+Puppy
 item_names_62
 item_names_63
+temmmmy armor
 item_names_64
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * If you are reading this,&  I messed up somehow./%
 item_desc_0_0
 * "Monster Candy" - Heals 10 HP&* Has a distinct,^1 &  non-licorice flavor./%
@@ -23959,27 +23960,27 @@ obj_sansb_960
 obj_sansb_962
 * Hello sus imposterswssswww!!!!
 obj_sansb_963
-* KARMA coursing through your&  veins.
+* hewwowoowow owo.
 obj_sansb_964
-* Doomed to death of KARMA!
+* HEHEHEHA!
 obj_sansb_965
-* The REAL battle finally begins.
+* Walter White is more angry now.&  Oh shit.
 obj_sansb_969
-* Reading this doesn't seem&  like the best use of time.
+* NOW'S YOUR CHANCE TO BE A BIG SHOT&  BE A BIG&  BE A BIG&  BE A BIG&  SHOT
 obj_sansb_971
-* Sans is starting to look&  really tired.
+* Walter White is starting to look&  really sadj.
 obj_sansb_973
-* Sans is preparing something.
+* Walter White is preparing meth.
 obj_sansb_975
-* Sans is getting ready to&  use his special attack.
+* Walter White is getting ready to&  use his special attack.
 obj_sansb_977
-* Sans is sparing you.
+* Walter White forgets you exist.
 obj_sansb_985
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./
+* Walter White 1 ATK 1 DEF&* The easiest enemy!^1.&* Can only deal 1 damage.^1.&*Very very easy^1.&*No scam^1.&*legit^1.&*You have wasted a turn, Collin/
 obj_sansb_1013
 * Can't keep dodging forever^1.&* Keep attacking./^
 obj_sansb_1014
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./^
+* Walter White 1 ATK 1 DEF&* The easiest enemy!^1.&* Can only deal 1 damage.^1.&*Very very easy^1.&*No scam^1.&*legit^1.&*You have wasted a turn, Collin/
 obj_sansb_1018
 it's a beautiful&day outside./
 obj_sansb_1079
@@ -24385,44 +24386,44 @@ obj_shamblingmass_70
 obj_shamblingmass_74
 * As a slime^1, I'm saddened./%%
 obj_shamblingmass_79
-\E0* Take your time./*
+\E0* THEN YOU JUST GOTTA& GRAB LIFE BY THE& [[Silly Strings]]/*
 obj_shop1_263
-\E0* Hello^1, traveller^1.&* How can I help you?/*
+\E0* HELLO EV3RY!!^1^1.&* NOW'S YOUR CHANCE& TO BE A [[BIG SHOT]]/*
 obj_shop1_264
-* But nobody came./*
+* everyone is dead :( /*
 obj_shop1_265
-\E0What would&you like&to buy?/*
+\E0WOULD YOU& LIKE KEYGEN?/*
 obj_shop1_352
-\E5Thanks for&your&purchase./*
+\E5KROMER/*
 obj_shop1_353
-\E0Just&looking?/*
+\E0BUY SOMETHING PLEASE& DEPOSIT KROMER/*
 obj_shop1_354
-\E6That's not&enough&money./*
+\E6YOU NEED MORE [[KROMER]]/*
 obj_shop1_355
-\E6You're&carrying&too much./*
+\E6YOU HAVE NO ROOM/*
 obj_shop1_356
 /*
 obj_shop1_357
-\E0Care to&chat?/*
+\E0HEHEHEHA/*
 obj_shop1_438
-\E3* Huh^1?&* Sell somethin'^1?&* Does this look like a&  pawn shop?/
+\E3* WHAT? LISTEN, KID THAT's& NOT HOW IT WORKS/
 obj_shop1_476
-\E4* I don't know how it works where&  you come from... but.../
+\E4* I WOULD BE A [[BIG SHOT]] IF... &  MIKE.../
 obj_shop1_477
-\E0* If I started spending money&  on old branches and used&  bandages^1, I'd be out of business&  in a jiffy!/%%
+\E0* BIG SHOTS DO NOT BUY&  [[CHEAP BARGIN]] CRAP!/%%
 obj_shop1_478
-\E4* If you're really hurtin' for&  cash^1, then maybe you could&  do some crowdfunding./
+\E4* ME, THE [[Number 1 rated saleman 1997]]& BUYING YOUR [[DOLLAR STORE]] CRAP?/
 obj_shop1_480
-* I hear people will pay for&  ANYTHING nowadays./%%
+* ALL YOU NEED IS KROMER/%%
 obj_shop1_481
-* You took 758G from behind the&  counter./%%
+* You took 758G from behind the&  counter. Dick./%%
 obj_shop1_486
-* Nothing left./%%
+* Papyrus is dead./%%
 obj_shop1_492
-\E0* Bye now^1!&* Come again sometime!/%%
+\E0* DON'T LEAVE ME!!!!/%%
 obj_shop1_498
 obj_shop1_500
-\E0* Hiya^1! Welcome to Snowdin^1!&* I can't remember the last&  time I saw a fresh face around&  here./
+\E0* Hiya^1! Welcome to Snowdin^1!&* e./
 obj_shop1_504
 \E4* Where did you come from^1?&* The capital?/
 obj_shop1_505
