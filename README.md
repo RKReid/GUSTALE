@@ -15,7 +15,7 @@ sans - Walter White
 Papyrus - Jesse Pinkman  
 Mettaton - Saul Goodman  
 Photoshop Flowey - Meth RV  
-Beginning Flowey - Hector (just says ding)  
+Flowey - Hector (just says ding)  
 Asriel - Gustavo Fring  
   
 ### Platforms  
