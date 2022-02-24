@@ -9,8 +9,8 @@ Many Gustavo Frings challange and fight the player to prevent them from leaving 
      
      
      
-##Plans  
-###Characters  
+## Plans  
+### Characters  
 sans - Walter White  
 Papyrus - Jesse Pinkman  
 Mettaton - Saul Goodman  
@@ -18,8 +18,8 @@ Photoshop Flowey - Meth RV
 Beginning Flowey - Hector (just says ding)  
 Asriel - Gustavo Fring  
   
-###Platforms  
-GUSTALE is currently being developed on Windows. It will be ported to all platforms UNDERTALE is on, so that would be  
+### Platforms  
+GUSTALE is currently being developed on Windows. It will be ported to all platforms UNDERTALE is on, so that would be on  
 PS4/PS5  
 PSVita  
 Xbox 1/Series X  
