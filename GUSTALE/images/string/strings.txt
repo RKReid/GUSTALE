@@ -23982,18 +23982,18 @@ obj_sansb_1013
 obj_sansb_1014
 * Walter White 1 ATK 1 DEF&* The easiest enemy!^1.&* Can only deal 1 damage.^1.&*Very very easy^1.&*No scam^1.&*legit^1.&*You have wasted a turn, Collin/
 obj_sansb_1018
-it's a beautiful&day outside./
+I am not in danger, Collin, I am the danger! /
 obj_sansb_1079
-birds are singing^1,&flowers are&blooming.../
-obj_sansb_1080
-on days like these^1,&kids like you.../%%
+Say my name/
+obj_sansb_108033
+You're goddamn right/%%
 obj_sansb_1081
 obj_sansb_1084
-birds are singing^1,%%
+Is this just a genetic thing with you? Is it congenital? Did your, did your mother drop you on your head when you were a baby?^1,%%
 obj_sansb_1085
-ready?/%%
+Say my name?/%%
 obj_sansb_1089
-Should&be&burning&in hell./%%
+I&did&it&for&me./%%
 obj_sansb_1152
 \E1huh./
 obj_sansb_body_1446
