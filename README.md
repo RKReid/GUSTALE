@@ -28,4 +28,4 @@ Linux
   
 There's also Mac, but I don't care about Mac. The 5 people that use it can port it themselves.  
 I have tested GUSTALE on a PSVita emulator, and it ran perfectly, as seen below  
-![Gus](https://github.com/RKReid/GUSTALE/blob/main/gustale on ps vita 2022-2-24.png?raw=true)   
+![Gus]("https://github.com/RKReid/GUSTALE/blob/main/gustale on ps vita 2022-2-24.png?raw=true")   
