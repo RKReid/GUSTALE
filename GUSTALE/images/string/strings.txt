@@ -32966,80 +32966,80 @@ trophy_install
 trophy_install_dot
 (Just this once.)
 trophy_install_line2
-What's the prize#for answering#correctly?
+What's Walter White's#middle#name?
 mettquiz_q1_text
-Money
+Meth
 mettquiz_q1_a1
-Mercy
+Xander
 mettquiz_q1_a2
-New car
+White
 mettquiz_q1_a3
-More questions
+Hartwell
 mettquiz_q1_a4
-What's the king's#full name?
+What was Jesse's#signature ingredient?
 mettquiz_q2_text
-Lord Fluffybuns
+Sugar
 mettquiz_q2_a1
-Fuzzy Pushover
+Meth
 mettquiz_q2_a2
-Asgore Dreemurr
+Chili Powder
 mettquiz_q2_a3
-Dr. Friendship
+Garlic
 mettquiz_q2_a4
-What are robots#made of?
+Who did Walter White#kill?
 mettquiz_q3_text
-Hopes&Dreams
+Hank Schrader 
 mettquiz_q3_a1
-Metal&Magic
+Crazy Eight
 mettquiz_q3_a2
-Snips&Snails
+Tuco Salamanca
 mettquiz_q3_a3
-Sugar&Spice
+Saul Goodman
 mettquiz_q3_a4
-Two trains, Train A and Train B,#simultaneously depart Station A#and Station B.#Station A and Station B are 252.5 miles#apart from each other.#Train A is moving at 124.7mph towards#Station B, and Train B is moving at#253.5mph towards station A.#If both trains departed at 10:00AM and it#is now 10:08, how much longer until#both trains pass each other?
+Two meth chefs, Walter White and Jesse Pinkman, #simultaneously start cooking.#Walt cooks 3 plates#of meth in an hour while Jesse cooks 1.#How many hours does it take to#cook 85 plates of meth.#How long does it take if Gale is also cooking 2 plates#of meth per hour.#Assuming that Gustavo sells it,#how many#bitches does Gustavo have?
 mettquiz_q4_text
-31.054 minutes
+0
 mettquiz_q4_a1
-16.232 minutes
+85
 mettquiz_q4_a2
-32.049 minutes
+876
 mettquiz_q4_a3
-32.058 minutes
+120
 mettquiz_q4_a4
-How many flies are#in this jar?
+How much meth is#in this jar?
 mettquiz_q5_text
-54
+54 Grams
 mettquiz_q5_a1
-53
+53 Grams
 mettquiz_q5_a2
-55
+55 Kilograms
 mettquiz_q5_a3
-52
+52 Petabytes of CP
 mettquiz_q5_a4
-What monster is this?
+What meth addict is this?
 mettquiz_q6_text
 mettquiz_q6_a1
 mettquiz_q6_a2
 mettquiz_q6_a3
 mettquiz_q6_a4
-Would you smooch#a ghost?
+Would you kiss#a Gustavo?
 mettquiz_q7_text
-Heck Yeah
+YESSS!!!!!! PLEASE DADDT!!!!
 mettquiz_q7_a1
 mettquiz_q7_a2
 mettquiz_q7_a3
 mettquiz_q7_a4
-How many letters in#the name Mettaton
+How many letters in#the name Gustavo
 mettquiz_q8_text
-In the dating#simulation video game#"Mew Mew Kissy Cutie"#what is Mew Mew's#favorite food?
+Walter Hartwell "Walt" White Sr., also# known by his alias Heisenberg, is a fictional character# and the protagonist of the# American crime drama television series Breaking Bad.# The character is portrayed by Bryan Cranston.
 mettquiz_q9_text
-Who does Dr. Alphys#have a crush on?
+Who does Gustavo#have a crush on?
 mettquiz_q10_text
 mettquiz_q10_a1
 mettquiz_q10_a2
-The human
+Saul Goodman
 mettquiz_q10_a3
-Don't know
+Gustavo
 mettquiz_q10_a4
 ＊ \[I]を　じめんに&　 おいて　「おつかれさま」と&　 なでてあげた。
 ニャッハッ&ハッ^1！&かくごは&いいか…！/%%
