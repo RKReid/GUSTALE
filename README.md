@@ -15,9 +15,18 @@ sans - Walter White
 Papyrus - Jesse Pinkman  
 Mettaton - Saul Goodman  
 Photoshop Flowey - Meth RV  
-Flowey - Hector (just says ding)  
+Flowey - Hector Salamanca (just says ding)  
 Asriel - Gustavo Fring  
+Alphys -  Gale Boetticher  
+Undyne - Mike?  
+Muffet - Tuco?  
   
+Napstablook - ???  
+Toriel - ???    
+Asgore - ???  
+Toby (annoying dog) - ???  
+  
+
 ## Platforms  
 GUSTALE is currently being developed on Windows. It will be ported to all platforms UNDERTALE is on, so that would be on  
 PS4/PS5  
@@ -32,3 +41,4 @@ I have tested GUSTALE on a PSVita emulator, and it ran perfectly, as seen below
   
 ## Gameplay  
 ![Gus](https://github.com/RKReid/GUSTALE/blob/main/mettaton%20would%20you%20kiss%20a%20gustavo.png?raw=true)   
+![Gus](https://rkreid.github.io/GUSTALE/saul%20ex.webm)   
