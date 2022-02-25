@@ -15,8 +15,9 @@ sans - Walter White
 Papyrus - Jesse Pinkman  
 Mettaton - Saul Goodman  
 Photoshop Flowey - Meth RV  
-Flowey - Hector (just says ding)  
+Flowey - Hector Salamanca (just says ding)  
 Asriel - Gustavo Fring  
+Alphys -  Gale Boetticher  
   
 ## Platforms  
 GUSTALE is currently being developed on Windows. It will be ported to all platforms UNDERTALE is on, so that would be on  
