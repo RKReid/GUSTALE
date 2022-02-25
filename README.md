@@ -18,13 +18,13 @@ Photoshop Flowey - Meth RV
 Flowey - Hector Salamanca (just says ding)  
 Asriel - Gustavo Fring  
 Alphys -  Gale Boetticher  
-Undyne - Mike?
-Muffet - Tuco?
-
-Napstablook - ???
-Toriel - ???  
-Asgore - ???
-Toby (annoying dog) - ???
+Undyne - Mike?  
+Muffet - Tuco?  
+  
+Napstablook - ???  
+Toriel - ???    
+Asgore - ???  
+Toby (annoying dog) - ???  
   
 
 ## Platforms  
