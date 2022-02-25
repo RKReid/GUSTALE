@@ -18,7 +18,15 @@ Photoshop Flowey - Meth RV
 Flowey - Hector Salamanca (just says ding)  
 Asriel - Gustavo Fring  
 Alphys -  Gale Boetticher  
+Undyne - Mike?
+Muffet - Tuco?
+
+Napstablook - ???
+Toriel - ???  
+Asgore - ???
+Toby (annoying dog) - ???
   
+
 ## Platforms  
 GUSTALE is currently being developed on Windows. It will be ported to all platforms UNDERTALE is on, so that would be on  
 PS4/PS5  
