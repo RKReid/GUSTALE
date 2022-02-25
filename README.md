@@ -32,4 +32,4 @@ I have tested GUSTALE on a PSVita emulator, and it ran perfectly, as seen below
   
 ## Gameplay  
 ![Gus](https://github.com/RKReid/GUSTALE/blob/main/mettaton%20would%20you%20kiss%20a%20gustavo.png?raw=true)   
-![Gus](https://github.com/RKReid/GUSTALE/blob/main/saul%20ex.webm?raw=true)   
+![Gus](https://rkreid.github.io/GUSTALE/saul%20ex.webm)   
