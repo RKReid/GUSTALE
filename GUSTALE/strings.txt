@@ -3221,7 +3221,7 @@ l_char
 aaaaaa
 ああああああ
 ほんとに#これでいいの…？
-Not very creative...?
+Collin, really?
 asgore
 あずごあ
 そのなまえは　ダメだ。
@@ -3230,91 +3230,91 @@ toriel
 とりえる
 ちゃんと　なまえを#かんがえるのよ。
 I think you should#think of your own#name, my child.
-sans
-さんず
+walter
+walt
 ダメだぜ。
-nope.
+JESSE! Think of your own name, JESSE!
 undyne
 あんだいん
 ひとの　なまえを#パクるな！
 Get your OWN name!
-flowey
-ふらうぃ
+hector
+ding
 そのなまえは#ボクだけのもの。
-I already CHOSE#that name.
-chara
-きゃら
+DING DING DING#DING DING!
+sex
+sus
 ほんとうのなまえ。
 The true name.
-alphys
+gale
 あるふぃー
 ダ…　ダメだよっ！
 D-don't do that.
-alphy
-あるっち
-う…　うん#いいよ…
-Uh... OK?
-papyru
-ぱぴるす
+sus
+amogus
+among
+AMONG US SUSSY BAKA IMPOSTER!!!!
+rob
+robert
 オレさまは#べつに#いいよッ！
-I'LL ALLOW IT!!!!
-napsta
-blooky
+good name
+deez
+nuts
 なぷすた
 ぶるっち
 …………#(とめるちからは　ない)
-...........#(They're powerless to#stop you.)
+GOTEM
 ころす
 みのがす
 こんな　なまえで#いいんですか？
 That's a little on-#the nose, isn't it...?
-asriel
-あずりえる
-…
-catty
+gus
+gustavo
+Hello!
+collin
 きゃってぃ
 アリゲッティ！　みて！#アタシのなまえ#だしぃ～！
-Bratty! Bratty!#That's MY name!
-bratty
-ありげってぃ
-べつに　いいけどぉ～？
-Like, OK I guess.
-mtt
-metta
-mett
+NOOOO!!!
+sus
+sussy
+imposter
+SUSSSYSYYSYSYSY!!!!!
+saul
+goodman
+jimmy
 めた
 めたとん
 おお！！キミ！！#せんでん　してくれるのかい？
-OOOOH!!! ARE YOU#PROMOTING MY BRAND?
-gerson
+Better call Saul!
+alaric
 がーそん
 ワッハッハッ！#そりゃあいい！
-Wah ha ha! Why not?
-shyren
+HOGGGG RIDAHHH
+cameron
 しゃいれーん
 …？
 ...?
-aaron
+isaiah
 あーろん
 このなまえで#よろしいですか？(^_–)☆ 
 Is this name correct? ; )
-temmie
+toby
 てみー
 ホィ！
 hOI!
-woshua
+andrew
 うぉっしゅあ
 せいけつな　なまえ。
-Clean name.
-jerry
+bababooey
+gustale
 じぇりー
 ジェリー。
-Jerry.
-bpants
+GUSTALE
+spamton
 ばがぱん
 …なまえの#ネタぎれ？
-You are really scraping the#bottom of the barrel.
-gaster
+BE A BIG BE A BIG BE A BIG#SHOT.
+cum
 がすたー
 name_entry_confirm
 ascii_rows
@@ -14523,19 +14523,19 @@ obj_instantnoodleitem_44
 obj_instantnoodleitem_45
 * You ate the Instant Noodles.
 obj_instantnoodleitem_85
-Long ago^1, the cartel&ruled meth production.^1^6. \E1 ^1 %
+Long ago^1, the cartel&ruled meth production.^1^6 \E1 ^1 %
 obj_introimage_70
-One day^1, war broke&out between the two&races^6. \E0 ^1 %
+One day^1, war broke&out between the two&meth syndicates.^6. \E0 ^1 %
 obj_introimage_71
-After a long battle^1,&the humans were&victorious^6. \E1 ^1 %
+After a long battle^1,&Gustavo Fring was&victorious^6. \E1 ^1 %
 obj_introimage_72
-They sealed the monsters&underground with a magic&spell^6. \E0 ^1 %
+He killed the cartel& and went to the&underground^6. \E0 ^1 %
 obj_introimage_73
 Many years later^2.^2.^5.  \E1 ^1 %
 obj_introimage_74
-      MT. EBOTT&         201X^9 \E0 %
+      Los Pollos Hermanos&         201X^9 \E0 %
 obj_introimage_75
-Legends say that those&who climb the mountain&never return^5.^3 \E1 %
+Legends say that those&enter Los Pollos Hermanos&never return^5.^3 \E1 %
 obj_introimage_76
  \E1 %
 obj_introimage_78
@@ -14552,50 +14552,50 @@ obj_introimage_83
  ^9 ^9 ^9 ^9 ^9 ^9 \E0 %
 obj_introimage_84
 obj_introimage_85
-Guys, it's COLD.&Does ANYONE care?
+Guys, I need meth!.&Does ANYONE care?
 obj_jerry_164
-Why are we doing&this? What a fail.
+Why are we doing&this? There's no meth.
 obj_jerry_165
-Wow, you guys&SUCK at this.
+Wow, you guys&SUCK at cooking meth.
 obj_jerry_166
-SHHHH! I'm&THINKING, guys!!
+SHHHH! I'm&doing cocainer, JESSE!!
 obj_jerry_167
-Ka-SIGH.
+Say my name.
 obj_jerry_168
-Well... can YOU&give me a ride&home?
+JESSER!&WE MUSRTE!!!&COOOK!!!!?
 obj_jerry_171
-Huh? Did they&ditch me...? SOME&friends!
+Is there an imposter&among&us!
 obj_jerry_172
-Awkwarrrd.
+You know you want that bussy
 obj_jerry_173
-So, like, what&are you even&doing?
+TONY&TONY&TONY
 obj_jerry_174
-The wi-fi here&sucks.
+Arby's We have the&MEATS
 obj_jerry_175
-Hahaha!&Say something&else funny!
+he&he&he&ha!
 obj_jerry_199
-Haha! Wow!&Drake, you suck!
+pasta&pasta!
 obj_jerry_200
-Hahaha!&Where do you get&your ideas!?!
+My name is&WALLER HARTWALLL&whiter
 obj_jerry_201
 obj_jerry_207
-* Jerry eats powdery food and&  licks its hands loudly.
+Who's joe?&  Please I need to know.
 obj_jerry_407
-* Jerry sneezes without covering&  its nose.
+-_-
 obj_jerry_408
-* Jerry tells everyone it has to&  go to the bathroom.
+why you read this
 obj_jerry_409
-* Jerry lets out a yawn.
+GUSTALE
 obj_jerry_410
-* Smells like....... Jerry.
+* Smells like....... ass.
 obj_jerry_411
-* Jerry is wounded.
+AIEYUH!!
 obj_jerry_412
-* The other monsters celebrate&  Jerry's disappearance.
+HEHEHEHEHHA
 obj_jerry_414
-* Return of Jerry.
+:(
 obj_jerry_415
-* JERRY - ATK 0 DEF 30&* Everyone knows Jerry.&* Makes attacks 2 seconds longer./^
+* JERRY - ATK 99 DEF 99&* Everyone knows Jerry.&* Makes attacks 2 seconds longer./^
 obj_jerry_442
 * You and the other&  monsters ditch Jerry&  when it looks away!/^
 obj_jerry_450
@@ -27090,7 +27090,7 @@ obj_torboss_2ndtime_429
 obj_torboss_2ndtime_430
 Oh^1, you're still&here?/
 obj_torboss_2ndtime_431
-Don't you have&anything better&to do?/%%
+Ding Ding Ding &Ding Ding Ding &Ding Ding Ding?/%%
 obj_torboss_2ndtime_432
 \E0Hey./
 obj_torboss_2ndtime_512
@@ -27124,7 +27124,7 @@ obj_torboss_2ndtime_579
 obj_torboss_2ndtime_580
 \E8So what's YOUR&excuse^1?&Sitting around&here...?/
 obj_torboss_2ndtime_581
-\E0Don't you have&anything better to%%
+\E0Ding Ding Ding &Ding Ding Ding %%
 obj_torboss_2ndtime_582
 I already said&that./%%
 obj_torboss_2ndtime_595
@@ -27836,7 +27836,7 @@ obj_torinteractable7_204
 * Well^1, see you./%%
 obj_torinteractable7_205
 obj_torinteractable7_212
-\E6* Don't you have&  anything better to&  do?/%%
+\E6* Ding Ding Ding &  Ding Ding Ding &  Ding Ding Ding?/%%
 obj_torinteractable7_213
 obj_torn_note_63
 * (There's a note on the&  ground...^1)&* (You can't make it all out.)/
