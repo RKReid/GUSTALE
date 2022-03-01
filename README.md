@@ -18,7 +18,8 @@ Photoshop Flowey - Meth RV
 Flowey - Hector Salamanca (just says ding)  
 Asriel - Gustavo Fring  
 Alphys -  Gale Boetticher  
-Undyne - Hank Schrader  
+Undyne - Hank Schrader    
+Monster Kid - Walt Jr.  
 Muffet - Tuco?  
   
 Napstablook - ???  
