@@ -19,14 +19,14 @@ Flowey - Hector Salamanca (just says ding)
 Asriel - Gustavo Fring  
 Alphys -  Gale Boetticher  
 Undyne - Hank Schrader    
-Monster Kid - Walt Jr.  
-Muffet - Tuco?  
+Monster Kid - Marie Schrader   
+Mad Dummy - Tuco    
   
 Napstablook - ???  
 Toriel - ???    
 Asgore - ???  
 Toby (annoying dog) - ???  
-  
+Muffet - ???  
 
 ## Platforms  
 GUSTALE is currently being developed on Windows. It will be ported to all platforms UNDERTALE is on, so that would be on  
