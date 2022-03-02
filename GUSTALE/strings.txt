@@ -15038,15 +15038,15 @@ obj_lastbeam_230
 STOP IT NOW!!!
 obj_lastbeam_255
 obj_lastbeam_296
-* So you finally made it./
+* zamn./
 obj_lastsans_trigger_187
-* The end of your journey&  is at hand./
+* you made it.&  Well, Jesse, are you ready?/
 obj_lastsans_trigger_188
-* In a few moments^1, you&  will meet the king./
+* In a few moments^1, you&  will meet Gustavo Fring./
 obj_lastsans_trigger_189
 * Together.../
 obj_lastsans_trigger_190
-* You will determine the&  future of this world./
+* You will determine the&  future of meth./
 obj_lastsans_trigger_191
 * That's then./
 obj_lastsans_trigger_192
@@ -15054,29 +15054,29 @@ obj_lastsans_trigger_192
 obj_lastsans_trigger_193
 * You will be judged./
 obj_lastsans_trigger_194
-* You will be judged for&  your every action./
+* You will be judged for&  all your meth./
 obj_lastsans_trigger_195
-* You will be judged for&  every EXP you've earned./
+* You will be judged for&  every person you've killed./
 obj_lastsans_trigger_196
-* What's EXP?/
+* What's KR?/
 obj_lastsans_trigger_197
 * It's an acronym./
 obj_lastsans_trigger_198
-\W* It stands for "\Rexecution&  points\W."/
+\W* It stands for "\KROMER&  points\W."/
 obj_lastsans_trigger_199
 * A way of quantifying the&  pain you have inflicted on&  others./
 obj_lastsans_trigger_200
-* When you kill someone^1,&  your EXP increases./
+* When you kill someone^1,&  your KR increases./
 obj_lastsans_trigger_201
-* When you have enough EXP^1,&  your LOVE increases./
+* When you have enough KR^1,&  your meth increases./
 obj_lastsans_trigger_202
-* LOVE^1, too^1, is an&  acronym./
+* Meth^1, too^1, is an&  acronym./
 obj_lastsans_trigger_203
-\W* It stands for "\RLevel of&  Violence\W."/
+\W* It stands for "\RMy enormous&  throbbing Hartwell cock\W."/
 obj_lastsans_trigger_204
-* A way of measuring someone's&  capacity to hurt./
+* A way of measuring someone's&  capacity to cum./
 obj_lastsans_trigger_205
-* The more you kill^1, the&  easier it becomes to&  distance yourself./
+* The more you cum^1, the&  easier it becomes to&  distance yourself./
 obj_lastsans_trigger_206
 * The more you distance&  yourself^1, the less you&  will hurt./
 obj_lastsans_trigger_207
@@ -15086,11 +15086,11 @@ obj_lastsans_trigger_208
 obj_lastsans_trigger_214
 * Now^1, you understand./
 obj_lastsans_trigger_243
-* It's time to begin your&  judgment./
+* It's time to begin your&  meth judgment./
 obj_lastsans_trigger_244
-* Look inside yourself./
+* Look at your meth./
 obj_lastsans_trigger_245
-* Have you really done the&  right thing?/
+* Have you really made the&  right thing?/
 obj_lastsans_trigger_246
 * And^1, considering what&  you've done.../
 obj_lastsans_trigger_247
@@ -15099,7 +15099,7 @@ obj_lastsans_trigger_248
 * Take a moment to think&  about this./%%
 obj_lastsans_trigger_249
 obj_lastsans_trigger_268
-\Ts*\E0 ... but you^1.&* you never gained&  any LOVE./
+\Ts*\E0 ... but you^1.&* you never gained&  any cum./
 obj_lastsans_trigger_269
 \E1* 'course^1, that doesn't&  mean you're completely&  innocent or naive./
 obj_lastsans_trigger_270
@@ -15107,13 +15107,13 @@ obj_lastsans_trigger_270
 obj_lastsans_trigger_271
 * no matter the struggles&  or hardships you&  faced.../
 obj_lastsans_trigger_274
-* you strived to do the&  right thing./
+* you strived to do the&  wrong thing./
 obj_lastsans_trigger_275
-* you refused to hurt&  anyone./
+* you refused to hurt&  the meth industry./
 obj_lastsans_trigger_276
-* even when you ran&  away^1, you did it&  with a smile./
+* even when you ran&  away^1, you did it&  with a big sadj./
 obj_lastsans_trigger_277
-* you never gained LOVE^1,&  but you gained love./
+* you never gained cum^1,&  but you gained meth./
 obj_lastsans_trigger_278
 * does that make sense?/
 obj_lastsans_trigger_279
@@ -15123,17 +15123,17 @@ obj_lastsans_trigger_280
 obj_lastsans_trigger_283
 \E0* you're about to face&  the greatest challenge&  of your entire journey./
 obj_lastsans_trigger_284
-* your actions here.../
+* your meth here.../
 obj_lastsans_trigger_285
 * will determine the&  fate of the entire&  world./
 obj_lastsans_trigger_286
-* if you refuse to&  fight.../
+* if you refuse to&  cook.../
 obj_lastsans_trigger_287
-* asgore will take&  your soul and&  destroy humanity./
+* asgore will take&  your meth and&  destroy Gustavo Fring./
 obj_lastsans_trigger_288
 * but if you kill&  asgore and go&  home.../
 obj_lastsans_trigger_289
-* monsters will remain&  trapped underground./
+* we will remain&  trapped underground./
 obj_lastsans_trigger_290
 * what will you do?/
 obj_lastsans_trigger_291
@@ -15146,9 +15146,9 @@ obj_lastsans_trigger_294
 obj_lastsans_trigger_295
 * you have something&  called "kidneys."/
 obj_lastsans_trigger_296
-* so as long as you&  hold on.../
+* so as long as you&  hold on to them ;)/
 obj_lastsans_trigger_297
-* so as long as you&  do what's in your&  heart.../
+* so as long as you&  do what's in your&  liver.../
 obj_lastsans_trigger_298
 * i believe you can do&  the right thing./
 obj_lastsans_trigger_299
@@ -15167,13 +15167,13 @@ obj_lastsans_trigger_363
 obj_lastsans_trigger_364
 * we leave up to you./%%
 obj_lastsans_trigger_365
-* Then why'd you&  kill my&  brother?/%%
+* Then why'd you&  kill &  Jesse?/%%
 obj_lastsans_trigger_390
-* You dirty brother&  killer./%%
+* You dirty Jesse&  killer./%%
 obj_lastsans_trigger_402
 * huh^1?&* you look bored./
 obj_lastsans_trigger_421
-\E1* i get the feeling&  you aren't gonna learn&  anything from this./
+\E1* My name is Walter Hartwell White.& I live at 308 Negra Aroya Lane,& Albuquerque, New Mexico, 87104.& To all law enforcement entities,& this is not an admission of guilt.& I am speaking to my family now. Skyler, you are the love of my life.& I hope you know that. Walter Jr., you're my big man./
 obj_lastsans_trigger_422
 \E0* well^1, guess I gotta&  judge you then./
 obj_lastsans_trigger_423
@@ -15314,7 +15314,7 @@ obj_lastsans_trigger_534
 obj_lastsans_trigger_535
 * did you.../
 obj_lastsans_trigger_536
-\E2* ... just say "i'm a&  stupid doodoo butt?"/
+\E2* ... just say "i'm a&  gay furry?"/
 obj_lastsans_trigger_537
 \E1* wow^1.&* i can't believe you&  would say that./
 obj_lastsans_trigger_538
@@ -15339,7 +15339,7 @@ obj_lastsans_trigger_554
 obj_lastsans_trigger_555
 obj_lastsans_trigger_556
 obj_lastsans_trigger_557
-\E2* ... just say "i'm the&  legendary fartmaster?"/
+\E2* ... just say "i'm the&  legendary cock?"/
 obj_lastsans_trigger_558
 \E1* wow./
 obj_lastsans_trigger_559
@@ -15383,18 +15383,18 @@ obj_lastsans_trigger_635
 obj_lastsans_trigger_636
 \E0* so^1, i've got a&  question for ya./
 obj_lastsans_trigger_637
-\E3* do you think even&  the worst person can&  change...?/
+\E3* do you think even&  the worst chef can&  change...?/
 obj_lastsans_trigger_638
-\E3* that everybody can be&  a good person^1, if&  they just try?/%%
+\E3* that everybody can be&  a good chef^1, if&  they just try?/%%
 obj_lastsans_trigger_639
 obj_lastsans_trigger_643
-\E1* you look frustrated&  about something./
+\E1* HEHEHEHA& HEHEHEHA./
 obj_lastsans_trigger_644
-\E4* guess i'm pretty good&  at my job^1, huh?/%%
+\E4* guess i'm pretty good&  at my joe^1, huh?/%%
 obj_lastsans_trigger_645
 \E0* hmm^1.&* that expression.../
 obj_lastsans_trigger_650
-\E1* that's the expression&  of someone who's died&  twice in a row./
+\E1* that's the expression&  of someone who's sucked cock&  twice in a row./
 obj_lastsans_trigger_651
 \E2* suffice to say^1, you&  look really..^1.&* unsatisfied./
 obj_lastsans_trigger_652
@@ -15403,7 +15403,7 @@ obj_lastsans_trigger_653
 \E4* how 'bout we make it&  a third?/%%
 obj_lastsans_trigger_654
 obj_lastsans_trigger_659
-\E1* that's the expression&  of someone who's died&  thrice in a row./
+\E1* that's the expression&  of someone who's suck cock&  thrice in a row./
 obj_lastsans_trigger_660
 obj_lastsans_trigger_661
 \E1* hey^1, what comes after&  "thrice^1," anyway?/
@@ -15411,14 +15411,14 @@ obj_lastsans_trigger_662
 \E4* wanna help me find out?/%%
 obj_lastsans_trigger_663
 obj_lastsans_trigger_668
-\E1* that's the expression&  of someone who's died&  quice in a row./
+\E1* that's the expression&  of someone who's suck cock&  quice in a row./
 obj_lastsans_trigger_669
 \E1* quice^1?&* frice?/
 obj_lastsans_trigger_670
 \E4* welp^1, won't have to&  use it again anyways./%%
 obj_lastsans_trigger_671
 obj_lastsans_trigger_676
-\E1* that's the expression&  of someone who's died&  five times in a row./
+\E1* that's the expression&  of someone who's sucked cock&  five times in a row./
 obj_lastsans_trigger_677
 \E2* convenient^1, huh^1?&* that's one for each&  finger./
 obj_lastsans_trigger_678
@@ -15427,7 +15427,7 @@ obj_lastsans_trigger_679
 \E4* you'll need a cool&  mutant hand to count&  all of your deaths./%%
 obj_lastsans_trigger_680
 obj_lastsans_trigger_685
-\E1* that's the expression&  of someone who's died&  six times in a row./
+\E1* that's the expression&  of someone who's sucked cock&  six times in a row./
 obj_lastsans_trigger_686
 \E2* that's the number of&  fingers on a mutant&  hand./
 obj_lastsans_trigger_687
@@ -15435,8 +15435,7 @@ obj_lastsans_trigger_688
 \E4* you'll need to find&  a mutant hand with&  even more fingers./%%
 obj_lastsans_trigger_689
 obj_lastsans_trigger_694
-\E1* that's the expression&  of someone who's died&  seven times in a row./
-obj_lastsans_trigger_695
+xobj_lastsans_trigger_695
 \E0* hey^1, that's good^1.&* seven's supposed to be&  a lucky number./
 obj_lastsans_trigger_696
 \E2* who knows^1, maybe&  you'll hit the&  jackpot.../
@@ -15444,7 +15443,7 @@ obj_lastsans_trigger_697
 \E4* and that number will&  multiply tenfold./%%
 obj_lastsans_trigger_698
 obj_lastsans_trigger_703
-\E1* that's the expression&  of someone who's died&  eight times in a row./
+\E1* that's the expression&  of someone who's sucked cock&  eight times in a row./
 obj_lastsans_trigger_704
 \E2* that's the number of&  fingers on a spider./
 obj_lastsans_trigger_705
@@ -15459,7 +15458,7 @@ obj_lastsans_trigger_716
 \E4* or was it ten?/%%
 obj_lastsans_trigger_717
 obj_lastsans_trigger_723
-\E1* that's the expression&  of someone who's died&  ten times in a row./
+\E1* that's the expression&  of someone who's sucked cock&  ten times in a row./
 obj_lastsans_trigger_724
 \E2* hey^1, congrats^1!&* the big one-oh!/
 obj_lastsans_trigger_725
@@ -15472,7 +15471,7 @@ obj_lastsans_trigger_728
 \E4* you don't have any&  friends./%%
 obj_lastsans_trigger_729
 obj_lastsans_trigger_735
-\E1* that's the expression&  of someone who's died&  eleven times in a row./
+\E1* that's the expression&  of someone who's sucked cock&  eleven times in a row./
 obj_lastsans_trigger_736
 \E2* well^1, give or take./
 obj_lastsans_trigger_737
