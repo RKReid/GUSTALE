@@ -32790,9 +32790,9 @@ scr_battlegroup_654
 * It's the Amalgamate.
 * The Lost Soul appeared.
 * The Lost Souls appeared.
-* In my way.
-* The heroine appears.
-* Glad Dummy lets you go.
+* KILL KILL KILL.
+* The cocainer appears.
+* Tuco lets you go.
 * Saul NEO blocks the way!
 * That doesn't seem correct.
 * Final Froggit stopped chasing&  Migospel around.
