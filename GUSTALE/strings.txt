@@ -10776,7 +10776,7 @@ obj_blookdiary_119
 obj_blookdiary_120
 * You're meth now.
 obj_blueattackgen_60
- Ayo you're meth now./
+ AYO, YOU'RE METH NOW./
 obj_blueattackgen_90
  THAT'S MY ATTACK BITCH!/
 obj_blueattackgen_91
