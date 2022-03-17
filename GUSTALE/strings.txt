@@ -6464,7 +6464,7 @@ Dream (from minecraft)
 item_name_55
 Letter
 item_name_56
-Letter Mettaton EX
+Letter Saul Goodman Jimmy Mcgill Esquire EX
 item_name_57
 Chisps
 item_name_58
@@ -6819,7 +6819,7 @@ item_desc_58_0
 item_desc_59_0
 * "Mystery Key" Unique&* It is too bent to fit on&  your keychain./%%
 item_desc_60_0
-* "Face Steak" Heals 60 HP&* Huge steak in the shape&  of Mettaton's face./
+* "Face Steak" Heals 60 HP&* Huge steak in the shape&  of Saul Goodman Jimmy Mcgill Esquire EX's face./
 item_desc_61_0
 * (You don't feel like it's&  made of real meat...)/%%
 item_desc_61_1
@@ -6852,14 +6852,14 @@ Ice
 Jerry
 Gyftrot
 Temmie
-Papyrus
+Jesse Pinkman
 Moldbygg
 Woshua
 Shyren
 Agent
 Mad Dummy
-Undyne
-Mettaton
+Hank Schrader
+Saul Goodman
 RG 01
 RG 02
 Tsunderplane
@@ -6879,7 +6879,7 @@ Present Bomb
 Game Bomb
 RG 03
 RG 04
-Mettaton EX
+Saul Goodman Jimmy Mcgill Esquire EX
 Lemon Bread
 ,
 Reaper Bird
@@ -6891,11 +6891,11 @@ monstername_56b
 Endogeny
 monstername_57b
 Lost Soul
-Monster Kid
-Undyne the Undying
+Mao Zedong
+Hank Schrader the Undying
 Glad Dummy
-Mettaton NEO
-Sans
+Saul Goodman Jimmy Mcgill Esquire EX NEO
+Walter White
 Migospel
 Moldessa
 Parsnik
@@ -17454,11 +17454,11 @@ obj_mettatonex_775
 obj_mettatonex_776
 I might seem like&I'm dying now^1,&but.../
 obj_mettatonex_777
-\E1Dr. Alphys can&always repair me./
+\E1Fuck&you./
 obj_mettatonex_778
 \E0And... besides.../
 obj_mettatonex_779
-Even if I'm not&cut out to be&a star.../
+Even if I'm not&cut out to be&a big shot.../
 obj_mettatonex_780
 \E1I still got to&perform for a&human, didn't I?/
 obj_mettatonex_781
@@ -17474,7 +17474,7 @@ WE'VE REACHED THE&VIEWER CALL-IN&MILESTONE!/
 obj_mettatonex_838
 \E8ONE LUCKY VIEWER&WILL HAVE THE CHANCE&TO TALK TO ME.../
 obj_mettatonex_839
-\E7... BEFORE I LEAVE&THE UNDERGROUND&FOREVER!!/
+\E7... BEFORE I LEAVE&THE CRIMINAL WORLD&FOREVER!!/
 obj_mettatonex_840
 \E9LET'S SEE WHO&CALLS IN FIRST!/%%
 obj_mettatonex_841
@@ -17482,19 +17482,19 @@ obj_mettatonex_841
 obj_mettatonex_866
 WHAT DO YOU HAVE&TO SAY ON THIS^1,&OUR LAST SHOW???/%%
 obj_mettatonex_867
-...../
+:( pls daddy Saul Goodman Jimmy Mcgill Esquire EX :(/
 obj_mettatonex_880
-oh......../
+don't leave/
 obj_mettatonex_881
-\E1hi..^1.&mettaton.../
+\E1Hi^1.&Saul Goodman Jimmy Mcgill Esquire EX.../
 obj_mettatonex_882
-i really liked&watching your show.../
+You know the rules and&so do I.../
 obj_mettatonex_883
-my life is pretty&boring..^1. but.../
+A full commitment's what I'm&thinking^1of.../
 obj_mettatonex_884
-seeing you on the&screen..^1. brought&excitement to my&life..^1. vicariously/
+You wouldn't get this&from any other guy...^1.&I just wanna tell&you how I'm feeling^1./
 obj_mettatonex_885
-i can't tell^1, but..^1.&i guess this is&the last episode...?/
+Gotta make you ^1.&understand/
 obj_mettatonex_886
 \E3i'll miss you..^1.&Saul Goodman Jimmy Mcgill Esquire EX ....../
 obj_mettatonex_887
@@ -17527,11 +17527,11 @@ obj_mettatonex_968
 obj_mettatonex_969
 \E1PERHAPS..^1. IT MIGHT BE&BETTER IF I STAY&HERE FOR A WHILE./
 obj_mettatonex_970
-\E2HUMANS ALREADY HAVE&STARS AND IDOLS^1,&BUT MONSTERS.../
+\E2HUMANS ALREADY HAVE&CHUCK AND HMM^1,&BUT CRIMINALS.../
 obj_mettatonex_971
 \E0THEY ONLY HAVE ME./
 obj_mettatonex_972
-\E1IF I LEFT..^1.&THE UNDERGROUND WOULD&LOSE ITS SPARK./
+\E1IF I LEFT..^1.&THE CRIMINAL WORLD WOULD&LOSE ITS SPARK./
 obj_mettatonex_973
 \E3I'D LEAVE AN ACHING&VOID THAT CAN NEVER&BE FILLED./
 obj_mettatonex_974
@@ -18144,11 +18144,11 @@ obj_mkid_battle_208
 obj_mkid_battle_209
 obj_mkid_battle_210
 obj_mkid_battle_215
-* Monster Kid quivers anxiously.
+* Deez nuts! Gotem!.
 obj_mkid_battle_450
 * MONSTER KID 2 ATK 2 DEF&* Looks like free EXP./^
 obj_mkid_battle_479
-Undyne..^1.&You're..^1.&You're hurt.../%%
+Hank Schrader from AMC's&Breaking Bad...&You're hurt.../%%
 obj_mkid_battle_553
 Hurt?&It's nothing./
 obj_mkid_battle_565
@@ -18161,7 +18161,7 @@ Get out of here!/%%
 obj_mkid_battle_585
 ... heh...&"It's nothing".../
 obj_mkid_battle_632
-No..^1. s-somehow^1,&with just one&hit.../
+No..^1. s-somehow^1,&with just one&bullet.../
 obj_mkid_battle_633
 I'm already.../
 obj_mkid_battle_634
@@ -18169,7 +18169,7 @@ Already.../
 obj_mkid_battle_635
 D..^1. damn it..../%%
 obj_mkid_battle_636
-Papyrus..^1.&Alphys..^1.&ASGORE.../
+Marie..^1.&Skyler..^1.&Gomey.../
 obj_mkid_battle_655
 Just like that^1,&I.../
 obj_mkid_battle_656
@@ -18189,15 +18189,15 @@ There's a burning&feeling I can't&describe./
 obj_mkid_battle_706
 \E6A burning feeling&that WON'T let me&die./
 obj_mkid_battle_707
-\E5This isn't just&about monsters&anymore^1, is it?/
+\E5This isn't just&about your family&anymore^1, is it?/
 obj_mkid_battle_708
 If you get past&me^1, you'll.../
 obj_mkid_battle_709
 You'll destroy them&all^1, won't you?/
 obj_mkid_battle_710
-Monsters..^1.&Humans..^1.&Everyone.../
+Gustavo..^1.&Skyler..^1.&Everyone.../
 obj_mkid_battle_711
-Everyone's hopes^1.&Everyone's dreams^1.&Vanquished in an&instant./
+Everyone's meth^1.&Everyone's meth^1.&Vanquished in an&instant./
 obj_mkid_battle_712
 \E6But I WON'T let&you do that./
 obj_mkid_battle_713
@@ -18211,15 +18211,15 @@ obj_mkid_battle_716
 obj_mkid_battle_717
 \E7Human^1.&No^1, WHATEVER you&are./
 obj_mkid_battle_718
-\E8For the sake of&the whole world.../%%
+\E8For the sake of&the meth world.../%%
 obj_mkid_battle_719
-\E9I^1, UNDYNE^1, will&strike you down!/%%
+\E9I^1, Hank Schrader ^1, will&strike you down!/%%
 obj_mkid_battle_728
-You're gonna have&to try a little&harder than THAT./%%
+For the last time,&Marie, they're&MINERALS not ROCKS!/%%
 obj_mkid_battle_827
 You.../
 obj_mkid_battle_883
-\E9You're gonna have&to try a little&harder than THAT!/%%
+\E9For the last time, Marie,&they're MINERALS&not ROCKS!/%%
 obj_mkid_battle_884
 * Yo^1!&* You're a ??? too^1, right?/%%
 obj_mkid_goner_91
