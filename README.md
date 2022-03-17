@@ -19,7 +19,7 @@ Flowey - Hector Salamanca (just says ding)
 Asriel - Gustavo Fring  
 Alphys -  Gale Boetticher  
 Undyne - Hank Schrader    
-Monster Kid - Marie Schrader   
+Monster Kid - Mao Zedong   
 Mad Dummy - Tuco    
   
 Napstablook - ???  
