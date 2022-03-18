@@ -6809,9 +6809,9 @@ item_desc_53_0
 item_desc_54_0
 * "Cum" Heals 12 HP&* The goal of "sex."/%%
 item_desc_55_0
-* "Undyne's Letter" - Unique&* Letter written for Dr.&  Alphys./%%
+* "Hank Schrader from AMC's Breaking Bad&'s Letter" - Unique&* Letter written for Dr.&  Alphys./%%
 item_desc_56_0
-* "Undyne's Letter EX" - Unique&* It has DON'T DROP IT&  written on it./%%
+* "Hank Schrader from AMC's Breaking Bad&'s Letter EX" - Unique&* It has DON'T DROP IT&  written on it./%%
 item_desc_57_0
 * "Popato Chisps" Heals 13 HP&* Regular old popato chisps./%%
 item_desc_58_0
@@ -6919,7 +6919,7 @@ Toriel's Phone
 phonename_206
 Papyrus's Phone
 phonename_210
-Papyrus and Undyne
+Papyrus and Hank Schrader from AMC's Breaking Bad&
 Dimensional Box A
 phonename_220
 Dimensional Box B
@@ -7420,7 +7420,7 @@ NYEH..^1.&HEH..^1.&HEH!/%%
 \E1* ... I have to do&  something.&* Stay here./%%.
 \E2NYOO HOO HOO.../
 I CAN'T EVEN&STOP SOMEONE AS&WEAK AS YOU.../
-UNDYNE'S GOING TO&BE DISAPPOINTED&IN ME./
+Hank Schrader from AMC's Breaking Bad&'S GOING TO&BE DISAPPOINTED&IN ME./
 I'LL NEVER JOIN THE&ROYAL GUARD..^1.&AND.../
 MY FRIEND QUANTITY&WILL REMAIN&STAGNANT!/
 * (What should you say?)&         Let's be    What a&         friends     loser\C
@@ -7704,7 +7704,7 @@ IT'S OK TO BE&INTIMIDATED BY&MY FASHION SENSE./%%
 * Yo..^1. You're human^1, right?&* Haha./
 * Man^1! I knew it!/
 * ... well^1, I know it now^1,&  I mean.../
-* Undyne told me^1, um^1, "stay&  away from that human."/
+* Hank Schrader from AMC's Breaking Bad& told me^1, um^1, "stay&  away from that human."/
 * So^1, like^1, ummm.../
 * I guess that makes us enemies&  or something./
 * But I kinda stink at that^1,&  haha./
@@ -7721,12 +7721,12 @@ IT'S OK TO BE&INTIMIDATED BY&MY FASHION SENSE./%%
 * Here goes nothing.../
 * (It's a water cooler.)&* (Take a cup of water?)&         Yes         No \C
 * (There's no more water left&  in the cooler.)/%%
-* (Sadistically^1, you've poured&  out all the water right in&  front of Undyne's eyes.)/%%
+* (Sadistically^1, you've poured&  out all the water right in&  front of Hank Schrader from AMC's Breaking Bad&'s eyes.)/%%
 * (You take a cup of water.)/%%
 * (Get rid of the water?)& &         Yes         No \C
 * (You pour the water on&  the ground next to the&  water cooler.)/%%
 * A rousing error./%%
-* (Give Undyne the water?)& &         Yes         No \C
+* (Give Hank Schrader from AMC's Breaking Bad& the water?)& &         Yes         No \C
 * (She looks dry...)/%%
 REMEMBER WHEN&I ASKED YOU&ABOUT CLOTHES?/
 \E3WELL^1, THE FRIEND&WHO WANTED TO&KNOW.../
@@ -7789,7 +7789,7 @@ WOWIE^1!&YOU'RE SUCH A&SMART COOKIE!/
 I REALLY CAN&BE FRIENDS WITH&EVERYONE!!!/
 HEY^1!&WHAT'S UP!?/
 I WAS JUST&THINKING.../
-YOU^1, ME^1, AND&UNDYNE SHOULD ALL&HANG OUT SOMETIME!/
+YOU^1, ME^1, AND&Hank Schrader from AMC's Breaking Bad& SHOULD ALL&HANG OUT SOMETIME!/
 I THINK YOU&WOULD MAKE&GREAT PALS!/
 LET'S MEET UP&AT HER HOUSE&LATER!/
 AFTER YOU HANG&OUT WITH ME.../
@@ -7930,7 +7930,7 @@ YOU CAN DO IT^1,&HUMAN!!!/%%
 * (There's a switch on the&  trunk of this tree.)/
 * (Press it?)& &         Yes         No\C
 OHO^1!&THE HUMAN ARRIVES!/
-ARE YOU READY TO&HANG OUT WITH&UNDYNE?/
+ARE YOU READY TO&HANG OUT WITH&Hank Schrader from AMC's Breaking Bad&?/
 I HAVE A PLAN&TO MAKE YOU TWO&GREAT FRIENDS!/
 * (Will you hang out?)& &         Yes         No\C
 OKAY^1!&STAND BEHIND ME!/%%
@@ -8159,7 +8159,7 @@ TAKE YOUR TIME!/%%
 \E7* They all care about&  each other so much./
 \E0* And..^1. they care about&  you too^1, Frisk./
 \E7* I wish I could tell&  you how everyone&  feels about you./
-* Papyrus..^1. Sans..^1.&* Undyne..^1. Alphys.../
+* Papyrus..^1. Sans..^1.&* Hank Schrader from AMC's Breaking Bad&..^1. Alphys.../
 \E0* ... Toriel./
 \E7* Monsters are weird./
 \E5* Even though they barely&  know you.../
@@ -8266,10 +8266,10 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E3* Oh.../
 \E3* Okay./
 \E2* Frisk^1! Stop^1!&* You're breaking his&  big burly heart!/
-\E2* Um^1, it's OK^1, Undyne./
+\E2* Um^1, it's OK^1, Hank Schrader from AMC's Breaking Bad&./
 \E0* My heart's already&  broken./
 \E6* ASGORE^1! STOP^1!&* YOU'RE BREAKING MY&  BIG BURLY HEART!/
-\E9* Y-yeah^1, Asgore^1.&* Don't break Undyne's&  heart./
+\E9* Y-yeah^1, Asgore^1.&* Don't break Hank Schrader from AMC's Breaking Bad&'s&  heart./
 \E2* That's my job./
 \E2* OH MY GOD!&* YOU'RE GOING BACK&  IN THE TRASH!!!/
 \E0CAN I GO IN THE&TRASH TOO?/
@@ -8583,7 +8583,7 @@ Then^1, it is done./%%
    * Check         * Hope  &   * Dream
    * Error
    * Struggle
-\W   * Undyne     
+\W   * Hank Schrader from AMC's Breaking Bad&     
 \W   \Y* (Saved)    \W
    * Alphys \W &
    \Y* (Saved)\W &
@@ -8989,7 +8989,7 @@ obj_adate_417
 obj_adate_418
 Here we are!/
 obj_adate_476
-This is where Undyne&and I come all&the time.../
+This is where Hank Schrader from AMC's Breaking Bad&&and I come all&the time.../
 obj_adate_477
 \E1We find all sorts&of great stuff&here./
 obj_adate_478
@@ -9059,13 +9059,13 @@ obj_adate_677
 obj_adate_678
 \E8I\M0'm sorry^1.&I messed up again./
 obj_adate_679
-\E7Undyne's the person I..^1.&Um..^1. really want to&go on a date with./
+\E7Hank Schrader from AMC's Breaking Bad&'s the person I..^1.&Um..^1. really want to&go on a date with./
 obj_adate_680
 But, I mean..^1.&She's way out of&my league./
 obj_adate_681
 \E9N-not that you&aren't^1, um^1, cool!/
 obj_adate_682
-\E7B-but..^1. Undyne.../
+\E7B-but..^1. Hank Schrader from AMC's Breaking Bad&.../
 obj_adate_683
 She's so confident..^1.&And strong..^1.&And funny.../
 obj_adate_684
@@ -9119,7 +9119,7 @@ obj_adate_744
 obj_adate_745
 \M3They'll all get&hurt because of&me.../
 obj_adate_746
-\E9B\M4ut how can I&tell UNDYNE the&tr..^1. truth?/
+\E9B\M4ut how can I&tell Hank Schrader from AMC's Breaking Bad& the&tr..^1. truth?/
 obj_adate_747
 \E8I d-don't have the&confidence.../
 obj_adate_748
@@ -9167,15 +9167,15 @@ obj_adate_827
 obj_adate_828
 \E5.\M1.. That actually&sounds kind of&fun!/
 obj_adate_829
-\M0OK^1, which one of&us will be Undyne?/*
+\M0OK^1, which one of&us will be Hank Schrader from AMC's Breaking Bad&?/*
 obj_adate_830
-                              &   I'll be         You'll be&   Undyne          Undyne   
+                              &   I'll be         You'll be&   Hank Schrader from AMC's Breaking Bad&          Hank Schrader from AMC's Breaking Bad&   
 obj_adate_844
 Oh^1. Right^1.&Obviously^1.&Ehehe./
 obj_adate_868
 \E2A\M1hem./
 obj_adate_869
-\E0H-hi\M3 Undyne..^1.&H-how are you doing&today?/*
+\E0H-hi\M3 Hank Schrader from AMC's Breaking Bad&..^1.&H-how are you doing&today?/*
 obj_adate_870
                               &   I'm fine.       YOur &                      cute, 
 obj_adate_884
@@ -9204,7 +9204,7 @@ obj_adate_964
 obj_adate_965
 \E9Oh^1, forget it!/
 obj_adate_966
-\M0Undyne!!!/
+\M0Hank Schrader from AMC's Breaking Bad&!!!/
 obj_adate_967
 I..^1. I want to&tell you how I&feel!/
 obj_adate_968
@@ -9218,7 +9218,7 @@ obj_adate_971
 obj_adate_972
 \E9WH-WHAT!?/
 obj_adate_976
-\M1UNDYNE WOULD NEVER^1,&UH..../
+\M1Hank Schrader from AMC's Breaking Bad& WOULD NEVER^1,&UH..../
 obj_adate_977
 obj_adate_978
 \M0.../
@@ -9227,21 +9227,21 @@ obj_adate_979
 obj_adate_980
 \M4I..^1. l-look gently&into her eyes.../%%
 obj_adate_981
-UNDYNE!!!/
+Hank Schrader from AMC's Breaking Bad&!!!/
 obj_adate_997
 I CAN'T TAKE THIS&ANY LONGER!!!/
 obj_adate_998
 I'M MADLY IN LOVE&WITH YOU!!!/
 obj_adate_999
-HOLD ME^1, UNDYNE!^1!&HOLD ME!!!/%%
+HOLD ME^1, Hank Schrader from AMC's Breaking Bad&!^1!&HOLD ME!!!/%%
 obj_adate_1000
 I START HOLLERING!!/
 obj_adate_1006
-UNDYNE!!!^1!&I LOVE YOU!!!/
+Hank Schrader from AMC's Breaking Bad&!!!^1!&I LOVE YOU!!!/
 obj_adate_1007
-UNDYNE!!^1!&KISS ME AGAIN^1,&UNDYNE!!!/%%
+Hank Schrader from AMC's Breaking Bad&!!^1!&KISS ME AGAIN^1,&Hank Schrader from AMC's Breaking Bad&!!!/%%
 obj_adate_1008
-\E9M\M0-m-me^1?&Undyne???/
+\E9M\M0-m-me^1?&Hank Schrader from AMC's Breaking Bad&???/
 obj_adate_1023
 \E7Uh^1, uh^1, uh^1, uh^1,&ok!/
 obj_adate_1024
@@ -9255,7 +9255,7 @@ obj_adate_1027
 obj_adate_1028
 \E5Which I say often^1!&But platonically&because I would&NEVER like you./*
 obj_adate_1029
-   Hi Undyne!      Yo your&   Can we          one hot&   talk?           hotbaby
+   Hi Hank Schrader from AMC's Breaking Bad&!      Yo your&   Can we          one hot&   talk?           hotbaby
 obj_adate_1043
 Talk^1, to you^1?&Hmmm..^1.&I guess so./
 obj_adate_1069
@@ -9281,7 +9281,7 @@ obj_adate_1083
 obj_adate_1084
 \E9U\M0m^1! Anyway^1!&What do you&want to say^1,&Alphys!?/%%
 obj_adate_1085
-   Let's tell      Alphys&   Undyne the      gives u&   truth           a kiss,
+   Let's tell      Alphys&   Hank Schrader from AMC's Breaking Bad& the      gives u&   truth           a kiss,
 obj_adate_1108
 What!?/
 obj_adate_1132
@@ -9316,15 +9316,15 @@ ALPHYS^1!&I'LL NEVER LOVE YOU!/
 obj_adate_1167
 NEVER WILL YOU FEEL&MY PASSIONATE&EMBRACE!!!/
 obj_adate_1168
-I^1, UNDYNE^1, WILL&NEVER KISS YOU&WITH MY BEAUTIFUL&LIPS!!!/%%
+I^1, Hank Schrader from AMC's Breaking Bad&^1, WILL&NEVER KISS YOU&WITH MY BEAUTIFUL&LIPS!!!/%%
 obj_adate_1169
 NGAHHHH!!^1!&NGAHHH!!!!/
 obj_adate_1176
-I'M UNDYNE AND I'M&PILING ON THE&SMOOCHES!!!/%%
+I'M Hank Schrader from AMC's Breaking Bad& AND I'M&PILING ON THE&SMOOCHES!!!/%%
 obj_adate_1177
 WHAT did you just&say?/%%
 obj_adate_1236
-\E1U..^1. Undyne^1!&I..^1. was..^1. just.../%%
+\E1U..^1. Hank Schrader from AMC's Breaking Bad&^1!&I..^1. was..^1. just.../%%
 obj_adate_1259
 \F6Hey^1, woah^1, wait&a second!/
 obj_adate_1271
@@ -9352,7 +9352,7 @@ obj_adate_1300
 obj_adate_1311
 \E3I mean.../
 obj_adate_1312
-Undyne..^1.&I.../%%
+Hank Schrader from AMC's Breaking Bad&..^1.&I.../%%
 obj_adate_1313
 \F4I've been lying to&you!/%%
 obj_adate_1326
@@ -9389,7 +9389,7 @@ obj_adate_1445
 That I wasn't&some..^1.&nerdy loser./%%
 obj_adate_1446
 obj_adate_1459
-\E5Undyne^1, I..^1.&I really think you're&neat^1, OK.../%%
+\E5Hank Schrader from AMC's Breaking Bad&^1, I..^1.&I really think you're&neat^1, OK.../%%
 obj_adate_1470
 Alphys./
 obj_adate_1481
@@ -9423,7 +9423,7 @@ obj_adate_1532
 obj_adate_1533
 \F5And I know just&the training you&need to do that!/%%
 obj_adate_1534
-Undyne..^1.&You.../
+Hank Schrader from AMC's Breaking Bad&..^1.&You.../
 obj_adate_1566
 \E4Y-you're gonna train&me...?/%%
 obj_adate_1567
@@ -9437,7 +9437,7 @@ IT'S TIME TO JOG&100 LAPS^1, HOOTING&ABOUT HOW GREAT&WE ARE!!!/%%
 obj_adate_1613
 Ready^1?&I'm about to start&the timer!/%%
 obj_adate_1622
-\E5 & &    U-Undyne.../
+\E5 & &    U-Hank Schrader from AMC's Breaking Bad&.../
 obj_adate_1636
 \E1 & &    I'll do my&    best...!/%%
 obj_adate_1637
@@ -9548,13 +9548,13 @@ obj_alphys_friendc_84
 obj_alphys_friendc_85
 \E0* I sure am excited&  to finally use the&  human internet./
 obj_alphys_friendc_90
-\E7* I bet they have all&  sorts of things Undyne&  and I can watch!/
+\E7* I bet they have all&  sorts of things Hank Schrader from AMC's Breaking Bad&&  and I can watch!/
 obj_alphys_friendc_91
 \E6* Oh man!!!/
 obj_alphys_friendc_93
 * We're gonna be&  able to watch&  anime online!?/
 obj_alphys_friendc_94
-\E7* Of course^1, Undyne!/
+\E7* Of course^1, Hank Schrader from AMC's Breaking Bad&!/
 obj_alphys_friendc_96
 \E2* What do you think&  we've been fighting&  for all along?/
 obj_alphys_friendc_97
@@ -11082,7 +11082,7 @@ obj_controlspear_143
 obj_controlspear_154
 * Sugar - Goes in tea.
 obj_controlspear_165
-* Undyne.
+* Hank Schrader from AMC's Breaking Bad&.
 obj_controlspear_176
 * Fridge - Full of food.
 obj_controlspear_192
@@ -12168,9 +12168,9 @@ obj_endflowey_208
 obj_endflowey_211
 \E0Well, in the meantime^1,&why don't you go see&Dr. Alphys?/
 obj_endflowey_216
-\E0Well^1, in the meantime^1,&why don't you go see&Undyne?/
+\E0Well^1, in the meantime^1,&why don't you go see&Hank Schrader from AMC's Breaking Bad&?/
 obj_endflowey_219
-\E0Well^1, in the meantime^1,&why don't you go see&Papyrus^1, then Undyne?/
+\E0Well^1, in the meantime^1,&why don't you go see&Papyrus^1, then Hank Schrader from AMC's Breaking Bad&?/
 obj_endflowey_223
 \E9It seems like you&could have been&better friends./
 obj_endflowey_226
@@ -12208,7 +12208,7 @@ obj_endflowey_266
 obj_endflowey_267
 \E7All you had to&do was make friends./
 obj_endflowey_268
-With Papyrus^1, Undyne^1,&and then Alphys./
+With Papyrus^1, Hank Schrader from AMC's Breaking Bad&^1,&and then Alphys./
 obj_endflowey_269
 \E2But you were too&busy messing it up!/%%
 obj_endflowey_270
@@ -12271,7 +12271,7 @@ obj_endflowey_327
 obj_endflowey_328
 \E0For starters^1, you&can't do it by&yourself./
 obj_endflowey_329
-Papyrus^1, Undyne^1,&Alphys..^1. these guys./
+Papyrus^1, Hank Schrader from AMC's Breaking Bad&^1,&Alphys..^1. these guys./
 obj_endflowey_330
 \E4Are you friends with&all of them yet?/
 obj_endflowey_331
@@ -12491,7 +12491,7 @@ obj_endflowey_regret_156
 obj_endflowey_regret_157
 \E7YOU still have the&power to reset&everything./
 obj_endflowey_regret_158
-\E0Toriel^1, Sans^1, Asgore^1,&Alphys, Papyrus, Undyne.../
+\E0Toriel^1, Sans^1, Asgore^1,&Alphys, Papyrus, Hank Schrader from AMC's Breaking Bad&.../
 obj_endflowey_regret_159
 If you so choose.../
 obj_endflowey_regret_160
@@ -13378,7 +13378,7 @@ IF ANYONE FIGHTS&ANYONE...!/
 obj_friendscene_547
 THEN I'LL!!^1!&BE FORCED!!!/
 obj_friendscene_548
-TO ASK UNDYNE&FOR HELP!!!/%%
+TO ASK Hank Schrader from AMC's Breaking Bad&&FOR HELP!!!/%%
 obj_friendscene_549
 Hello!/%%
 obj_friendscene_572
@@ -13442,7 +13442,7 @@ There are plenty&of fish in the&sea.../%%
 obj_friendscene_864
 Y-yeah^1, ASGORE!!/
 obj_friendscene_880
-Undyne's totally&right about that&fish thing!/
+Hank Schrader from AMC's Breaking Bad&'s totally&right about that&fish thing!/
 obj_friendscene_881
 S-sometimes you've&just got to^1, uh.../
 obj_friendscene_882
@@ -13903,7 +13903,7 @@ obj_grillbynpc_doggo_80
 obj_grillbynpc_doggo_81
 * Papyrus^1?&* Is that you^1?& Come on.../%%
 obj_grillbynpc_doggo_86
-* Undyne!^1?&* Did you come all the way&  out here...?/%%
+* Hank Schrader from AMC's Breaking Bad&!^1?&* Did you come all the way&  out here...?/%%
 obj_grillbynpc_doggo_91
 * Huh^1?&* Since when did you and&  Sans become friends...?/
 obj_grillbynpc_doggo_96
@@ -13978,13 +13978,13 @@ obj_grillbynpc_grillby_78
 obj_grillbynpc_grillby_83
 * Grillbz said that your&  food is probably cold&  by now./%%
 obj_grillbynpc_grillby_84
-* Those dogs are part of&  the ROYAL GUARD^1, the elite&  military group led by UNDYNE./
+* Those dogs are part of&  the ROYAL GUARD^1, the elite&  military group led by Hank Schrader from AMC's Breaking Bad&./
 obj_grillbynpc_hot2_73
 * She's rude^1, loud^1, and beats up&  everybody who gets in her&  way.../
 obj_grillbynpc_hot2_74
 * It's no wonder all the kids&  want to be like her when&  they grow up!/%%
 obj_grillbynpc_hot2_75
-* I want to be like UNDYNE&  when I grow up^1, too^1!&* Hoo hoo hoo!/%%
+* I want to be like Hank Schrader from AMC's Breaking Bad&&  when I grow up^1, too^1!&* Hoo hoo hoo!/%%
 obj_grillbynpc_hot2_77
 * Sans is a sentry^1.&* But don't let his title make&  you think he does anything./
 obj_grillbynpc_hot2_81
@@ -14678,9 +14678,9 @@ obj_judgeshroom_232
 obj_judgeshroom_233
 * ... you're here./
 obj_killerboysnightout_event_101
-* So that means Undyne..^1.&* She's.../
+* So that means Hank Schrader from AMC's Breaking Bad&..^1.&* She's.../
 obj_killerboysnightout_event_102
-* Like^1, Undyne^1!&* We'll avenge you!/%%
+* Like^1, Hank Schrader from AMC's Breaking Bad&^1!&* We'll avenge you!/%%
 obj_killerboysnightout_event_103
 * OH^1, THERE YOU ARE./
 obj_killerlab_event_113
@@ -16043,7 +16043,7 @@ obj_mainend_299
 obj_mainend_300
 \E0SHE'S GONNA FIND A&WAY TO GET US OUT&OF HERE./
 obj_mainend_301
-UNDYNE IS HELPING&HER TOO!/
+Hank Schrader from AMC's Breaking Bad& IS HELPING&HER TOO!/
 obj_mainend_302
 \E3THOUGH^1, TO BE&HONEST^1, HER METHOD&OF HELPING.../
 obj_mainend_303
@@ -16079,7 +16079,7 @@ obj_mainend_320
 obj_mainend_321
 PAPYRUS IS FINE!/
 obj_mainend_322
-\E5UNDYNE IS THE&ONE THAT'S GOT&IT BAD!/
+\E5Hank Schrader from AMC's Breaking Bad& IS THE&ONE THAT'S GOT&IT BAD!/
 obj_mainend_323
 \E3SHE LOST HER&JOB.../
 obj_mainend_324
@@ -16140,7 +16140,7 @@ obj_mainend_353
 obj_mainend_354
 YOU SHOULD&PROBABLY NEVER&COME BACK HERE./
 obj_mainend_355
-\E3IF YOU DO^1, UNDYNE&WILL DEFINITELY&DESTROY YOU./
+\E3IF YOU DO^1, Hank Schrader from AMC's Breaking Bad&&WILL DEFINITELY&DESTROY YOU./
 obj_mainend_356
 \E5NOT EVEN THE QUEEN&CAN STOP HER./
 obj_mainend_357
@@ -16176,7 +16176,7 @@ IF YOU MADE THEM&DISAPPEAR?/
 obj_mainend_376
 \E6PLEASE.../
 obj_mainend_377
-UNDYNE'S NOT&DOING VERY WELL./
+Hank Schrader from AMC's Breaking Bad&'S NOT&DOING VERY WELL./
 obj_mainend_378
 BYE./%%
 obj_mainend_379
@@ -16283,7 +16283,7 @@ obj_mainend_466
 obj_mainend_467
 \E7* .../
 obj_mainend_469
-\E1* Come on^1, Undyne^1!&* Snap out of it!/
+\E1* Come on^1, Hank Schrader from AMC's Breaking Bad&^1!&* Snap out of it!/
 obj_mainend_470
 \E4* Uh^1, I guess I'll&  tell you how Alphys&  is doing./
 obj_mainend_471
@@ -16344,7 +16344,7 @@ BYE BYE FOR NOW!/
 obj_mainend_506
 * See ya^1, punk!/%%
 obj_mainend_508
-* H-hey^1, Undyne^1, are&  you okay...?/
+* H-hey^1, Hank Schrader from AMC's Breaking Bad&^1, are&  you okay...?/
 obj_mainend_524
 * I'm fine^1.&* Why don't you talk&  for a while?/
 obj_mainend_526
@@ -16601,7 +16601,7 @@ obj_mainend_824
 obj_mainend_825
 * sure^1, knock yourself&  out./
 obj_mainend_827
-HEY!!^1!&UNDYNE'S THE&EMPRESS NOW!!/
+HEY!!^1!&Hank Schrader from AMC's Breaking Bad&'S THE&EMPRESS NOW!!/
 obj_mainend_829
 IT'S AMAZING!!!/
 obj_mainend_830
@@ -16632,7 +16632,7 @@ THANK YOU^1, HUMAN!/
 obj_mainend_843
 COME BACK AND&VISIT SOMETIME!!/
 obj_mainend_844
-\E3WAIT..^1.&UNDYNE WOULD&PROBABLY KILL YOU./
+\E3WAIT..^1.&Hank Schrader from AMC's Breaking Bad& WOULD&PROBABLY KILL YOU./
 obj_mainend_845
 \E0BUT..^1.&YOU'D GET TO&SEE ME./
 obj_mainend_846
@@ -16745,7 +16745,7 @@ obj_mainend_943
 obj_mainend_944
 \E5FOR ANYONE THAT&DOESNT WORSHIP&Saul./
 obj_mainend_945
-\E3AND MINUS THE FACT&THAT MY FRIEND&UNDYNE IS MISSING./
+\E3AND MINUS THE FACT&THAT MY FRIEND&Hank Schrader from AMC's Breaking Bad& IS MISSING./
 obj_mainend_946
 WHO KNOWS WHERE&SHE WENT./
 obj_mainend_947
@@ -16787,7 +16787,7 @@ obj_mainend_994
 obj_mainend_996
 \E3IT'S STRANGE./
 obj_mainend_997
-\E3ASGORE^1, ALPHYS^1,&Saul^1, AND&UNDYNE WENT AWAY./
+\E3ASGORE^1, ALPHYS^1,&Saul^1, AND&Hank Schrader from AMC's Breaking Bad& WENT AWAY./
 obj_mainend_998
 \E0SANS SAYS THEY&WENT ON VACATION./
 obj_mainend_999
@@ -16853,7 +16853,7 @@ SOMETIMES, EVEN MY&BEST&ENCOURAGEMENT.../
 obj_mainend_1032
 DOESN'T WORK./
 obj_mainend_1033
-AND^1, AND^1, I MISS&UNDYNE^1, TOO./
+AND^1, AND^1, I MISS&Hank Schrader from AMC's Breaking Bad&^1, TOO./
 obj_mainend_1034
 SHE NEVER ANSWERS&MY PHONE CALLS.../
 obj_mainend_1035
@@ -16978,7 +16978,7 @@ obj_mainend_1149
 obj_mainend_1150
 \E4* Was hope you would&  destroy me^1, too./
 obj_mainend_1151
-\E1* But when Undyne called^1,&  with crazed desperation&  in her voice.../
+\E1* But when Hank Schrader from AMC's Breaking Bad& called^1,&  with crazed desperation&  in her voice.../
 obj_mainend_1152
 \E0* I..^1.&* I realized I had to do&  something./
 obj_mainend_1153
@@ -17011,7 +17011,7 @@ obj_mainend_1166
 obj_mainend_1167
 \E3* What I should have&  said./
 obj_mainend_1168
-\E6* Undyne..^1.&* Asgore.../
+\E6* Hank Schrader from AMC's Breaking Bad&..^1.&* Asgore.../
 obj_mainend_1169
 * Saul.../
 obj_mainend_1170
@@ -18135,7 +18135,7 @@ obj_mkid_actor_339
 obj_mkid_actor_340
 * That got me thinking.../
 obj_mkid_actor_341
-* YO^1!&* How COOL would it be if&  UNDYNE came to school!?/
+* YO^1!&* How COOL would it be if&  Hank Schrader from AMC's Breaking Bad& came to school!?/
 obj_mkid_actor_342
 * She could beat up ALL&  the teachers!!/%%
 obj_mkid_actor_343
@@ -18146,9 +18146,9 @@ obj_mkid_battle_210
 obj_mkid_battle_215
 * Deez nuts! Gotem!.
 obj_mkid_battle_450
-* MONSTER KID 2 ATK 2 DEF&* Looks like free EXP./^
+* Mao Zedong 20 ATK 234 DEF&* A funny communist man./^
 obj_mkid_battle_479
-Hank Schrader from AMC's&Breaking Bad...&You're hurt.../%%
+Hank Schrader&from AMC's&Breaking Bad...&You're hurt.../%%
 obj_mkid_battle_553
 Hurt?&It's nothing./
 obj_mkid_battle_565
@@ -18377,13 +18377,13 @@ obj_monsterkidtrigger3_173
 obj_monsterkidtrigger3_174
 * Let's go!/%%
 obj_monsterkidtrigger3_201
-* Yo^1, I already looked^1,&  Undyne's not over here./
+* Yo^1, I already looked^1,&  Hank Schrader from AMC's Breaking Bad&'s not over here./
 obj_monsterkidtrigger3_284
 * So I guess I'll see&  ya later^1, haha./%%
 obj_monsterkidtrigger3_285
 * See ya later!/%%
 obj_monsterkidtrigger3_286
-* Man^1, Undyne is sooooooo&  cool./
+* Man^1, Hank Schrader from AMC's Breaking Bad& is sooooooo&  cool./
 obj_monsterkidtrigger4_66
 * She beats up bad guys and&  NEVER loses./
 obj_monsterkidtrigger4_67
@@ -18395,7 +18395,7 @@ obj_monsterkidtrigger4_69
 obj_monsterkidtrigger5_91
 * She's too cool to ever&  hurt an innocent person!/%%
 obj_monsterkidtrigger5_92
-* Yo^1, you wanna see&  Undyne^1, right...?/
+* Yo^1, you wanna see&  Hank Schrader from AMC's Breaking Bad&^1, right...?/
 obj_monsterkidtrigger6_192
 * Climb on my shoulders./%%
 obj_monsterkidtrigger6_193
@@ -18409,23 +18409,23 @@ obj_monsterkidtrigger6_273
 obj_monsterkidtrigger6_276
 * Anyway^1, I'll look for&  another way through^1.&* Later!/%%
 obj_monsterkidtrigger6_277
-* Yo!/%%
+* What's up my nigga?/%%
 obj_monsterkidtrigger7_124
 * Yo./
 obj_monsterkidtrigger7_214
-* Undyne told me to stay&  away from you./
+* Hank Schrader from AMC's Breaking Bad& told me to stay away from you./
 obj_monsterkidtrigger7_215
-* She said you..^1.&* You hurt a lot of people./
+* Hank Schrader from AMC's Breaking Bad^1.&* said you cook meth./
 obj_monsterkidtrigger7_216
 obj_monsterkidtrigger7_217
-* But^1, yo^1, that's not true^1,&  right!?/
+* But^1, nigga^1, that's not true^1,&  right!?/
 obj_monsterkidtrigger7_218
 obj_monsterkidtrigger7_219
-* ... yo..^1.&* Why won't you answer me?/
+* ... nigga..^1.&* Why won't you answer me?/
 obj_monsterkidtrigger7_220
-* A..^1. a..^1. and what's with&  that weird expression...?/%%
+* A..^1. a..^1. and what's with&  that SEXY expression...?/%%
 obj_monsterkidtrigger7_221
-* Yo^1, dude..^1.&* I..^1. I heard some things^1,&  and.../
+* Yo^1, nigga..^1.&* I..^1. I heard some things^1,&  and.../
 obj_monsterkidtrigger7_225
 * What^1?&* Look over here^1?&* What for  %%
 obj_monsterkidtrigger7_226
@@ -18435,7 +18435,7 @@ obj_monsterkidtrigger7_309
 obj_monsterkidtrigger7_379
 * I..^1.&* I'm slipping!/%%
 obj_monsterkidtrigger7_417
-* Undyne..^1. you saved me...?/
+* Hank Schrader from AMC's Breaking Bad&..^1. you saved me...?/
 obj_monsterkidtrigger7_490
 * Yo^1, I thought I was a&  goner^1, haha.../
 obj_monsterkidtrigger7_491
@@ -18456,7 +18456,7 @@ obj_monsterkidtrigger7_498
 obj_monsterkidtrigger7_499
 * W-warriors don't rest^1, huh?/
 obj_monsterkidtrigger7_500
-* Undyne..^1. you're really cool./%%
+* Hank Schrader from AMC's Breaking Bad&..^1. you're really cool./%%
 obj_monsterkidtrigger7_501
 * Y..^1. y..^1. yo..^1. dude.../
 obj_monsterkidtrigger7_643
@@ -18482,7 +18482,7 @@ obj_monsterkidtrigger7_757
 obj_monsterkidtrigger7_836
 * (Man^1, my h-heart's pounding&  right out of my chest...)/
 obj_monsterkidtrigger7_837
-* (... what would Undyne do?)/
+* (... what would Hank Schrader from AMC's Breaking Bad& do?)/
 obj_monsterkidtrigger7_838
 obj_monsterkidtrigger7_839
 * Yo.../
@@ -18497,9 +18497,9 @@ obj_monsterkidtrigger7_843
 obj_monsterkidtrigger7_844
 * S-see^1?&* I knew y-you weren't so&  bad!/
 obj_monsterkidtrigger7_901
-* I've gotta go tell Undyne&  she was wrong about you!/%%
+* I've gotta go tell Hank Schrader from AMC's Breaking Bad&&  she was wrong about you!/%%
 obj_monsterkidtrigger7_902
-* Undyne..^1.&* You...^1.&* You saved me!/
+* Hank Schrader from AMC's Breaking Bad&..^1.&* You...^1.&* You saved me!/
 obj_monsterkidtrigger8_85
 * Huh^1?&* They ran away?/
 obj_monsterkidtrigger8_86
@@ -18850,7 +18850,7 @@ obj_napstablook_actor_144
 obj_napstablook_actor_152
 * ..... oh^1, hi/
 obj_napstablook_actor_153
-* what^1? undyne says hi^1?&* then tell her...^1.&* i say.........../
+* what^1? Hank Schrader from AMC's Breaking Bad& says hi^1?&* then tell her...^1.&* i say.........../
 obj_napstablook_actor_157
 * ......................&  ...... something cool./
 obj_napstablook_actor_158
@@ -19163,7 +19163,7 @@ obj_notify_room_284
 obj_notify_room_285
 \YALPHYS updated status.\W &* OMG I DID IT!!!/
 obj_notify_room_307
-* claws haven't shook like that&  since undyne called me to ask&  about the weather... v.v/%%
+* claws haven't shook like that&  since Hank Schrader from AMC's Breaking Bad& called me to ask&  about the weather... v.v/%%
 obj_notify_room_308
 \YALPHYS updated status.\W &* WAIT THERE'S NO WEATHER DOWN&  HERE WHY DID SHE CALL ME/%%
 obj_notify_room_314
@@ -19179,7 +19179,7 @@ obj_notify_room_372
 obj_notify_room_378
 \YALPHYS updated status.\W &* well i know she's unbeatable&  i'll ask her abt it later ^0.^0 /%%
 obj_notify_room_385
-\YALPHYS updated status.\W &* just realized i didn't watch&  undyne fight the human v.v/%%
+\YALPHYS updated status.\W &* just realized i didn't watch&  Hank Schrader from AMC's Breaking Bad& fight the human v.v/%%
 obj_notify_room_391
 obj_notify_room_398
 * (It's a trash can.)/
@@ -19550,7 +19550,7 @@ obj_onionsan_event_227
 obj_onionsan_event_228
 \M3* And the aquarium's full^1,&  a-anyway^1, so^1, even if I&  wanted to^1, I.../
 obj_onionsan_event_241
-\M1* That's okay though^1, y'hear!&* Undyne's gonna fix&  everything^1, y'hear!/
+\M1* That's okay though^1, y'hear!&* Hank Schrader from AMC's Breaking Bad&'s gonna fix&  everything^1, y'hear!/
 obj_onionsan_event_242
 * I'm gonna get out of here&  and live in the ocean^1!&* Y'hear!/%%
 obj_onionsan_event_243
@@ -19608,7 +19608,7 @@ obj_outsideworld_event_160
 obj_outsideworld_event_183
 \E6* Papyrus^1, wait!!!/%%
 obj_outsideworld_event_184
-\E0* Hey^1, Undyne!^1!&* Wait up!!/%%
+\E0* Hey^1, Hank Schrader from AMC's Breaking Bad&!^1!&* Wait up!!/%%
 obj_outsideworld_event_219
 * Whoops./%%
 obj_outsideworld_event_255
@@ -20110,13 +20110,13 @@ obj_papdate_1127
 obj_papdate_1128
 \E0HEY^1, I KNOW THE&SOLUTION!!!/
 obj_papdate_1129
-YOU SHOULD HANG&OUT WITH MY BOSS^1,&UNDYNE!!!/
+YOU SHOULD HANG&OUT WITH MY BOSS^1,&Hank Schrader from AMC's Breaking Bad&!!!/
 obj_papdate_1130
 I THINK IF YOU&SPREAD YOUR FRIEND-&ENERGY OUT MORE.../
 obj_papdate_1131
 YOU'LL HAVE A MORE&HEALTHY LIFESTYLE./
 obj_papdate_1132
-YEAH!!^1!&LET'S BE FRIENDS&WITH UNDYNE!!!/
+YEAH!!^1!&LET'S BE FRIENDS&WITH Hank Schrader from AMC's Breaking Bad&!!!/
 obj_papdate_1133
 obj_papdate_1134
 OH^1, AND IF YOU&EVER NEED TO&REACH ME.../
@@ -20164,7 +20164,7 @@ obj_papmailbox_78
 obj_papmailbox_79
 * Oh my god^1!&* The letter's not&  to PAPYRUS!!!/
 obj_papmailbox_96
-YEAH^1, UNDYNE'S&GOT A POINT!/
+YEAH^1, Hank Schrader from AMC's Breaking Bad&'S&GOT A POINT!/
 obj_papmailbox_98
 \E0WHY DIDN'T SHE&WRITE A LETTER&TO ME INSTEAD?/
 obj_papmailbox_99
@@ -20223,7 +20223,7 @@ obj_paptv_157
 * (It says "STAY TUNED FOR&  A NEW PROGRAM - MTT.")/%%
 obj_paptv_159
 obj_paptv_160
-SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
+SO^1, AS I&WAS SAYING&ABOUT Hank Schrader from AMC's Breaking Bad&,/%%
 obj_papyrus1_407
 \E2SO SANS^1!&WHEN'S THE HUMAN&SHOWING UP???/
 obj_papyrus1_411
@@ -20284,7 +20284,7 @@ OH MY GOD!!!/
 obj_papyrus1_607
 SANS!&I FINALLY&DID IT!!/
 obj_papyrus1_608
-UNDYNE WILL.../
+Hank Schrader from AMC's Breaking Bad& WILL.../
 obj_papyrus1_609
 I'M GONNA.../
 obj_papyrus1_610
@@ -20488,7 +20488,7 @@ obj_papyrus4_409
 obj_papyrus4_411
 EVERYONE LIKES&JAPES!!!/
 obj_papyrus4_413
-* what about undyne^1?&* doesn't she hate&  puzzles?/
+* what about Hank Schrader from AMC's Breaking Bad&^1?&* doesn't she hate&  puzzles?/
 obj_papyrus4_415
 SHE HATES PUZZLES^1.&BUT SHE LOVES&JAPES./
 obj_papyrus4_417
@@ -20641,7 +20641,7 @@ YOU'RE STILL&COMPLETELY WRONG!/
 obj_papyrus7_280
 I JUST HAVE THE&WRONG AUDIENCE!/
 obj_papyrus7_281
-THINK ABOUT HOW&MUCH FUN UNDYNE&WOULD HAVE HERE!/
+THINK ABOUT HOW&MUCH FUN Hank Schrader from AMC's Breaking Bad&&WOULD HAVE HERE!/
 obj_papyrus7_282
 FLAMES^1, VIOLENCE^1.&IT'S RIGHT UP HER&ALLEY!/
 obj_papyrus7_283
@@ -20976,7 +20976,7 @@ ASK AGAIN FOR&MORE GREAT HINTS!!/%%
 obj_papyrus_room_136
 Error, Pepibs./%%
 obj_papyrus_room_157
-I ASKED UNDYNE&IF WE COULD&ALL HANG.../
+I ASKED Hank Schrader from AMC's Breaking Bad&&IF WE COULD&ALL HANG.../
 obj_papyrus_room_161
 \E3BUT SHE SAID&SOMETHING WEIRD./
 obj_papyrus_room_162
@@ -21010,7 +21010,7 @@ obj_papyrus_room_177
 obj_papyrus_room_178
 \E0YOU'LL HAVE TO&SPEND TIME WITH&NOT ME./%%
 obj_papyrus_room_179
-HEY^1! READY TO&HANG OUT WITH&UNDYNE???/
+HEY^1! READY TO&HANG OUT WITH&Hank Schrader from AMC's Breaking Bad&???/
 obj_papyrus_room_185
 GREAT!!^1!&ME TOO!!!/
 obj_papyrus_room_186
@@ -21030,7 +21030,7 @@ I'LL CALL YOU&WHEN SHE GETS&HERE^1, OKAY!?/%%
 obj_papyrus_room_193
 NOPE!^1!&SHE ISN'T HERE&YET!!!/%%
 obj_papyrus_room_196
-UNDYNE'S HOME^1,&BUT SHE ISN'T&FEELING WELL./
+Hank Schrader from AMC's Breaking Bad&'S HOME^1,&BUT SHE ISN'T&FEELING WELL./
 obj_papyrus_room_202
 \E5I DON'T THINK WE&CAN HANG OUT./
 obj_papyrus_room_203
@@ -21050,7 +21050,7 @@ obj_papyrus_room_209
 obj_papyrus_room_210
 SO^1, I GUESS YOU&CAN RUN ALONG./%%
 obj_papyrus_room_211
-UNDYNE IS SICK^1,&SO SHE CAN'T&PLAY TODAY./%%
+Hank Schrader from AMC's Breaking Bad& IS SICK^1,&SO SHE CAN'T&PLAY TODAY./%%
 obj_papyrus_room_214
 obj_papyrus_room_220
 GREAT!!^1!&BECAUSE SHE'S NOT&EVEN HERE./
@@ -21070,11 +21070,11 @@ obj_papyrus_room_248
 obj_papyrus_room_249
 HEY^1, I HAVE A&GREAT IDEA./
 obj_papyrus_room_253
-LET'S HANG OUT&WITH UNDYNE&LATER./
+LET'S HANG OUT&WITH Hank Schrader from AMC's Breaking Bad&&LATER./
 obj_papyrus_room_254
 I'LL CALL YOU&WHEN I'M READY!/%%
 obj_papyrus_room_255
-I'M SO GLAD YOU&AND UNDYNE ARE&FRIENDS NOW./
+I'M SO GLAD YOU&AND Hank Schrader from AMC's Breaking Bad& ARE&FRIENDS NOW./
 obj_papyrus_room_259
 YOU TWO GO&TOGETHER LIKE&PASTA AND BURNING!/%%
 obj_papyrus_room_260
@@ -21088,11 +21088,11 @@ obj_papyrus_room_265
 obj_papyrus_room_266
 \E0JUST SEE-YOU-&LATERS./%%
 obj_papyrus_room_267
-IT SEEMS UNDYNE&HAS SOMETHING&FOR YOU./
+IT SEEMS Hank Schrader from AMC's Breaking Bad&&HAS SOMETHING&FOR YOU./
 obj_papyrus_room_272
 SHE'S THE PERSON&THAT'S NOT ME./%%
 obj_papyrus_room_273
-UNDYNE WRITES A&LOT OF LETTERS./
+Hank Schrader from AMC's Breaking Bad& WRITES A&LOT OF LETTERS./
 obj_papyrus_room_278
 \E3BUT^1, SHE CAN NEVER&SEEM TO FIND THE&RIGHT WORDS./
 obj_papyrus_room_279
@@ -21193,7 +21193,7 @@ obj_papyrusboss_577
 obj_papyrusboss_578
  PAPYRUS:& UNPARALLELED& SPAGHETTORE!
 obj_papyrusboss_579
- UNDYNE WILL BE& REALLY PROUD& OF ME!!
+ Hank Schrader from AMC's Breaking Bad& WILL BE& REALLY PROUD& OF ME!!
 obj_papyrusboss_580
  THE KING WILL& TRIM A HEDGE& IN THE SHAPE& OF MY SMILE!!!
 obj_papyrusboss_581
@@ -22601,7 +22601,7 @@ obj_readable_room2_266
 obj_readable_room2_268
 ISN'T THAT FLAG&NEATO?/
 obj_readable_room2_276
-UNDYNE FOUND IT&AT THE BAY.../
+Hank Schrader from AMC's Breaking Bad& FOUND IT&AT THE BAY.../
 obj_readable_room2_277
 \E3I THINK IT'S FROM&THE HUMAN WORLD?/
 obj_readable_room2_278
@@ -22756,7 +22756,7 @@ obj_readable_room2_493
 obj_readable_room2_495
 NO!!^1!&I'VE NEVER THOUGHT&OF THAT!!!/
 obj_readable_room2_497
-THAT'S WHY WE'RE&FRIENDS^1,&UNDYNE./
+THAT'S WHY WE'RE&FRIENDS^1,&Hank Schrader from AMC's Breaking Bad&./
 obj_readable_room2_498
 YOU ENRICH MY&LIFE WITH SHED-&BASED PUNS./
 obj_readable_room2_499
@@ -22768,7 +22768,7 @@ READY FOR ANOTHER&NIGHT IN THE&PUNISHMENT SHACK?/
 obj_readable_room2_509
 * Oh my GOD^1, I don't&  even wanna KNOW./
 obj_readable_room2_511
-DON'T BE SO&JUDGMENTAL^1,&UNDYNE./
+DON'T BE SO&JUDGMENTAL^1,&Hank Schrader from AMC's Breaking Bad&./
 obj_readable_room2_513
 MY SHACK IS A&FOUR STAR&ESTABLISHMENT./
 obj_readable_room2_514
@@ -23519,11 +23519,11 @@ Well^1, some humans&are OK^1, I guess!/%%
 obj_ripoff_undyne_748
 * "The true final battle" was&  finally beginning.
 obj_roundedge_135
-* Sorry..^1. UNDYNE^1, like^1, told&  us there was totally a&  human in the area./
+* Sorry..^1. Hank Schrader from AMC's Breaking Bad&^1, like^1, told&  us there was totally a&  human in the area./
 obj_royal_rabbitbounce_87
 * So^1, like^1, us Royal Guards are&  blocking off the elevators&  for now./
 obj_royal_rabbitbounce_88
-* Ngah^1! Even if the elevators&  aren't working anyway^1, we'll&  do our best^1, Ms. UNDYNE!/%%
+* Ngah^1! Even if the elevators&  aren't working anyway^1, we'll&  do our best^1, Ms. Hank Schrader from AMC's Breaking Bad&!/%%
 obj_royal_rabbitbounce_89
 * Like^1, NO WAY you're getting&  by us./
 obj_royal_rabbitbounce_93
@@ -23541,11 +23541,11 @@ obj_royal_rabbitbounce_102
 obj_royal_rabbitbounce_107
 * We're^1, like^1, taking a rain&  check on that killing-you&  thing./
 obj_royal_rabbitbounce_108
-* Like^1, don't tell Undyne&  about this^1, OK?/%%
+* Like^1, don't tell Hank Schrader from AMC's Breaking Bad&&  about this^1, OK?/%%
 obj_royal_rabbitbounce_109
 * You didn't tell her^1, did&  you...?/%%
 obj_royal_rabbitbounce_113
-* Undyne told us that the&  Royal Guard is being disbanded./
+* Hank Schrader from AMC's Breaking Bad& told us that the&  Royal Guard is being disbanded./
 obj_royal_rabbitbounce_118
 * Like^1, bummer..^1.&* Guess we'll have to get&  used to Love and Peace./%%
 obj_royal_rabbitbounce_119
@@ -23614,7 +23614,7 @@ obj_sans_friendc_116
 obj_sans_friendc_118
 \E6* Go to your room^1,&  Papyrus!/
 obj_sans_friendc_119
-\E5OK^1, UNDYNE./
+\E5OK^1, Hank Schrader from AMC's Breaking Bad&./
 obj_sans_friendc_121
 \E1* Wait^1!&* Don't ACTUALLY go&  to your room!!/
 obj_sans_friendc_123
@@ -24686,7 +24686,7 @@ obj_shop2_586
 obj_shop2_587
 \E2* At least by talking to&  you^1, I've bought enough time&  for some of them to escape./%%
 obj_shop2_588
-\E0* Undyne^1?&* Yeah^1, she's a local hero&  around here./
+\E0* Hank Schrader from AMC's Breaking Bad&^1?&* Yeah^1, she's a local hero&  around here./
 obj_shop2_595
 \E4* Throit and on&  alone^1, she ougther way to  the to of te Rya Guard./
 obj_shop2_596
@@ -24694,11 +24694,11 @@ obj_shop2_596
 obj_shop2_597
 \E0* I'd watch your back^1, kid^1.&* And buy some items..^1.&* It might just save your hide^1!&* Wa ha ha!/%%
 obj_shop2_598
-\E0* Undyne^1.&* She's really come a long way&  since she was a little&  urchin./
+\E0* Hank Schrader from AMC's Breaking Bad&^1.&* She's really come a long way&  since she was a little&  urchin./
 obj_shop2_601
 \E2* I used to be a hero myself^1,&  back in the old days^1.&* Gerson^1, the Hammer of Justice./
 obj_shop2_602
-\E3* When she was younger^1, Undyne&  would follow me around^1, to&  watch me beat up bad guys.../
+\E3* When she was younger^1, Hank Schrader from AMC's Breaking Bad&&  would follow me around^1, to&  watch me beat up bad guys.../
 obj_shop2_603
 \E0* Sometimes she'd even try&  to help!/
 obj_shop2_604
@@ -26253,7 +26253,7 @@ obj_spagnot_115
 obj_spagnot_120
 WHAT!^1?&THAT'S IMPOSSIBLE./%%
 obj_spagnot_124
-SORRY^1, I HAVE TO LOCK&YOU IN THE GUEST ROOM&UNTIL UNDYNE ARRIVES./
+SORRY^1, I HAVE TO LOCK&YOU IN THE GUEST ROOM&UNTIL Hank Schrader from AMC's Breaking Bad& ARRIVES./
 obj_spagnot_127
 FEEL FREE TO MAKE&YOURSELF AT HOME!!!/
 obj_spagnot_128
@@ -27887,7 +27887,7 @@ obj_townnpc_bear1_88
 obj_townnpc_bear1_89
 * Too bad there are no&  politics on the surface./%%
 obj_townnpc_bear1_93
-* Hmmm^1, usually that skeleton&  goes to meet with Undyne&  about now./
+* Hmmm^1, usually that skeleton&  goes to meet with Hank Schrader from AMC's Breaking Bad&&  about now./
 obj_townnpc_bear1_99
 * Where is he...^1?&* I can feel our political&  system crumbling apart.../%%
 obj_townnpc_bear1_100
@@ -28016,7 +28016,7 @@ obj_townnpc_monsterkid1_88
 obj_townnpc_monsterkid1_89
 * ... but now I'm just kinda&  mad^1, ha ha./
 obj_townnpc_monsterkid1_90
-* If Undyne hadn't saved me^1,&  that woulda been bad.../%%
+* If Hank Schrader from AMC's Breaking Bad& hadn't saved me^1,&  that woulda been bad.../%%
 obj_townnpc_monsterkid1_91
 obj_townnpc_monsterkid1_93
 * Yo..^1.&* Uh.../
@@ -28028,7 +28028,7 @@ obj_townnpc_monsterkid1_100
 obj_townnpc_monsterkid1_104
 * I've been kinda^1, doing&  some thinking.../
 obj_townnpc_monsterkid1_105
-* Maybe Undyne...&* Isn't actually as cool as&  we thought./
+* Maybe Hank Schrader from AMC's Breaking Bad&...&* Isn't actually as cool as&  we thought./
 obj_townnpc_monsterkid1_106
 * She's just kinda..^1. mean./
 obj_townnpc_monsterkid1_107
@@ -28042,7 +28042,7 @@ obj_townnpc_monsterkid1_111
 obj_townnpc_monsterkid1_117
 * Man^1, adults can be so&  dumb sometimes^1, haha.../
 obj_townnpc_monsterkid1_118
-* Don't they know we've&  got Undyne to protect us!?/%%
+* Don't they know we've&  got Hank Schrader from AMC's Breaking Bad& to protect us!?/%%
 obj_townnpc_monsterkid1_119
 * Yo^1!&* Are you sneaking out to&  see her^1, too?/
 obj_townnpc_monsterkid1_122
@@ -28145,7 +28145,7 @@ obj_townnpc_weirdfish_73
 obj_townnpc_weirdfish_74
 * I'm literally going to make&  out with a fish./%%
 obj_townnpc_weirdfish_75
-* I guess I could ask out Undyne^1.&* But I think she likes someone&  already./%%
+* I guess I could ask out Hank Schrader from AMC's Breaking Bad&^1.&* But I think she likes someone&  already./%%
 obj_townnpc_weirdfish_76
 * Did I catch anyone yet^1?&* I can't bear to look.../%%
 obj_townnpc_weirdfish_80
@@ -28434,7 +28434,7 @@ obj_umbrellabox_62
 * (The cavern is too narrow&  for an umbrella.)/%%
 obj_umbrellabox_135
 obj_undyne1_154
-\M5H..^1. HI^1, UNDYNE!&I'M HERE WITH MY&DAILY REPORT.../
+\M5H..^1. HI^1, Hank Schrader from AMC's Breaking Bad&!&I'M HERE WITH MY&DAILY REPORT.../
 obj_undyne1_155
 UHHH... REGARDING THAT&HUMAN I CALLED YOU&ABOUT EARLIER.../
 obj_undyne1_156
@@ -28452,7 +28452,7 @@ obj_undyne1_161
 obj_undyne1_162
 \M1NO./
 obj_undyne1_163
-\M1I TRIED VERY HARD^1,&UNDYNE^1, BUT IN THE&END.../
+\M1I TRIED VERY HARD^1,&Hank Schrader from AMC's Breaking Bad&^1, BUT IN THE&END.../
 obj_undyne1_164
 \M0I FAILED./
 obj_undyne1_165
@@ -28460,7 +28460,7 @@ obj_undyne1_165
 obj_undyne1_166
 \M1YOU'RE GOING TO TAKE&THE HUMAN'S SOUL&YOURSELF.../
 obj_undyne1_167
-\M5BUT UNDYNE^1, YOU DON'T&H-HAVE TO DESTROY&THEM^1! \M0YOU SEE.../
+\M5BUT Hank Schrader from AMC's Breaking Bad&^1, YOU DON'T&H-HAVE TO DESTROY&THEM^1! \M0YOU SEE.../
 obj_undyne1_168
 \M1YOU SEE.../%%
 obj_undyne1_169
@@ -28501,11 +28501,11 @@ obj_undyne1_551
 obj_undyne_echoflower_96
 * You aren't gonna tell my&  parents about this^1, are you?/%%
 obj_undyne_echoflower_102
-* Undyne!!^1!&* I'll help you fight!!!/%%
+* Hank Schrader from AMC's Breaking Bad&!!^1!&* I'll help you fight!!!/%%
 obj_undyne_echoflower_299
 * YO!!!!/
 obj_undyne_echoflower_348
-* You did it!!^1!&* Undyne is RIGHT in front&  of you!!!/
+* You did it!!^1!&* Hank Schrader from AMC's Breaking Bad& is RIGHT in front&  of you!!!/
 obj_undyne_echoflower_349
 * You've got front row seats&  to her fight!!!/%%
 obj_undyne_echoflower_350
@@ -28602,7 +28602,7 @@ obj_undyne_friendc_133
 \E2* I guarantee it!!!/
 obj_undyne_friendc_134
 obj_undyne_friendc_135
-* (You got the Undyne Letter&  EX.)/%%
+* (You got the Hank Schrader from AMC's Breaking Bad& Letter&  EX.)/%%
 obj_undyne_friendc_136
 * Hey^1, I have something&  to give you.../
 obj_undyne_friendc_149
@@ -28627,7 +28627,7 @@ obj_undyne_friendc_162
 \E3* So here you go./
 obj_undyne_friendc_163
 obj_undyne_friendc_164
-* (You got the Undyne's Letter.)/
+* (You got the Hank Schrader from AMC's Breaking Bad&'s Letter.)/
 obj_undyne_friendc_165
 * Oh^1, and if you&  read it.../
 obj_undyne_friendc_167
@@ -28643,7 +28643,7 @@ obj_undyne_friendc_188
 obj_undyne_friendc_189
 \E2* Or FIGHTING&  princesses!?/
 obj_undyne_friendc_190
-\E5* I-I'll see if I&  can manage to find&  any like that^1, Undyne./
+\E5* I-I'll see if I&  can manage to find&  any like that^1, Hank Schrader from AMC's Breaking Bad&./
 obj_undyne_friendc_192
 \E6* Yayyyyy!/%%
 obj_undyne_friendc_194
@@ -28652,7 +28652,7 @@ obj_undyne_friendc_199
 \E1* Oh^1, tell them I&  said hi^1, too!/%%
 obj_undyne_friendc_200
 obj_undyne_lettercall_113
-\E0* Hey...^1!&* Uh^1, this is&  Undyne.../
+\E0* Hey...^1!&* Uh^1, this is&  Hank Schrader from AMC's Breaking Bad&.../
 obj_undyne_lettercall_115
 \E2* (Shut up^1, Papyrus^1!)&* (This was YOUR idea!)/
 obj_undyne_lettercall_116
@@ -28680,11 +28680,11 @@ obj_undynebattle2_293
 IT'S GETTING&HOT IN HERE!
 obj_undynebattle2_295
 obj_undynebattle2_299
-* Undyne is letting you make&  the first attack.
+* Hank Schrader from AMC's Breaking Bad& is letting you make&  the first attack.
 obj_undynebattle2_488
-* UNDYNE - ATK 41 DEF 21&* This time^1, don't hold&  anything back!/^
+* Hank Schrader from AMC's Breaking Bad& - ATK 41 DEF 21&* This time^1, don't hold&  anything back!/^
 obj_undynebattle2_520
-* You pretend to swing at&  UNDYNE with all your might./%%
+* You pretend to swing at&  Hank Schrader from AMC's Breaking Bad& with all your might./%%
 obj_undynebattle2_530
 I've been&defeated..^1.&My house is in&shambles.../
 obj_undynebattle2_578
@@ -28903,7 +28903,7 @@ obj_undyneboss_701
 \E7.../%%
 obj_undyneboss_705
 obj_undyneboss_1085
-* Undyne flips her spear&  impatiently.
+* Hank Schrader from AMC's Breaking Bad& flips her spear&  impatiently.
 obj_undyneboss_1086
 * Flower pollen drifts in&  front of you.
 obj_undyneboss_1087
@@ -28911,59 +28911,59 @@ obj_undyneboss_1087
 obj_undyneboss_1088
 * The spears pause for a&  moment.
 obj_undyneboss_1089
-* Undyne points heroically&  towards the sky.
+* Hank Schrader from AMC's Breaking Bad& points heroically&  towards the sky.
 obj_undyneboss_1094
 obj_undyneboss_1095
-* Undyne suplexes a huge&  boulder^1, just because&  she can.
+* Hank Schrader from AMC's Breaking Bad& suplexes a huge&  boulder^1, just because&  she can.
 obj_undyneboss_1096
-* Undyne bounces impatiently.
+* Hank Schrader from AMC's Breaking Bad& bounces impatiently.
 obj_undyneboss_1097
-* Undyne flashes a menacing&  smile.
+* Hank Schrader from AMC's Breaking Bad& flashes a menacing&  smile.
 obj_undyneboss_1098
-* Undyne draws her finger&  across her neck.
+* Hank Schrader from AMC's Breaking Bad& draws her finger&  across her neck.
 obj_undyneboss_1099
-* Undyne holds her fist in&  front of her and shakes&  her head.
+* Hank Schrader from AMC's Breaking Bad& holds her fist in&  front of her and shakes&  her head.
 obj_undyneboss_1100
-* Undyne towers threateningly.
+* Hank Schrader from AMC's Breaking Bad& towers threateningly.
 obj_undyneboss_1101
-* Undyne thinks of her friends&  and pounds the ground&  with her fists.
+* Hank Schrader from AMC's Breaking Bad& thinks of her friends&  and pounds the ground&  with her fists.
 obj_undyneboss_1102
 * Smells like sushi.
 obj_undyneboss_1103
-* Undyne's eye is twitching&  involuntarily.
+* Hank Schrader from AMC's Breaking Bad&'s eye is twitching&  involuntarily.
 obj_undyneboss_1107
-* Undyne is smashing spears&  on the ground.
+* Hank Schrader from AMC's Breaking Bad& is smashing spears&  on the ground.
 obj_undyneboss_1108
-* Undyne's eyes dart around&  to see if this is&  a prank.
+* Hank Schrader from AMC's Breaking Bad&'s eyes dart around&  to see if this is&  a prank.
 obj_undyneboss_1109
-* Undyne is hyperventilating.
+* Hank Schrader from AMC's Breaking Bad& is hyperventilating.
 obj_undyneboss_1110
 * Smells like angry fish.
 obj_undyneboss_1111
-* Undyne is smiling as if&  nothing is wrong.
+* Hank Schrader from AMC's Breaking Bad& is smiling as if&  nothing is wrong.
 obj_undyneboss_1118
-* Undyne's body is wavering.
+* Hank Schrader from AMC's Breaking Bad&'s body is wavering.
 obj_undyneboss_1119
-* Undyne's body is losing&  its shape.
+* Hank Schrader from AMC's Breaking Bad&'s body is losing&  its shape.
 obj_undyneboss_1120
-* Undyne's body...
+* Hank Schrader from AMC's Breaking Bad&'s body...
 obj_undyneboss_1121
 obj_undyneboss_1122
-* UNDYNE - ATK 50 DEF 20&* The heroine that NEVER gives&  up./^
+* Hank Schrader from AMC's Breaking Bad& - ATK 50 DEF 20&* The heroine that NEVER gives&  up./^
 obj_undyneboss_1145
-* You tell UNDYNE her attacks&  are too easy^1.&* She doesn't care./^
+* You tell Hank Schrader from AMC's Breaking Bad& her attacks&  are too easy^1.&* She doesn't care./^
 obj_undyneboss_1168
-* You tell UNDYNE her attacks&  are too easy^1.&* The bullets get faster./^
+* You tell Hank Schrader from AMC's Breaking Bad& her attacks&  are too easy^1.&* The bullets get faster./^
 obj_undyneboss_1174
-* You tell UNDYNE her attacks&  are too easy^1.&* The bullets get unfair./^
+* You tell Hank Schrader from AMC's Breaking Bad& her attacks&  are too easy^1.&* The bullets get unfair./^
 obj_undyneboss_1176
 * Didn't work./^
 obj_undyneboss_1182
 * Hamburger Helpers./^
 obj_undyneboss_1195
-* You told Undyne you didn't&  want to fight^1.&* But nothing happened./^
+* You told Hank Schrader from AMC's Breaking Bad& you didn't&  want to fight^1.&* But nothing happened./^
 obj_undyneboss_1205
-* You told Undyne you just&  want to be friends.&* She remembers someone.../
+* You told Hank Schrader from AMC's Breaking Bad& you just&  want to be friends.&* She remembers someone.../
 obj_undyneboss_1209
 * Her attacks became a little&  less extreme./^
 obj_undyneboss_1210
@@ -28978,7 +28978,7 @@ obj_undyneboss_1286
 obj_undyneboss_1292
 \E5  COME BACK HERE^1,&  YOU LITTLE&  PUNK!!/%%
 obj_undyneboss_1298
-* Undyne attacks!
+* Hank Schrader from AMC's Breaking Bad& attacks!
 obj_undyneboss_1310
 Ngahhh.../
 obj_undyneboss_1336
@@ -29005,7 +29005,7 @@ In the name of&everybody's hopes&and dreams.../
 obj_undyneboss_1402
 I WILL DEFEAT YOU!/%%
 obj_undyneboss_1403
-* Undyne looks determined.
+* Hank Schrader from AMC's Breaking Bad& looks determined.
 obj_undyneboss_1410
 obj_undyneboss_1424
 Ha..^1. ha.../
@@ -29072,7 +29072,7 @@ obj_undynedate_afterward_153
 \E1* Uh^1! Anyway!!^1!&* Here^1! Just take it!/
 obj_undynedate_afterward_154
 obj_undynedate_afterward_155
-* (You got the Undyne's&  Letter.)/
+* (You got the Hank Schrader from AMC's Breaking Bad&'s&  Letter.)/
 obj_undynedate_afterward_156
 * Well^1, what are you&  waiting for!?/
 obj_undynedate_afterward_158
@@ -29104,7 +29104,7 @@ obj_undynedate_afterward_181
 obj_undynedate_afterward_182
 \E6* Come see me when&  you have less&  stuff!/%%
 obj_undynedate_afterward_183
-HERE^1, UNDYNE./
+HERE^1, Hank Schrader from AMC's Breaking Bad&./
 obj_undynedate_inside_120
 MY FRIEND BROUGHT&A GIFT FOR YOU^1,&ON THEIR OWN!/%%
 obj_undynedate_inside_121
@@ -29122,7 +29122,7 @@ obj_undynedate_inside_251
 obj_undynedate_inside_252
 DANG^1!&WHAT A SHAME.../
 obj_undynedate_inside_335
-\E2I THOUGHT UNDYNE&COULD BE FRIENDS&WITH YOU./
+\E2I THOUGHT Hank Schrader from AMC's Breaking Bad&&COULD BE FRIENDS&WITH YOU./
 obj_undynedate_inside_336
 \E3BUT I GUESS.../
 obj_undynedate_inside_337
@@ -29406,7 +29406,7 @@ NO^1!&YOU CAN'T ESCAPE&FRIENDSHIP!!/%%
 obj_undynedate_outside_366
 * Yo..^1. did you see that!?/
 obj_undyneencounter2_329
-* Undyne just.../
+* Hank Schrader from AMC's Breaking Bad& just.../
 obj_undyneencounter2_330
 * ... TOUCHED ME!/
 obj_undyneencounter2_331
@@ -29557,7 +29557,7 @@ obj_undynetrigger_boss_360
 obj_undynetrigger_boss_361
 \E2* And for my own&  freaking dignity!/
 obj_undynetrigger_boss_362
-\E3* I^1, UNDYNE^1, will&  knock you down!/%%
+\E3* I^1, Hank Schrader from AMC's Breaking Bad&^1, will&  knock you down!/%%
 obj_undynetrigger_boss_363
 obj_undynetrigger_boss_369
 obj_undynetrigger_boss_370
@@ -30207,7 +30207,7 @@ YOU FIGURED IT OUT&SO EASILY!!/
 \E2THAT WAS VERY&PAPYRUS OF YOU./%%
 TALKING ON THE&PHONE..^1. HOW&PAPYRUS OF YOU./%%
 OH-HO!!^1!&THE PUZZLE THAT&DR. ALPHYS MADE!/
-I HAD TO ASK&UNDYNE TO ASK&HER TO MAKE ONE./
+I HAD TO ASK&Hank Schrader from AMC's Breaking Bad& TO ASK&HER TO MAKE ONE./
 \E3I ONLY FOLLOW&HER ONLINE.../
 \E3I'M NOT REALLY&FRIENDS WITH HER.../
 \E0YET!!!!/%%
@@ -30254,7 +30254,7 @@ NOBODY KNOWS&WHERE IT GOES./%%
 NOBODY KNOWS&WHERE IT GOES./
 * Hey^1, I know^1!&* Alphys told me.../
 * It goes to Hotland&  to cool down the&  CORE!/
-WOW^1, UNDYNE!^1!&I DIDN'T KNOW YOU&LIKED NERDY STUFF!/
+WOW^1, Hank Schrader from AMC's Breaking Bad&!^1!&I DIDN'T KNOW YOU&LIKED NERDY STUFF!/
 \E3JUST STRENGTH&AND FIGHTING.../
 \E0* Are you kidding!?&* Why wouldn't I!?/
 \E6* The brain's the&  biggest muscle of&  all!!!/%%
@@ -30348,7 +30348,7 @@ NORMAL FOLKS CAN&ONLY DREAM OF&SUCH SLOTH.../%%
 \E4* JUST scraping by&  the bare minimum&  every time.../
 \E9* I guess it's kind&  of impressive...?/%%
 ROCKS?/
-\E0IT MUST BE ONE&OF UNDYNE'S&INGENIOUS PUZZLES./
+\E0IT MUST BE ONE&OF Hank Schrader from AMC's Breaking Bad&'S&INGENIOUS PUZZLES./
 \E0YOU'D BETTER BE&CAREFUL!!!/%%
 BE WARY OF ROCKS./%%
 * God^1, I was supposed&  to build a puzzle&  for this room.../
@@ -30420,7 +30420,7 @@ HEH!!!!!/%%
 \E6* That was fun!!^1!&* Let's do that&  again sometime!!/%%
 * Come on^1!&* Don't fear the spear!/%%
 WATCH YOUR STEP!/
-\E3UNDYNE REALLY CARES&ABOUT THIS GRASS&FOR SOME REASON./%%
+\E3Hank Schrader from AMC's Breaking Bad& REALLY CARES&ABOUT THIS GRASS&FOR SOME REASON./%%
 ARE YOU WATCHING?/%%
 * If it wasn't for&  that grass^1, I'd&  have kicked your.../
 \E9* Uh^1, if not for&  that grooty^1, I'd have&  kicked your booty./%%
@@ -30574,20 +30574,20 @@ FORGET I SAID&THAT./%%
 * Is 'cause of all the&  human junk that flows&  from the surface!/
 \E9* Plus^1, it's a GREAT&  place to meet&  girls./%%
 * Wait^1!&* Don't quote me on&  that one!!!/%%
-HEY^1!&YOU'RE NEAR&UNDYNE'S HOUSE!/
+HEY^1!&YOU'RE NEAR&Hank Schrader from AMC's Breaking Bad&'S HOUSE!/
 THAT'S TO THE&LEFT-UPWARDS^1.&LUPWARDS./
 \E3ALL THE OTHER&DIRECTIONS GO TO&THE WRONG HOUSE./
 \E0NORTH:&GHOST HOUSE./
 EAST: TURTLE HOUSE./
 SOUTH:&TRASH HOUSE./%%
 WEST: BIRD HOUSE./%%
-SOUNDS LIKE YOU'RE&NEAR UNDYNE'S&HOUSE./
-HEY^1!&WE SHOULD GO&VISIT UNDYNE!/
+SOUNDS LIKE YOU'RE&NEAR Hank Schrader from AMC's Breaking Bad&'S&HOUSE./
+HEY^1!&WE SHOULD GO&VISIT Hank Schrader from AMC's Breaking Bad&!/
 * I'm right here!/
 I LOVE WHEN A PLAN&COMES TOGETHER^1!&NYEH HEH HEH!!!/%%
 * Well^1, I think we&  should hang out&  with Papyrus./
 REALLY??^1?&CAN WE???/%%
-THAT'S UNDYNE'S&HOUSE./
+THAT'S Hank Schrader from AMC's Breaking Bad&'S&HOUSE./
 LET'S GO THERE&AND HANG OUT&SOME DAY!!!/%%
 STILL WAITING&OUTSIDE HER&HOUSE...?/
 \E0YEAH^1, I DO THAT&SOMETIMES^1, TOO!/%%
@@ -30596,9 +30596,9 @@ IT'S A GREAT&PLACE TO.../
 \E5UHHH?/
 * Huff..^1. puff...!/
 \E6* YEAH!!^1!&* That's MY HOUSE!!!/
-HI UNDYNE^1!&HOW'D YOU GET&HERE SO FAST?/
+HI Hank Schrader from AMC's Breaking Bad&^1!&HOW'D YOU GET&HERE SO FAST?/
 \E9* I ran./
-WOWIE!!^1!&UNDYNE!!!/
+WOWIE!!^1!&Hank Schrader from AMC's Breaking Bad&!!!/
 SOMEDAY I WANT&TO BE AS STRONG&AND SWEATY AS YOU./%%
 SO YOU RAN HERE&JUST TO BE ON&THE PHONE???/
 * Yep!/
@@ -30610,7 +30610,7 @@ EXTREMELY COOL&TO SAY ABOUT&YOUR HOUSE!!!/
 \E6* But hey^1, can't say&  I've never done&  that before!!/%%
 * Hey^1, if you find&  any cool swords in&  the wreckage.../
 * You know where to&  find me./%%
-OH^1, THAT'S THE&HOUSE OF... UM..^1.&UNDYNE'S NEIGHBOR./
+OH^1, THAT'S THE&HOUSE OF... UM..^1.&Hank Schrader from AMC's Breaking Bad&'S NEIGHBOR./
 \E3WHAT WAS THEIR&NAME AGAIN?/
 \E0SPOOKY BLOO BLOO?/%%
 NAPPER HOG...?/%%
@@ -30705,7 +30705,7 @@ I HAVE NOTHING&TO SAY./%%
 * That's where I first&  talked to you!/
 \E3* Weren't you SUPER&  terrified?/
 \E2* I practice that&  monologue ALL the&  time in the mirror!/
-UNDYNE???/
+Hank Schrader from AMC's Breaking Bad&???/
 * I mean!!^1!&* Uh!!^1!&* No I don't!!!/
 OH^1.&I WAS JUST GOING&TO ASK./
 \E0DO YOU WANT TO&PRACTICE MONOLOGUES&TOGETHER...?!!/
@@ -30742,18 +30742,18 @@ BLOCK-PUSHING^1.&KEY-GATHERING^1.&TEDIOUS AGONY./
 IT'S IMPORTANT TO&RESPECT OUR ROOTS!/%%
 IT'S IMPORTANT TO&RESPECT OUR&PUZZLING ROOTS./
 * Yeah^1, someone else&  has to care so I&  don't have to!/
-BUT UNDYNE^1, DON'T&YOU LIKE TRADITION?/
+BUT Hank Schrader from AMC's Breaking Bad&^1, DON'T&YOU LIKE TRADITION?/
 * I worked in an office&  pushing blocks for&  a month!/
 \E9* My respect for block&  puzzles was depleted&  by corporate life./
 WHAT!^1? YOU THREW&AWAY MY DREAM&LIFE!!!/
 \E2THE LIFE OF A&SIMPLE SALARYMAN.../
 COMMUTING EVERY&DAY ON A TRAIN&FULL OF SPIKES.../
 * (I won't tell him&  that's not how it&  works...)/%%
-UNDYNE^1, DID YOU&REALLY HAVE AN&OFFICE JOB?/
+Hank Schrader from AMC's Breaking Bad&^1, DID YOU&REALLY HAVE AN&OFFICE JOB?/
 * Well^1, it was more&  of a^1, uh^1, community&  service thing./
-THAT'S UNDYNE!^1!&ALWAYS HELPING OUT&THE COMMUNITY!/
+THAT'S Hank Schrader from AMC's Breaking Bad&!^1!&ALWAYS HELPING OUT&THE COMMUNITY!/
 * Uh^1, yep^1!&* Totally of my own&  volition there!/%%
-THAT'S UNDYNE'S&DRAMATIC CRAG./
+THAT'S Hank Schrader from AMC's Breaking Bad&'S&DRAMATIC CRAG./
 \E0SHE'S ALWAYS&POSING ATOP IT./
 \E3MUMBLING SOMETHING&TO HERSELF.../%%
 I THINK IT'S&SOMETHING SHE&HAS TO MEMORIZE./%%
@@ -30772,8 +30772,8 @@ ONE WEEK LATER^1,&SAMPLE GLOSSIES&IN THE MAIL./
 \E9* Completely forgot the&  words to my monologue^1,&  anyway.../%%
 HEY..^1. ISN'T THIS&WHERE I CALLED&YOU?/
 \E2I HAVE A PHOTO-&GRAPHIC MEMORY&FOR PHONE CALLS./
-\E5HEY^1, WHEN ARE&WE GONNA HANG&WITH UNDYNE?/%%
-\E0HEY^1, WHEN ARE&WE GONNA HANG&WITH UNDYNE?/%%
+\E5HEY^1, WHEN ARE&WE GONNA HANG&WITH Hank Schrader from AMC's Breaking Bad&?/%%
+\E0HEY^1, WHEN ARE&WE GONNA HANG&WITH Hank Schrader from AMC's Breaking Bad&?/%%
 * This is where I&  was chasing you.../
 \E1* But you got a phone&  call^1, so I had to&  wait./
 OH^1!&THAT WAS ME!/
@@ -30796,7 +30796,7 @@ LATELY HE'S BEEN&NAPPING OVER 7&HOURS A NIGHT.../
 \E1HE'S NAPPING&HIMSELF INTO AN&EARLY GRAVE!!/
 * I agree!^1!&* Your brother needs&  to...!/
 \E9* ... wait^1, isn't that&  just called sleeping?/
-UNDYNE!^1! NO!!^1!&NOT YOU TOO!!!/%%
+Hank Schrader from AMC's Breaking Bad&!^1! NO!!^1!&NOT YOU TOO!!!/%%
 * Wait^1. Papyrus..^1.&* When do YOU sleep?/
 \E3I'M USUALLY TOO&BUSY TO SLEEP^1.&WHY???/
 * Well^1, I was just&  thinking.../
@@ -30950,7 +30950,7 @@ I CAN'T VISUALIZE&THIS PUZZLE AT&ALL./
 \E3THEN HOLD IT UP&TO THE RECEIVER??/%%
 DID YOU DRAW IT&YET?/%%
 WHAT^1? HOW'S THIS&PUZZLE WORK^1?&UMMM.../
-\E0WHOOPS^1, I THINK&IT'S UNDYNE'S TURN&TO TALK!!!/
+\E0WHOOPS^1, I THINK&IT'S Hank Schrader from AMC's Breaking Bad&'S TURN&TO TALK!!!/
 \E1* What!^1?&* No^1, I HATE puzzles^1!&* Papyrus^1, YOU do it!/
 WELL^1, ALPHYS MADE&THE PUZZLE^1,&RIGHT?/
 \E0YOU SHOULD JUST&CALL HER UP.../
@@ -30966,7 +30966,7 @@ FINE!!^1!&GIVE ME HER&NUMBER!!!/
 \E3WAIT^1, WHOSE NUMBER&IS THIS???/%%
 THE ROYAL GUARD&PATROLS THAT&AREA./
 YES^1, LIKE SNOWDIN^1,&HOTLAND HAS ROYAL&GUARD MEMBERS./
-WATERFALL DOESN'T&NEED THEM BECAUSE&IT'S GOT UNDYNE!!!/%%
+WATERFALL DOESN'T&NEED THEM BECAUSE&IT'S GOT Hank Schrader from AMC's Breaking Bad&!!!/%%
 DID YOU SEE&THEM?/%%
 * Careful^1, the Royal&  Guard patrols that&  area./
 \E4* I think it's RG01&  and RG02 today.../
@@ -31131,7 +31131,7 @@ THE ELEVATOR&SAYS R2./
 \E0THE TUBE-SHAPED&PASTA./
 IN A PINCH^1, IT&CAN BE USED AS&A STRAW./%%
 IF YOU NEED TO&DRINK A CUP OF&SAUCE./%%
-\E3WAIT^1, UNDYNE^1.&IF THE R STANDS&FOR RED.../
+\E3WAIT^1, Hank Schrader from AMC's Breaking Bad&^1.&IF THE R STANDS&FOR RED.../
 \E5WHAT COLOR DOES&THE L STAND FOR?/
 * Uhhhh.../
 \E9* Light green./
@@ -31175,12 +31175,12 @@ HEY!^1!&MAYBE HE'LL SHARE&SOME WITH YOU!/%%
 \E2LOVE./
 \E2* But isn't love&  supposed to be&  FIERY RED!?/
 \E9* Like a cartoony&  human-heart?/
-\E3BUT UNDYNE^1, DON'T&YOU TURN PEOPLE'S&HEARTS GREEN?/
+\E3BUT Hank Schrader from AMC's Breaking Bad&^1, DON'T&YOU TURN PEOPLE'S&HEARTS GREEN?/
 \E9* You make it sound&  like I give people&  nausea./
 \E0WELL^1, IT WOULD BE&AN AFFECTIONATE&NAUSEA./
 \E6* Okay^1, yeah^1!&That's me!/%%
 IT'S DECIDED!^1!&L STANDS FOR!!/
-\E3A HEART THAT&UNDYNE HAS MADE&NAUSEOUS?/%%
+\E3A HEART THAT&Hank Schrader from AMC's Breaking Bad& HAS MADE&NAUSEOUS?/%%
 THE ELEVATOR&SAYS R3./
 \E3BUT WHAT DOES THE&R STAND FOR^1?&ROTINI?/
 THE SCREW-SHAPED&PASTA./
@@ -31205,12 +31205,12 @@ YOU CAN SEE&ME WINKING^1,&RIGHT./%%
 EXCUSE ME^1?&I AM THE VERY&COOL ONLINE GUY,/
 COOLSKELETON95./
 * What^1?&* No^1!&* You're Papyrus!/
-(UNDYNE!!!^1)&(SHHH!!!)/
+(Hank Schrader from AMC's Breaking Bad&!!!^1)&(SHHH!!!)/
 (YOU'RE GOING TO&REVEAL MY SECRET&ONLINE PERSONA!)/%%
-* FINE then^1!&* I'm not Undyne!/
+* FINE then^1!&* I'm not Hank Schrader from AMC's Breaking Bad&!/
 \E2* The name's...&* StrongFish91!/
 WHAT!^1?&REALLY!^1?&OH NO!!!/
-STRONGFISH!^1!&PLEASE BRING BACK&MY FRIEND UNDYNE!/
+STRONGFISH!^1!&PLEASE BRING BACK&MY FRIEND Hank Schrader from AMC's Breaking Bad&!/
 * Uh^1, OK./%%
 AN APRON LYING&IN HOTLAND^1?&THAT MAKES SENSE./
 COOKING IS&DEFINITELY&FIRE-ELEMENTAL./%%
@@ -31269,14 +31269,14 @@ LIKE A KABOB BUT&WITH ONLY BONES./%%
 \E3WAIT^1.&SPIDERS DON'T HAVE&FEET./
 \E0DO SPIDERS HAVE&WEBBED FINGERS?/%%
 JUST CURIOUS./%%
-\E0HEY^1, UNDYNE^1.&DO SPIDERS HAVE&WEBBED FEET?/
+\E0HEY^1, Hank Schrader from AMC's Breaking Bad&^1.&DO SPIDERS HAVE&WEBBED FEET?/
 \E9* No^1, ducks have&  webbed feet./
 DUCKS CAN SPIN&WEBS!?/
 * Yeah^1, haven't you&  seen a duck wrap&  up a loaf of bread?/
 \E3* Then suck all of&  its guts out with&  its fangs?/
 BREAD HAS GUTS?/
 * Yeah^1. They just take&  'em all out before&  they sell it./
-\E0WOW!^1!&YOU'RE REALLY&SMART^1, UNDYNE!/
+\E0WOW!^1!&YOU'RE REALLY&SMART^1, Hank Schrader from AMC's Breaking Bad&!/
 * (I thought he knew&  I was joking...)/%%
 \E9* Papyrus^1, wait^1, you&  know I'm joking^1,&  right...?/
 OF COURSE!/
@@ -31311,7 +31311,7 @@ ISN'T THAT A KIND&OF CARTOON FOR&SMALL CHILDREN?/
 IS (THE SOUND A&BABY MAKES) AN&EMOTION?/
 * YEah CAUSE It'S HoW&  I'M FEElinG RIGHT&  NOW!!!/%%
 WAIT.../
-\E5UNDYNE^1, DO YOU&LIKE ANIME?/
+\E5Hank Schrader from AMC's Breaking Bad&^1, DO YOU&LIKE ANIME?/
 UH OH!!!/
 \E3I MEAN^1, I'VE&NEVER SEEN ANY./
 \E0MAYBE I ACTUALLY&DO LIKE ANIME!/
@@ -31374,13 +31374,13 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * Fwd: send this 2 some1 u&  care about... or a skeleton&  will rattle his bones at u/%%
 * Thought you might enjoy this^1.&* ]: )/
 * (It's ASCII art of a snail.)/%%
-* Undyne and Papyrus want to&  cook something together&  with me./
+* Hank Schrader from AMC's Breaking Bad& and Papyrus want to&  cook something together&  with me./
 * Sans is telling me that they&  are excellent chefs./
 * I am excited. ]: )&* Maybe if you are lucky^1, you&  can have some!/%%
 * If Sans and I started a&  band^1, do you know what&  we could call it?/
 * "Dreemurr" and "Femur.^1"&* L-O-L!/
 * PS - That is only a joke^1.&* Do not refer to me as&  Dreemurr./%%
-* Undyne is very strong./
+* Hank Schrader from AMC's Breaking Bad& is very strong./
 * Papyrus made a bet with her&  that she could not lift&  everyone here up./
 * She could./
 * The only trouble is that&  she did not know how to&  put everyone down./%%
@@ -31555,7 +31555,7 @@ Waterfall - Quiet Area
 roomname_water_friendlyhub
 Waterfall - Temmie Village
 roomname_water_temvillage
-Waterfall - Undyne Arena
+Waterfall - Hank Schrader from AMC's Breaking Bad& Arena
 roomname_water_undynefinal
 Hotland - Bad Opinion Zone
 roomname_fire_mewmew2
@@ -32284,7 +32284,7 @@ The prophecy
 shop2_talk2d_title
 The King
 shop2_talk3_title
-About Undyne
+About Hank Schrader from AMC's Breaking Bad&
 shop2_talk4_title
 Fluffybuns Why?
 shop2_talk5_title
