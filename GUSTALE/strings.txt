@@ -6809,7 +6809,7 @@ item_desc_53_0
 item_desc_54_0
 * "Cum" Heals 12 HP&* The goal of "sex."/%%
 item_desc_55_0
-* "Hank Schrader from AMC's Breaking Bad&'s Letter" - Unique&* Letter written for Dr.&  Alphys./%%
+* "Hank Schrader from AMC's Breaking Bad&'s Letter" - Unique&* Letter written for Dr.&  Gale./%%
 item_desc_56_0
 * "Hank Schrader from AMC's Breaking Bad&'s Letter EX" - Unique&* It has DON'T DROP IT&  written on it./%%
 item_desc_57_0
@@ -6902,27 +6902,27 @@ Parsnik
 Glyde
 So Sorry
 Doodlebog
-Asriel Dreemurr
-Asriel
+Gustavo Fring
+Gustavo
 Gaster
-Say Hello
+Commit Tax Fraud
 phonename_201
-Puzzle Help
+Sell Children
 phonename_202
-About Yourself
+About Epstein
 phonename_203
-Call Her "Mom"
+Call Her "Joe"
 phonename_204
-Flirt
+Say Racial Slur
 phonename_205
 Toriel's Phone
 phonename_206
-Papyrus's Phone
+Jesse Pinkman's Phone
 phonename_210
-Papyrus and Hank Schrader from AMC's Breaking Bad&
-Dimensional Box A
+Jesse Pinkman and Hank Schrader from AMC's Breaking Bad Phone&
+Big Pocket
 phonename_220
-Dimensional Box B
+Bigger Pocket
 phonename_221
 Yes
 No
@@ -6942,12 +6942,12 @@ SCR_TEXT_62
    * Don't slow me down.
    * Ran away with \[1] EXP&     and \[2] GOLD.
 * (The shadow of my penis&  looms above^1, filling you with&  determination.)/
-* (HP fully restored.)/%%
+* (I just shit out my ass)/%%
 * (AMONG&  US &  SUS.)/
-* (Knowing the mouse might one&  day leave its hole and&  get the cheese...)/
+* (Bootin up my PC&  PC because I need&  that Fortnite Battle Pass)/
 * (HE fills you with&  cum.)/%%
 * (Seeing such a cute^1, tidy&  house in the RUINS gives&  you AIDs.)/%%
-* Detrrmiantion./%%
+* Rejected from art school./%%
 * (The cold atmosphere of a&  new land... it fills you&  with depression.)/%%
 * (The convenience of that&  lamp still fills you&  with lamp.)/%%
 * (Knowing the mouse might one&  day find a way to heat&  up the spaghetti...)/
@@ -6982,7 +6982,7 @@ SCR_TEXT_62
 * (Behind this door must be&  the elevator to the King's&  castle.)/
 * (The smell of cobwebs fills&  the air...)/
 * You leave the Quiche on the&  ground and tell it you'll&  be right back./%%
-* Use the box?& &         Yes         No      \C 
+* Use the box?& &         NOO         No      \C 
   %%
 * You have no items^1.&* You put a little time into&  the box./%%
 * You have no items^1.&* You put a little effort&  into the box./%%
@@ -7110,8 +7110,8 @@ SCR_TEXT_62
 * It seems you do not&  have enough room for me./%%
 * Thank you... good luck!/
 * I see^1.&* Good journey^1, then./%%
-SANS!!^1!&THAT DIDN'T DO&ANYTHING!/
-SANS!!^1!&THEY DIDN'T EVEN&LOOK AT IT!/
+WALTER WHITE!!^1!&THAT DIDN'T DO&ANYTHING!/
+WALTER WHITE!!^1!&THEY DIDN'T EVEN&LOOK AT IT!/
 * whoops./
 * i knew i should have&  used today's crossword&  instead./
 WHAT!^1?&CROSSWORD!?/
@@ -7181,20 +7181,20 @@ NYEH HEH HEH!!!/%%
 WHAT!^1?&HOW DID YOU&AVOID MY TRAP?/
 \E3AND^1, MORE&IMPORTANTLY.../
 \E0IS THERE ANY&LEFT FOR ME???/
-* (What do you tell Papyrus&  about his spaghetti?)&         Ate it      Left it   \C 
+* (What do you tell Jesse Pinkman&  about his spaghetti?)&         Ate it      Left it   \C 
 REALLY!?/
 \E2WOWIE.../
 NO ONE'S EVER&ENJOYED MY&COOKING BEFORE.../
 \E0WELL THEN!!/
 YOU RESISTED THE&FLAVOR OF MY&HOMECOOKED PASTA.../
 JUST SO YOU&COULD SHARE&IT WITH ME???/
-\E0FRET NOT HUMAN^1!&I^1, MASTER CHEF&PAPYRUS.../
+\E0FRET NOT HUMAN^1!&I^1, MASTER CHEF&JESSE PINKMAN.../
 WILL MAKE YOU ALL&THE PASTA YOU&COULD EVER WANT!/
 HEH HEH HEH HEH&HEH HEH NYEH!/%%
 HEY!/
 IT'S THE HUMAN!/
 \E0YOU'RE GONNA&LOVE THIS&PUZZLE!/
-IT WAS MADE&BY THE GREAT&DR. ALPHYS!/
+IT WAS MADE&BY THE GREAT&DR. GALE!/
 YOU SEE&THESE TILES&!?/
 ONCE I THROW&THIS SWITCH.../
 THEY WILL&BEGIN TO&CHANGE COLOR!/
@@ -7472,7 +7472,7 @@ JUST MISS SEEING MY&FACE SO MUCH.../
 I'M NOT SURE I&CAN FIGHT SOMEONE&WHO FEELS THIS WAY./
 BUT MOSTLY..^1. I'M GETTING&REALLY TIRED OF&CAPTURING YOU!/
 SO..^1.&WHAT DO YOU SAY?/
-* (Fight Papyrus?)& &         Yes         No\C
+* (Fight Jesse Pinkman?)& &         Yes         No\C
 \TP %
 OKAY.../
 I GUESS./
@@ -7510,7 +7510,7 @@ Error./%%
 \E2* i'll give you a&  full refund./%%
 * well^1, come back&  whenever you want./%%
 * Ring..\E0./
-HELLO^1!&THIS IS PAPYRUS!!!/
+HELLO^1!&THIS IS JESSE PINKMAN!!!/
 \E3HOW DID I GET THIS&NUMBER...?/
 \E0IT WAS EASY!!!/
 \E0I JUST DIALED EVERYNUMBER SEQUENTIALLYUNTIL I GOT YOURS!!!/
@@ -7545,11 +7545,11 @@ WE COULD GO IN&AND.../
 "HANG-OUT" LIKE&A PAIR OF VERY&COOL FRIENDS?/
 \E3DO WHATEVER&PEOPLE DO WHEN&THEY DATE???/
 * (Go inside?)& &         Yes         No\C
-* (It's the door to&  Papyrus's room.)/
+* (It's the door to&  Jesse Pinkman's room.)/
 * (It's covered in many&  labels...)/
 * (NO GIRLS ALLOWED!)/
 * (NO BOYS ALLOWED!)/
-* (PAPYRUS ALLOWED.)/%%
+* (JESSE PINKMAN ALLOWED.)/%%
 THERE ARE NO&SKELETONS INSIDE&MY CLOSET!!!/
 \E3EXCEPT ME&SOMETIMES./
 * (Look in the closet?)& &         Yes         No\C
@@ -7564,7 +7564,7 @@ IT'S OK TO BE&INTIMIDATED BY&MY FASHION SENSE./%%
 \E0OKAY!!^1!&DATING START!!!/%%
 \E0OKAY!!^1!&LET'S HANG TEN!!/%%
 \E2TAKE YOUR TIME..^1.&I'LL WAIT FOR&YOU./%%
-* (This mailbox is labelled&  "PAPYRUS".)/
+* (This mailbox is labelled&  "JESSE PINKMAN".)/
 * (Look inside?)& &         Yes         No\C
 * (It's empty.)/%%
 * (You realize that would&  probably be illegal.)/%%
@@ -7745,10 +7745,10 @@ THIS WAY YOU'RE&SAFE AND I&DIDN'T LIE!!!/
 NO BETRAYAL&ANYWHERE!!!/
 BEING FRIENDS&WITH EVERYONE&IS EASY!!!/
 \E0WELL^1, WORRY&NOT DEAR HUMAN!/
-PAPYRUS WOULD&NEVER BETRAY YOU!/
+JESSE PINKMAN WOULD&NEVER BETRAY YOU!/
 \E3I AM NOT A&CRUEL PERSON./
 \E0I STRIVE TO BE&COMFORTING AND&PLEASANT./
-PAPYRUS!&HE SMELLS LIKE&THE MOON./
+JESSE PINKMAN!&HE SMELLS LIKE&THE MOON./
 SO, BECAUSE OF&MY INHERENT&GOODNESS.../
 I TOLD HER YOU&WERE NOT WEARING&A \[1]!/
 \E3EVEN THOUGH YOU&TOLD ME YOU&WERE!/
@@ -7760,7 +7760,7 @@ I KNOW YOU WOULD&NEVER EVER WEAR&A \[2]./
 \E0BUT YOUR SAFETY&IS MORE IMPORTANT&THAN FASHION./
 \E3DANG!/
 I JUST WANT TO&BE FRIENDS WITH&EVERYONE.../
-\E3PAPYRUS WOULD&NEVER BETRAY YOU!/
+\E3JESSE PINKMAN WOULD&NEVER BETRAY YOU!/
 \WY\E0OU SAID YOU WERE\Y &NOT WEARING A&\[1]\W./
 \E3SO OF COURSE&I ACTUALLY&TOLD HER.../
 \E0YOU WERE&INDEED WEARING&A \[1]!/
@@ -8022,11 +8022,11 @@ TAKE YOUR TIME!/%%
 \E1* RIGHT?& &  True        False\C
 \E6* Heh^1, I knew it!/
 \E2* When I first heard&  that^1, I immediately&  wanted one!/
-\E0* So me and Alphys&  built a giant&  sword together./
+\E0* So me and Gale&  built a giant&  sword together./
 \E0* She figured out all&  the specs herself.../
 \E6* She's smart^1, huh!?/%%
 \E2* Pfft^1!&* You liar!/
-\E3* I've READ Alphys's&  human history book&  collection!/
+\E3* I've READ Gale's&  human history book&  collection!/
 \E3* I know all about&  your giant swords.../
 \E3* Your colossal^1,&  alien-fighting&  robots.../
 * Your supernatural&  princesses.../
@@ -8159,7 +8159,7 @@ TAKE YOUR TIME!/%%
 \E7* They all care about&  each other so much./
 \E0* And..^1. they care about&  you too^1, Frisk./
 \E7* I wish I could tell&  you how everyone&  feels about you./
-* Papyrus..^1. Sans..^1.&* Hank Schrader from AMC's Breaking Bad&..^1. Alphys.../
+* Jesse Pinkman..^1. Walter WHite..^1.&* Hank Schrader from AMC's Breaking Bad&..^1. Gale.../
 \E0* ... Toriel./
 \E7* Monsters are weird./
 \E5* Even though they barely&  know you.../
@@ -8201,7 +8201,7 @@ TAKE YOUR TIME!/%%
 \E7* It's best if you&  just forget about&  me^1, OK?/
 \E0* Just go be with&  the people who&  love you./
  &         Comfort&         him         Do not\C
-\E0* So^1, Alphys.../
+\E0* So^1, Gale.../
 \E9* What do you want&  to do now that&  we're all free?/
 \E0* We have the whole&  world to explore&  now./
 \E3* W-well^1, of course&  I'm going to go&  out and.../
@@ -8210,7 +8210,7 @@ TAKE YOUR TIME!/%%
 \E1* I'm gonna stay inside&  and watch anime like&  a total loser!/
 \E0THAT'S THE SPIRIT!/
 EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
-\E9* Heh^1.&* Papyrus has the&  right idea./
+\E9* Heh^1.&* Jesse Pinkman has the&  right idea./
 \E0* Losing to Frisk is&  the best thing to&  ever happen to me./
 \E0* So I'm glad that&  we.../
 \E9* Huh^1?&* What is it^1, Asgore?/
@@ -8273,7 +8273,7 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E2* That's my job./
 \E2* OH MY GOD!&* YOU'RE GOING BACK&  IN THE TRASH!!!/
 \E0CAN I GO IN THE&TRASH TOO?/
-\E9* Sure^1, Papyrus./
+\E9* Sure^1, Jesse Pinkman./
 \E1* guess i have to&  go in the trash&  too./
 \E0* Oh^1, may I enter&  the trash as well?/
 \E1* Uh^1, okay?/
@@ -8292,7 +8292,7 @@ EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
 \E1* Frisk^1, you LIVE with&  this!?/
 \E9* The sunlight is so&  nice..^1. and the air&  is so fresh!/
 * I really feel alive!/
-\E0HEY SANS.../
+\E0HEY WALTER WHITE.../
 \E3WHAT'S THAT GIANT&BALL?/
 \E1* we call that&  "the sun^1," my friend./
 \E0THAT'S THE SUN!^1?&WOWIE!!!/
@@ -8310,7 +8310,7 @@ I CAN'T BELIEVE&I'M FINALLY MEETING&THE SUN!!!/
 * (Be the ambassador?)& &         Yes         No\C
 WOWi, Nice error./%%
 \E0YEAH^1!&FRISK WILL BE THE&BEST AMBASSADOR!/
-AND I^1, THE GREAT&PAPYRUS.../
+AND I^1, THE GREAT&JESSE PINKMAN.../
 WILL BE THE BEST&MASCOT!/
 I'LL GO MAKE A&GOOD FIRST&IMPRESSION!/%%
 \E0IT'S OK FRISK^1!&I'VE GOT YOU&COVERED!/
@@ -8325,7 +8325,7 @@ I CAN DO IT FOR&YOU!!!/
 * (Slide the letter under?)& &         Slide       NO!!!! \C
 * (You slide the letter under&  the door and give it a&  knock.)/%%
 * (You'll keep the letter&  warm for a little longer.)/%%
-* (It's a note from Alphys.)/
+* (It's a note from Gale.)/
 * (Read it...?)& &         Read        Do not \C
 * (It's hard to read because&  of the handwriting^1, but&  you try your best...)/
 * Hey./
@@ -8585,14 +8585,14 @@ Then^1, it is done./%%
    * Struggle
 \W   * Hank Schrader from AMC's Breaking Bad&     
 \W   \Y* (Saved)    \W
-   * Alphys \W &
+   * Gale \W &
    \Y* (Saved)\W &
-\W   * Papyrus       * Sans \W &
+\W   * Jesse Pinkman       * Walter WHite \W &
 \Y   * (Saved)       * (Saved)\W &
 \W   * Toriel        * Asgore \W 
 \Y   * (Saved)       * (Saved)\W 
    * Someone else
-   * Asriel Dreemurr
+   * Gustavo Fring
 * Dialing..\E0.\TT /
 \E0* This is TORIEL./
 * You only wanted to&  say hello...^2?&* Well then./
@@ -8694,7 +8694,7 @@ blt_sizebone_115
 blt_sizebone_118
  I WILL NOW SEND& YOU TO THE& CAPTURE ZONE!!/
 blt_sizebone_119
- OR^1, AS SANS& CALLS IT^1.../
+ OR^1, AS WALTER WHITE& CALLS IT^1.../
 blt_sizebone_120
  OUR GARAGE???/
 blt_sizebone_121
@@ -8723,7 +8723,7 @@ blt_sizebone_139
 blt_sizebone_140
  BECAUSE THE& CORRECT FORM& WOULD BE.../
 blt_sizebone_141
- NOT AS& PERSISTENTEST AS& PAPYRUS^1, THE& PERSISTENTESTEST!/"
+ NOT AS& PERSISTENTEST AS& JESSE PINKMAN^1, THE& PERSISTENTESTEST!/"
 blt_sizebone_142
  I HOPE YOU& ENJOYED THIS& LESSON./
 blt_sizebone_143
@@ -9194,7 +9194,7 @@ obj_adate_915
 obj_adate_916
 obj_adate_917
 obj_adate_918
-                              &   What is it,     THEN SHe&   Alphys.         Kisses YOu
+                              &   What is it,     THEN SHe&   Gale.         Kisses YOu
 obj_adate_941
 \E3Umm, you see..^1.&I..^1. I.../
 obj_adate_963
@@ -9251,7 +9251,7 @@ obj_adate_1025
 obj_adate_1026
 \E2*\M1ahem*/
 obj_adate_1027
-\E0N\M2gahhhh!!^1!&Hey^1, Alphys!&You look cute&today!/
+\E0N\M2gahhhh!!^1!&Hey^1, Gale!&You look cute&today!/
 obj_adate_1028
 \E5Which I say often^1!&But platonically&because I would&NEVER like you./*
 obj_adate_1029
@@ -9279,15 +9279,15 @@ Treat my position&with respect^1, or I&will strike you&down!/
 obj_adate_1083
 \M3Uh^1, now pretend&I'm suplexing a&boulder for no&reason./
 obj_adate_1084
-\E9U\M0m^1! Anyway^1!&What do you&want to say^1,&Alphys!?/%%
+\E9U\M0m^1! Anyway^1!&What do you&want to say^1,&Gale!?/%%
 obj_adate_1085
-   Let's tell      Alphys&   Hank Schrader from AMC's Breaking Bad& the      gives u&   truth           a kiss,
+   Let's tell      Gale&   Hank Schrader from AMC's Breaking Bad& the      gives u&   truth           a kiss,
 obj_adate_1108
 What!?/
 obj_adate_1132
 So you've been&lying to me the&whole time.../
 obj_adate_1133
-\E7Alphys!!^1!&I can't believe you!/
+\E7Gale!!^1!&I can't believe you!/
 obj_adate_1134
 \E8You w-worthless&slime!/
 obj_adate_1135
@@ -9297,7 +9297,7 @@ obj_adate_1136
 obj_adate_1137
 WH-WHAT!^1?&I WOULD NEVER.../
 obj_adate_1143
-\M0Alphys^1!&What are you&d-doing!/
+\M0Gale^1!&What are you&d-doing!/
 obj_adate_1144
 I s-say^1, pushing&you away from&me.../
 obj_adate_1145
@@ -9312,7 +9312,7 @@ obj_adate_1149
 obj_adate_1150
 I...^1.&I c-c-can't help but&k-k-kiss you back.../%%
 obj_adate_1151
-ALPHYS^1!&I'LL NEVER LOVE YOU!/
+GALE^1!&I'LL NEVER LOVE YOU!/
 obj_adate_1167
 NEVER WILL YOU FEEL&MY PASSIONATE&EMBRACE!!!/
 obj_adate_1168
@@ -9380,7 +9380,7 @@ obj_adate_1417
 obj_adate_1418
 \E3That time I...%%
 obj_adate_1419
-Alphys./%%
+Gale./%%
 obj_adate_1433
 \E5I..^1. I just wanted to&impress you!/
 obj_adate_1444
@@ -9391,13 +9391,13 @@ obj_adate_1446
 obj_adate_1459
 \E5Hank Schrader from AMC's Breaking Bad&^1, I..^1.&I really think you're&neat^1, OK.../%%
 obj_adate_1470
-Alphys./
+Gale./
 obj_adate_1481
 Shhhh./
 obj_adate_1482
 Shhhhhh./%%
 obj_adate_1483
-\F0Alphys!/
+\F0Gale!/
 obj_adate_1522
 I..^1. think you're&neat^1, too, I guess./
 obj_adate_1523
@@ -9419,7 +9419,7 @@ obj_adate_1530
 obj_adate_1531
 \F0I don't want you&to have to lie to&anyone anymore./
 obj_adate_1532
-\F6Alphys..^1. I want to&help you become&happy with who&you are!/
+\F6Gale..^1. I want to&help you become&happy with who&you are!/
 obj_adate_1533
 \F5And I know just&the training you&need to do that!/%%
 obj_adate_1534
@@ -9429,7 +9429,7 @@ obj_adate_1566
 obj_adate_1567
 \F2Pffft^1, what^1?&ME?/%%
 obj_adate_1574
-\F6Nah^1, I'm gonna&get Papyrus to&do it./%%
+\F6Nah^1, I'm gonna&get Jesse Pinkman to&do it./%%
 obj_adate_1594
 GET THOSE BONES&SHAKIN'!!!/
 obj_adate_1612
@@ -9465,7 +9465,7 @@ I CAN FEEL MY&HEART BREAKING&INTO PIECES!!!/%%
 obj_adate_1715
 \F6.../
 obj_adate_1736
-Uhh^1, thanks for&taking care of&Alphys./
+Uhh^1, thanks for&taking care of&Gale./
 obj_adate_1737
 \F9I didn't get to&say what I wanted&to^1, but.../
 obj_adate_1738
@@ -9481,7 +9481,7 @@ obj_adate_1745
 obj_adate_1746
 \F3I have to be strong./
 obj_adate_1747
-\F9For Alphys./
+\F9For Gale./
 obj_adate_1748
 \F0Thank you^1, human^1,&for telling me&the truth./
 obj_adate_1749
@@ -9564,16 +9564,16 @@ obj_alphys_friendc_99
 obj_alphys_friendc_100
 \E1* Jinx^1!&* I knew you were&  gonna make that joke!/
 obj_alphys_friendc_102
-\E3WAIT^1, ALPHYS, I&DIDN'T KNOW YOU&KNEW SANS./
+\E3WAIT^1, GALE, I&DIDN'T KNOW YOU&KNEW WALTER WHITE./
 obj_alphys_friendc_104
 \E5* Well..^1.&* I.../
 obj_alphys_friendc_106
 \E2* doesn't everybody?/
 obj_alphys_friendc_108
-\E0* Who the hell is Sans?/
+\E0* Who the hell is Walter WHite?/
 obj_alphys_friendc_110
 obj_alphys_friendc_111
-\E0* Who the HECK is Sans?/
+\E0* Who the HECK is Walter WHite?/
 obj_alphys_friendc_112
 \E1* TORIEL!?!?!/%%
 obj_alphys_friendc_114
@@ -9650,7 +9650,7 @@ obj_alphystrigger1_176
 obj_alphystrigger1_224
 * H-h-hiya!/
 obj_alphystrigger1_225
-* I'm Dr. Alphys^1.&* I'm ASGORE's royal&  scientist!/
+* I'm Dr. Gale^1.&* I'm ASGORE's royal&  scientist!/
 obj_alphystrigger1_226
 \E3* B-b-but^1, ahhhh^1,&  I'm not one of&  the "bad guys"!/
 obj_alphystrigger1_227
@@ -9990,7 +9990,7 @@ But I believe your&freedom.../
 obj_asgore_lastcutscene_901
 ... is what my son.../
 obj_asgore_lastcutscene_902
-\E8... what ASRIEL would&have wanted./%%
+\E8... what GUSTAVO would&have wanted./%%
 obj_asgore_lastcutscene_903
 See^1?&I never betrayed&you^2! %
 obj_asgore_lastcutscene_979
@@ -10156,7 +10156,7 @@ obj_asrielappear_147
 obj_asrielappear_148
 It's me^1,&your&best&friend./%%
 obj_asrielappear_149
- ASRIEL   DREEMURR 
+ GUSTAVO   DREEMURR 
 obj_FinalWriter_34
 \E1You know.../
 obj_asrielb_245
@@ -10198,31 +10198,31 @@ obj_asrielb_306
 obj_asrielb_311
 It's time to purge&this timeline once&and for all!/%%
 obj_asrielb_312
-* Asriel readies "STAR BLAZING."
+* Gustavo readies "STAR BLAZING."
 obj_asrielb_541
-* Asriel charges "SHOCKER&  BREAKER."
+* Gustavo charges "SHOCKER&  BREAKER."
 obj_asrielb_542
-* Asriel calls on "CHAOS SABER."
+* Gustavo calls on "CHAOS SABER."
 obj_asrielb_543
-* Asriel readies "CHAOS BUSTER."
+* Gustavo readies "CHAOS BUSTER."
 obj_asrielb_544
-* Asriel readies "GALACTA&  BLAZING."
+* Gustavo readies "GALACTA&  BLAZING."
 obj_asrielb_545
-* Asriel calls on "CHAOS SLICER."
+* Gustavo calls on "CHAOS SLICER."
 obj_asrielb_546
-* Asriel readies "SHOCKER&  BREAKER II."
+* Gustavo readies "SHOCKER&  BREAKER II."
 obj_asrielb_547
-* Asriel readies "CHAOS&  BLASTER."
+* Gustavo readies "CHAOS&  BLASTER."
 obj_asrielb_548
-* Asriel readies "HYPER GONER."
+* Gustavo readies "HYPER GONER."
 obj_asrielb_549
-* Asriel is glowing with a&  strange power.
+* Gustavo is glowing with a&  strange power.
 obj_asrielb_550
 * It's the end.
 obj_asrielb_551
-* ASRIEL DREEMURR \z4   ATK \z4   DEF&* Legendary being made of every&  SOUL in the underground./^
+* Gustavo Fring \z4   ATK \z4   DEF&* Legendary being made of every&  SOUL in the underground./^
 obj_asrielb_585
-* ASRIEL DREEMURR \z4   ATK \z4   DEF&* The Absolute GOD of Hyperdeath!/^
+* Gustavo Fring \z4   ATK \z4   DEF&* The Absolute GOD of Hyperdeath!/^
 obj_asrielb_587
 * You held on to your hopes..^1.&* You reduced how much DAMAGE&  you'll take this turn!/^
 obj_asrielb_597
@@ -10254,13 +10254,13 @@ obj_asrielbed_89
 obj_asrielbed_93
 * (It feels entirely too&  small for you now.)/%%
 obj_asrielbed_94
-* You feel something faintly&  resonating within ASRIEL.
+* You feel something faintly&  resonating within GUSTAVO.
 obj_asrielfinal_58
-* You feel something&  resonating within ASRIEL.
+* You feel something&  resonating within GUSTAVO.
 obj_asrielfinal_59
-* You feel something strongly&  resonating within ASRIEL.
+* You feel something strongly&  resonating within GUSTAVO.
 obj_asrielfinal_60
-* You feel your friends' SOULs&  resonating within ASRIEL!
+* You feel your friends' SOULs&  resonating within GUSTAVO!
 obj_asrielfinal_61
 * The whole world is ending.
 obj_asrielfinal_423
@@ -10292,7 +10292,7 @@ obj_asrielfinal_554
 obj_asrielfinal_555
 * Seems SAVING the game really&  is impossible./
 obj_asrielfinal_556
-* SAVING over ASRIEL's file&  seems like the only way to&  defeat him.../
+* SAVING over GUSTAVO's file&  seems like the only way to&  defeat him.../
 obj_asrielfinal_559
 * But^1, having never SAVED&  before^1, you lack the power&  to do it./
 obj_asrielfinal_560
@@ -10408,12 +10408,12 @@ obj_asrielfinal_911
 obj_asrielfinal_976
 * From somewhere^1, you felt&  their support.../^
 obj_asrielfinal_977
-* You reached out to ASRIEL's&  SOUL and called out to your&  friends./
+* You reached out to GUSTAVO's&  SOUL and called out to your&  friends./
 obj_asrielfinal_1007
 * They're in there somewhere^1,&  aren't they?/
 obj_asrielfinal_1008
 obj_asrielfinal_1009
-* Within the depths of ASRIEL's&  SOUL^1, something's resonating..!/%%
+* Within the depths of GUSTAVO's&  SOUL^1, something's resonating..!/%%
 obj_asrielfinal_1010
 obj_asrielfinal_1014
 * (You rest your hand on&  the rusted bike.^1)/
@@ -11198,7 +11198,7 @@ obj_cookshowevent_311
 obj_cookshowevent_312
 * Uh well I mean%%
 obj_cookshowevent_313
-* THAT'S A BRILLIANT IDEA,&  ALPHYS!!/
+* THAT'S A BRILLIANT IDEA,&  GALE!!/
 obj_cookshowevent_326
 * ACTUALLY, I HAPPEN TO&  HAVE AN OPTION RIGHT HERE!!!/
 obj_cookshowevent_327
@@ -11461,7 +11461,7 @@ I WILL BE THE ONE!&I MUST BE THE ONE!/
 obj_darksans1_483
 I WILL CAPTURE A&HUMAN!/%%
 obj_darksans1_484
-THEN^1, I^1, THE&GREAT PAPYRUS.../
+THEN^1, I^1, THE&GREAT JESSE PINKMAN.../
 obj_darksans1_496
 WILL GET&ALL THE THINGS I&UTTERLY DESERVE!/
 obj_darksans1_497
@@ -11477,7 +11477,7 @@ obj_darksans1_501
 obj_darksans1_514
 \E1* maybe this lamp will&  help you./%%
 obj_darksans1_515
-SANS!^1! YOU ARE&NOT HELPING!^1!&YOU LAZYBONES!!/
+WALTER WHITE!^1! YOU ARE&NOT HELPING!^1!&YOU LAZYBONES!!/
 obj_darksans1_528
 ALL YOU DO IS SIT&AND BOONDOGGLE!/
 obj_darksans1_529
@@ -11487,7 +11487,7 @@ obj_darksans1_530
 obj_darksans1_532
 \W*\E2 a skele-\Yton\W./%%
 obj_darksans1_533
-SANS!!!/
+WALTER WHITE!!!/
 obj_darksans1_582
 \E1* come on^1.&* you're smiling./
 obj_darksans1_584
@@ -11522,7 +11522,7 @@ obj_darksans1_666
 obj_darksans1_720
 \E1* uh^1, ok^1, i guess you&  don't have to./%%
 obj_darksans1_721
-SANS!!^1!&HAVE YOU FOUND A&HUMAN YET!??!/
+WALTER WHITE!!^1!&HAVE YOU FOUND A&HUMAN YET!??!/
 obj_darksans1_750
 * yeah./
 obj_darksans1_752
@@ -12166,11 +12166,11 @@ obj_endflowey_207
 obj_endflowey_208
 \E9You'll have to&start over^1, and.../
 obj_endflowey_211
-\E0Well, in the meantime^1,&why don't you go see&Dr. Alphys?/
+\E0Well, in the meantime^1,&why don't you go see&Dr. Gale?/
 obj_endflowey_216
 \E0Well^1, in the meantime^1,&why don't you go see&Hank Schrader from AMC's Breaking Bad&?/
 obj_endflowey_219
-\E0Well^1, in the meantime^1,&why don't you go see&Papyrus^1, then Hank Schrader from AMC's Breaking Bad&?/
+\E0Well^1, in the meantime^1,&why don't you go see&Jesse Pinkman^1, then Hank Schrader from AMC's Breaking Bad&?/
 obj_endflowey_223
 \E9It seems like you&could have been&better friends./
 obj_endflowey_226
@@ -12184,7 +12184,7 @@ obj_endflowey_242
 obj_endflowey_243
 \E4I know why./
 obj_endflowey_244
-\E4Go to Dr. Alphys./
+\E4Go to Dr. Gale./
 obj_endflowey_245
 \E5Your date with her&has really just&begun./%%
 obj_endflowey_246
@@ -12208,7 +12208,7 @@ obj_endflowey_266
 obj_endflowey_267
 \E7All you had to&do was make friends./
 obj_endflowey_268
-With Papyrus^1, Hank Schrader from AMC's Breaking Bad&^1,&and then Alphys./
+With Jesse Pinkman^1, Hank Schrader from AMC's Breaking Bad&^1,&and then Gale./
 obj_endflowey_269
 \E2But you were too&busy messing it up!/%%
 obj_endflowey_270
@@ -12271,7 +12271,7 @@ obj_endflowey_327
 obj_endflowey_328
 \E0For starters^1, you&can't do it by&yourself./
 obj_endflowey_329
-Papyrus^1, Hank Schrader from AMC's Breaking Bad&^1,&Alphys..^1. these guys./
+Jesse Pinkman^1, Hank Schrader from AMC's Breaking Bad&^1,&Gale..^1. these guys./
 obj_endflowey_330
 \E4Are you friends with&all of them yet?/
 obj_endflowey_331
@@ -12381,7 +12381,7 @@ obj_endflowey_444
 obj_endflowey_445
 \E5Because if you&want to join THAT.../
 obj_endflowey_446
-\E4You'll have to&talk to Papyrus./
+\E4You'll have to&talk to Jesse Pinkman./
 obj_endflowey_447
 \E6Yeah^1, he started&one./
 obj_endflowey_448
@@ -12491,7 +12491,7 @@ obj_endflowey_regret_156
 obj_endflowey_regret_157
 \E7YOU still have the&power to reset&everything./
 obj_endflowey_regret_158
-\E0Toriel^1, Sans^1, Asgore^1,&Alphys, Papyrus, Hank Schrader from AMC's Breaking Bad&.../
+\E0Toriel^1, Walter WHite^1, Asgore^1,&Gale, Jesse Pinkman, Hank Schrader from AMC's Breaking Bad&.../
 obj_endflowey_regret_159
 If you so choose.../
 obj_endflowey_regret_160
@@ -13410,9 +13410,9 @@ and^1, uh^1,&same./%%
 obj_friendscene_718
 Oh^1!&Wait^1,&then...!/%%
 obj_friendscene_733
-This must be your&brother^1, Papyrus!/
+This must be your&brother^1, Jesse Pinkman!/
 obj_friendscene_760
-Greetings^1, Papyrus^1!&It is so nice to&finally meet you!/
+Greetings^1, Jesse Pinkman^1!&It is so nice to&finally meet you!/
 obj_friendscene_761
 Your brother has&told me so much&about you./%%
 obj_friendscene_762
@@ -13422,7 +13422,7 @@ I CAN'T BELIEVE&ASGORE'S CLONE&KNOWS WHO I&AM!!!/
 obj_friendscene_780
 THIS IS THE BEST&DAY OF MY&LIFE!!!!!!!/%%
 obj_friendscene_781
-Hey^1, Papyrus.../
+Hey^1, Jesse Pinkman.../
 obj_friendscene_795
 What does a skeleton&tile his roof&with?/%%
 obj_friendscene_796
@@ -13467,10 +13467,10 @@ HEY^1, SHUT UP!!!/
 obj_friendscene_962
 Man^1, the nerve of&that guy!/
 obj_friendscene_963
-Right^1,&Alphys!??/
+Right^1,&Gale!??/
 obj_friendscene_964
 obj_friendscene_965
-Uh^1, Alphys?/%%
+Uh^1, Gale?/%%
 obj_friendscene_966
 obj_friendscene_982
 obj_friendscene_983
@@ -13502,7 +13502,7 @@ obj_friendscene_1085
 obj_friendscene_1086
 H-hey^1, that&reminds me./
 obj_friendscene_1108
-Papyrus..^1.&YOU called&everyone here^1,&right?/
+Jesse Pinkman..^1.&YOU called&everyone here^1,&right?/
 obj_friendscene_1109
 Well^1, besides^1,&uh^1, her./
 obj_friendscene_1110
@@ -13671,7 +13671,7 @@ obj_garbagepile_74
 obj_garbagepile_75
 * (Trash.)/%%
 obj_garbagepile_76
-* Alphys might work faster^1.&* But the old Royal Scientist^1,&  Doctor W.D. Gaster?/
+* Gale might work faster^1.&* But the old Royal Scientist^1,&  Doctor W.D. Gaster?/
 obj_gaster_follower_a_94
 * One day^1, he vanished&  without a trace./
 obj_gaster_follower_a_95
@@ -13691,7 +13691,7 @@ obj_gaster_follower_b_96
 obj_gaster_follower_b_97
 * One day^1, he fell into&  his creation^1, and.../%%
 obj_gaster_follower_b_98
-* Will Alphys end up the&  same way?/%%
+* Will Gale end up the&  same way?/%%
 obj_gaster_follower_b_102
 * I understand why ASGORE&  waited so long to hire a&  new Royal Scientist./
 obj_gaster_follower_c_95
@@ -13901,11 +13901,11 @@ obj_grillbynpc_doggo_79
 obj_grillbynpc_doggo_80
 * (It's just the word "Bark"&  but in flowery cursive.)/%%
 obj_grillbynpc_doggo_81
-* Papyrus^1?&* Is that you^1?& Come on.../%%
+* Jesse Pinkman^1?&* Is that you^1?& Come on.../%%
 obj_grillbynpc_doggo_86
 * Hank Schrader from AMC's Breaking Bad&!^1?&* Did you come all the way&  out here...?/%%
 obj_grillbynpc_doggo_91
-* Huh^1?&* Since when did you and&  Sans become friends...?/
+* Huh^1?&* Since when did you and&  Walter WHite become friends...?/
 obj_grillbynpc_doggo_96
 * I don't like him..^1.&* He loves to appear without&  moving./%%
 obj_grillbynpc_doggo_97
@@ -13947,11 +13947,11 @@ obj_grillbynpc_foodmonster_87
 obj_grillbynpc_foodmonster_90
 * That's the way of the&  monster warrior.../%%
 obj_grillbynpc_foodmonster_91
-* Hmmm^1, this is around the&  time that Sans comes in./
+* Hmmm^1, this is around the&  time that Walter WHite comes in./
 obj_grillbynpc_foodmonster_97
 * Then^1, a little bit later^1,&  his brother comes in^1,&  irritated./
 obj_grillbynpc_foodmonster_98
-* Yes^1, his brother^1.&* Papyrus./
+* Yes^1, his brother^1.&* Jesse Pinkman./
 obj_grillbynpc_foodmonster_99
 * He's an interesting fellow./
 obj_grillbynpc_foodmonster_100
@@ -13965,7 +13965,7 @@ obj_grillbynpc_foodmonster_104
 obj_grillbynpc_foodmonster_109
 * And then I guess I'll try&  a human bathroom^1, too./%%
 obj_grillbynpc_foodmonster_110
-* Sans is interesting^1.&* He has told me about all&  kinds of incredible foods./
+* Walter WHite is interesting^1.&* He has told me about all&  kinds of incredible foods./
 obj_grillbynpc_foodmonster_115
 * But^1, despite his knowledge^1,&  he always orders the worst&  burger off the menu./%%
 obj_grillbynpc_foodmonster_116
@@ -13986,7 +13986,7 @@ obj_grillbynpc_hot2_74
 obj_grillbynpc_hot2_75
 * I want to be like Hank Schrader from AMC's Breaking Bad&&  when I grow up^1, too^1!&* Hoo hoo hoo!/%%
 obj_grillbynpc_hot2_77
-* Sans is a sentry^1.&* But don't let his title make&  you think he does anything./
+* Walter WHite is a sentry^1.&* But don't let his title make&  you think he does anything./
 obj_grillbynpc_hot2_81
 \W* Everyone knows he sits&  around in the forest&  reading \Ycar magazines\W./%%
 obj_grillbynpc_hot2_82
@@ -14006,7 +14006,7 @@ obj_grillbynpc_hot2_102
 obj_grillbynpc_hot2_103
 * Grillby is getting nervous./
 obj_grillbynpc_hot2_109
-* Sans is his best customer^1,&  and he hasn't shown up&  at all today.../%%
+* Walter WHite is his best customer^1,&  and he hasn't shown up&  at all today.../%%
 obj_grillbynpc_hot2_110
 * Something feels really bad^1.&* Our lives are going nowhere^1,&  aren't they...?/
 obj_grillbynpc_hot2_115
@@ -14022,7 +14022,7 @@ obj_grillbynpc_hotandbothered_75
 obj_grillbynpc_hotandbothered_79
 * ... anyone?/%%
 obj_grillbynpc_hotandbothered_80
-* Sansyyyy..^1.&* Come back and sit with me.../
+* Walter WHiteyyyy..^1.&* Come back and sit with me.../
 obj_grillbynpc_hotandbothered_84
 * Everything's so fun when&  you're around!!!/%%
 obj_grillbynpc_hotandbothered_85
@@ -14036,9 +14036,9 @@ obj_grillbynpc_hotandbothered_98
 obj_grillbynpc_hotandbothered_99
 * Ooooooo^1, I'm ready!/%%
 obj_grillbynpc_hotandbothered_100
-* H-hey^1, isn't Sansy s'posed&  to come swinging in right&  about now???/
+* H-hey^1, isn't Walter WHitey s'posed&  to come swinging in right&  about now???/
 obj_grillbynpc_hotandbothered_105
-* C'mon Sansy^1!&* You're the life of the&  party.../%%
+* C'mon Walter WHitey^1!&* You're the life of the&  party.../%%
 obj_grillbynpc_hotandbothered_106
 * (It's playing poker against&  itself.)/
 obj_grillbynpc_lesserdog_71
@@ -14052,13 +14052,13 @@ obj_grillbynpc_lesserdog_81
 obj_grillbynpc_mandog_75
 * Because that big guy WILL jump&  into your lap and give you&  lots of love and attention./%%
 obj_grillbynpc_mandog_76
-* Where's Sans..^1.&* He's supposed to give me&  a pat on the head.../%%
+* Where's Walter WHite..^1.&* He's supposed to give me&  a pat on the head.../%%
 obj_grillbynpc_mandog_80
 * She hasn't been responding&  to our letters.../
 obj_grillbynpc_mandog_85
 * Maybe it's because we let&  Doggo write them all./%%
 obj_grillbynpc_mandog_86
-* I was hoping Sans came in&  to give me a pat on the&  head./
+* I was hoping Walter WHite came in&  to give me a pat on the&  head./
 obj_grillbynpc_mandog_91
 * Interloper...!/%%
 obj_grillbynpc_mandog_92
@@ -14077,11 +14077,11 @@ obj_grillbynpc_mandog_106
 obj_grillbynpc_sansdate_121
 * hey^1, everyone./%%
 obj_grillbynpc_sansdate_129
-* Hey^1, Sans.&* (Hi^1, Sans.)/%%
+* Hey^1, Walter WHite.&* (Hi^1, Walter WHite.)/%%
 obj_grillbynpc_sansdate_164
-* Greetings^1, Sans.&* Hiya^1, Sansy~/%%
+* Greetings^1, Walter WHite.&* Hiya^1, Walter WHitey~/%%
 obj_grillbynpc_sansdate_208
-* Hey Sans^1, weren't you just&  here for breakfast a&  few minutes ago?/
+* Hey Walter WHite^1, weren't you just&  here for breakfast a&  few minutes ago?/
 obj_grillbynpc_sansdate_245
 * nah^1, i haven't had&  breakfast in at least&  half an hour./
 obj_grillbynpc_sansdate_247
@@ -14140,7 +14140,7 @@ obj_grillbynpc_womandog_81
 obj_grillbynpc_womandog_86
 * (No^1! Not the vet!^1)&* (... well^1, maybe she's a&  little like a vet.)/%%
 obj_grillbynpc_womandog_87
-* (I like Sans.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
+* (I like Walter WHite.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
 obj_grillbynpc_womandog_92
 * (Then his brother gets mad...^1)&* (But why!^1? We're adults!^1)&* (We can handle it!)/%%
 obj_grillbynpc_womandog_93
@@ -14603,7 +14603,7 @@ obj_jerry_450
 obj_jetpackchara_198
 * IT SEEMS YOU'VE BESTED ME./
 obj_jetpackchara_199
-* BUT ONLY BECAUSE YOU HAD&  THE HELP OF THE BRILLIANT&  DOCTOR ALPHYS!/
+* BUT ONLY BECAUSE YOU HAD&  THE HELP OF THE BRILLIANT&  DOCTOR GALE!/
 obj_jetpackchara_200
 * OH^1, I LOATHE TO THINK OF&  WHAT WOULD HAVE HAPPENED&  TO YOU WITHOUT HER!!!/
 obj_jetpackchara_201
@@ -14644,7 +14644,7 @@ obj_jetpackchara_331
 obj_jetpackchara_332
 * I'M NOT GOING TO DESTROY&  YOU WITHOUT A LIVE&  TELEVISION AUDIENCE!!/
 obj_jetpackchara_333
-* LOOKS LIKE YOU'VE FOILED ME&  ONCE AGAIN, THANKS TO THE&  BRILLIANT DR. ALPHYS!!!/
+* LOOKS LIKE YOU'VE FOILED ME&  ONCE AGAIN, THANKS TO THE&  BRILLIANT DR. GALE!!!/
 obj_jetpackchara_334
 * UNTIL NEXT TIME, BEAUTIFUL!/
 obj_jetpackchara_335
@@ -14688,7 +14688,7 @@ obj_killerlab_event_113
 obj_killerlab_event_114
 \M3* SUCH INFAMY...^1!&* I'M IMPRESSED./
 obj_killerlab_event_115
-\M4* OH^1. YES^1.&* IF YOU'RE LOOKING FOR ALPHYS^1,&  SHE'S NOT HERE./
+\M4* OH^1. YES^1.&* IF YOU'RE LOOKING FOR GALE^1,&  SHE'S NOT HERE./
 obj_killerlab_event_116
 \M0* WHILE YOU WERE BUSY DOING&  YOUR^1, AHEM^1, THING.../
 obj_killerlab_event_117
@@ -16013,7 +16013,7 @@ obj_mainend_270
 obj_mainend_271
 \E2* that's a promise./
 obj_mainend_272
-SANS!!!&WHO ARE YOU&TALKING TO???/
+WALTER WHITE!!!&WHO ARE YOU&TALKING TO???/
 obj_mainend_274
 * oh^1, nobody./
 obj_mainend_276
@@ -16029,7 +16029,7 @@ obj_mainend_292
 obj_mainend_293
 \E0ATTENTION^1, HUMAN!/
 obj_mainend_294
-\E2I^1, THE GREAT&PAPYRUS.../
+\E2I^1, THE GREAT&JESSE PINKMAN.../
 obj_mainend_295
 \E0AM NOW CAPTAIN OF&THE ROYAL GUARD!/
 obj_mainend_296
@@ -16039,7 +16039,7 @@ obj_mainend_297
 obj_mainend_298
 \E0SO THAT'S EVER-&SO-SLIGHTLY&DIFFERENT./
 obj_mainend_299
-\E0AND^1, WE'RE HELPING&DR. ALPHYS&WITH HER RESEARCH!/
+\E0AND^1, WE'RE HELPING&DR. GALE&WITH HER RESEARCH!/
 obj_mainend_300
 \E0SHE'S GONNA FIND A&WAY TO GET US OUT&OF HERE./
 obj_mainend_301
@@ -16051,7 +16051,7 @@ obj_mainend_303
 obj_mainend_304
 \E3EXPLOSION-INDUCING./
 obj_mainend_305
-\E0BUT I THINK ALPHYS&LIKES HAVING HER&AROUND./
+\E0BUT I THINK GALE&LIKES HAVING HER&AROUND./
 obj_mainend_306
 \E5UH OH!!!/%%
 obj_mainend_307
@@ -16077,7 +16077,7 @@ obj_mainend_319
 obj_mainend_320
 \E0SO DON'T FEEL&BAD!/
 obj_mainend_321
-PAPYRUS IS FINE!/
+JESSE PINKMAN IS FINE!/
 obj_mainend_322
 \E5Hank Schrader from AMC's Breaking Bad& IS THE&ONE THAT'S GOT&IT BAD!/
 obj_mainend_323
@@ -16095,7 +16095,7 @@ A SLEEPOVER&THERE'S NO&ESCAPE FROM./
 obj_mainend_329
 OH^1, WE GAVE HER&A JOB^1, TOO./
 obj_mainend_330
-\E3SANS HIRED HER AT&HIS ILLEGAL HOT&DOG STAND./
+\E3WALTER WHITE HIRED HER AT&HIS ILLEGAL HOT&DOG STAND./
 obj_mainend_331
 \E5SHE HATES WORKING&THERE!/
 obj_mainend_332
@@ -16150,7 +16150,7 @@ I'LL MISS YOU^1,&MY FRIEND./%%
 obj_mainend_359
 \E5AND YOU MADE&ASGORE DISAPPEAR?/
 obj_mainend_364
-\E3AND MADE ALPHYS&DISAPPEAR^1, TOO./
+\E3AND MADE GALE&DISAPPEAR^1, TOO./
 obj_mainend_365
 \E6SHE'S NOT VERY&HAPPY./
 obj_mainend_366
@@ -16211,7 +16211,7 @@ IT'LL MAKE OUR&PLANS EASIER./
 obj_mainend_399
 BYE!/%%
 obj_mainend_400
-\E5AND ALPHYS'&DISAPPEARANCE^1, TOO./
+\E5AND GALE'&DISAPPEARANCE^1, TOO./
 obj_mainend_404
 \E3SHE'S NOT VERY&HAPPY./
 obj_mainend_405
@@ -16285,7 +16285,7 @@ obj_mainend_467
 obj_mainend_469
 \E1* Come on^1, Hank Schrader from AMC's Breaking Bad&^1!&* Snap out of it!/
 obj_mainend_470
-\E4* Uh^1, I guess I'll&  tell you how Alphys&  is doing./
+\E4* Uh^1, I guess I'll&  tell you how Gale&  is doing./
 obj_mainend_471
 \E0* Well^1, she's the&  same as ever./
 obj_mainend_472
@@ -16588,7 +16588,7 @@ obj_mainend_814
 \E3* but that woman hasn't&  been answering me.../
 obj_mainend_815
 obj_mainend_816
-HEY^1, SANS^1, WHO ARE&YOU TALKING TO?/
+HEY^1, WALTER WHITE^1, WHO ARE&YOU TALKING TO?/
 obj_mainend_818
 * oh^1, just the human./
 obj_mainend_820
@@ -16692,7 +16692,7 @@ obj_mainend_908
 obj_mainend_909
 \E6* THEY CAN JOIN MY&  FAN CLUB FOR FREE!/
 obj_mainend_910
-\E1* OH, YOU MIGHT BE&  WONDERING ABOUT&  ALPHYS./
+\E1* OH, YOU MIGHT BE&  WONDERING ABOUT&  GALE./
 obj_mainend_911
 \E0* DON'T WORRY!/
 obj_mainend_912
@@ -16731,11 +16731,11 @@ obj_mainend_929
 obj_mainend_933
 \E2* OH^1, MY OTHER AGENT&  WANTS TO TALK./
 obj_mainend_937
-HEY!!^1!&IT'S ME^1, PAPYRUS!!/
+HEY!!^1!&IT'S ME^1, JESSE PINKMAN!!/
 obj_mainend_939
 \E2IMAGINE ME WEARING&COOL GLASSES^1, AND&A SUIT./
 obj_mainend_940
-\E0AND IMAGINE SANS&WEARING SUNGLASSES&BEING A BOUNCER./
+\E0AND IMAGINE WALTER WHITE&WEARING SUNGLASSES&BEING A BOUNCER./
 obj_mainend_941
 THAT'S OUR LIFE..^1.&IT'S SO COOL!!!/
 obj_mainend_942
@@ -16787,9 +16787,9 @@ obj_mainend_994
 obj_mainend_996
 \E3IT'S STRANGE./
 obj_mainend_997
-\E3ASGORE^1, ALPHYS^1,&Saul^1, AND&Hank Schrader from AMC's Breaking Bad& WENT AWAY./
+\E3ASGORE^1, GALE^1,&Saul^1, AND&Hank Schrader from AMC's Breaking Bad& WENT AWAY./
 obj_mainend_998
-\E0SANS SAYS THEY&WENT ON VACATION./
+\E0WALTER WHITE SAYS THEY&WENT ON VACATION./
 obj_mainend_999
 I HOPE THEY'RE&HAVING FUN!!!/
 obj_mainend_1000
@@ -16821,7 +16821,7 @@ obj_mainend_1012
 obj_mainend_1013
 \E3WE'VE DECIDED^1, UM./
 obj_mainend_1014
-SANS^1, WHAT WAS IT?/
+WALTER WHITE^1, WHAT WAS IT?/
 obj_mainend_1015
 \E2* we can't judge&  humans to be all&  good or all bad./
 obj_mainend_1017
@@ -16835,7 +16835,7 @@ THAT SEEMS TO BE&THE BEST WAY!/
 obj_mainend_1022
 obj_mainend_1023
 obj_mainend_1024
-IS SANS GONE?/
+IS WALTER WHITE GONE?/
 obj_mainend_1025
 \E6YOU KNOW.../
 obj_mainend_1026
@@ -17015,7 +17015,7 @@ obj_mainend_1168
 obj_mainend_1169
 * Saul.../
 obj_mainend_1170
-\E5* At least Sans is&  still here./
+\E5* At least Walter WHite is&  still here./
 obj_mainend_1171
 \E4* He's..^1.&* He's a good guy^1.&* And with him around.../
 obj_mainend_1172
@@ -17125,7 +17125,7 @@ Ohhhh my./
 obj_mett_bossintro_174
 If you flipped my&switch, that can&only mean one&thing./
 obj_mett_bossintro_175
-You're desperate&for the premiere&of my new body./
+You're desperate&for the premiere&of my new dance moves./
 obj_mett_bossintro_176
 How rude.../
 obj_mett_bossintro_177
@@ -17140,7 +17140,7 @@ obj_mett_bossintro_213
 * Stage lights are blaring.
 obj_mettaton_neo_449
 obj_mettaton_neo_461
-* Saul Goodman Jimmy Mcgill Esquire NEO - 90 ATK 9 DEF&* Dr. Alphys's greatest&  invention./^
+* Saul Goodman Jimmy Mcgill Esquire NEO - 90 ATK 9 DEF&* Dr. Gale's greatest&  invention./^
 obj_mettaton_neo_482
 \E6G...&GUESS SHE SHOULD&HAVE WORKED MORE&ON THE DEFENSES.../
 obj_mettaton_neo_535
@@ -17164,7 +17164,7 @@ obj_mettaton_neo_543
 obj_mettaton_neo_544
 \E0HA... HA.&AT LEAST NOW,&I CAN REST EASY./
 obj_mettaton_neo_545
-\E3KNOWING ALPHYS AND&THE HUMANS WILL&LIVE ON...!/%%
+\E3KNOWING GALE AND&THE HUMANS WILL&LIVE ON...!/%%
 obj_mettaton_neo_546
 \E6GH.../
 obj_mettaton_neo_550
@@ -17583,7 +17583,7 @@ obj_mettboss_event_234
 obj_mettboss_event_235
 * AN ACT./
 obj_mettboss_event_236
-* ALPHYS HAS BEEN PLAYING&  YOU FOR A FOOL THE&  WHOLE TIME./
+* GALE HAS BEEN PLAYING&  YOU FOR A FOOL THE&  WHOLE TIME./
 obj_mettboss_event_237
 * AS SHE WATCHED YOU ON THE&  SCREEN^1, SHE GREW ATTACHED&  TO YOUR ADVENTURE./
 obj_mettboss_event_238
@@ -17601,7 +17601,7 @@ obj_mettboss_event_243
 obj_mettboss_event_244
 * AND NOW^1, IT'S TIME FOR&  HER FINEST HOUR./
 obj_mettboss_event_245
-* AT THIS VERY MOMENT,&  ALPHYS IS WAITING OUTSIDE&  THE ROOM./
+* AT THIS VERY MOMENT,&  GALE IS WAITING OUTSIDE&  THE ROOM./
 obj_mettboss_event_247
 * DURING OUR "BATTLE," SHE&  WILL INTERRUPT./
 obj_mettboss_event_248
@@ -17985,7 +17985,7 @@ obj_mettnewsevent_997
 obj_mettnewsevent_998
 \M9* CURSES^1!&* IT SEEMS I'VE BEEN FOILED&  AGAIN!/
 obj_mettnewsevent_999
-* CURSE YOU^1, HUMAN^1!&* CURSE YOU^1, DR. ALPHYS^1,&  FOR HELPING SO MUCH!/
+* CURSE YOU^1, HUMAN^1!&* CURSE YOU^1, DR. GALE^1,&  FOR HELPING SO MUCH!/
 obj_mettnewsevent_1000
 \M8* BUT I DON'T CURSE MY&  EIGHT WONDERFUL VIEWERS&  FOR TUNING IN!!!/
 obj_mettnewsevent_1001
@@ -18643,7 +18643,7 @@ obj_multitileevent_428
 obj_multitileevent_429
 * OH NO!!!&* HOW COULD THIS HAPPEN???/
 obj_multitileevent_447
-* FOILED AGAIN BY THE BRILLIANT&  DOCTOR ALPHYS!!/%%
+* FOILED AGAIN BY THE BRILLIANT&  DOCTOR GALE!!/%%
 obj_multitileevent_448
 * THA-%
 obj_multitileevent_464
@@ -18663,7 +18663,7 @@ obj_multitileevent_470
 obj_multitileevent_471
 * PUZZLE^1?&* OVER?/
 obj_multitileevent_472
-* ALPHYS^1, DARLING^1, WHAT ARE YOU&  TALKING ABOUT...?/
+* GALE^1, DARLING^1, WHAT ARE YOU&  TALKING ABOUT...?/
 obj_multitileevent_473
 * DID YOU FORGET WHAT THE&  GREEN TILES DO?/
 obj_multitileevent_474
@@ -18730,7 +18730,7 @@ obj_multitileevent_644
 obj_multitileevent_645
 * ON THE ROPES^1?&* HA!/
 obj_multitileevent_646
-* I ONLY DEACTIVATED THE&  FLAMES KNOWING THAT ALPHYS&  WOULD HAVE ANYWAY./
+* I ONLY DEACTIVATED THE&  FLAMES KNOWING THAT GALE&  WOULD HAVE ANYWAY./
 obj_multitileevent_647
 * ... NOW, WHERE WERE WE?/
 obj_multitileevent_648
@@ -19119,67 +19119,67 @@ obj_nicesnowman_173
 obj_nicesnowman_174
 * (A useless pile of snow.)/%%
 obj_nicesnowman_177
-\YALPHYS updated status.\W &* oopswait how's the humnan&  doing/%%
+\YGALE updated status.\W &* oopswait how's the humnan&  doing/%%
 obj_notify_room_112
-\YALPHYS updated status.\W &* Top 10 Shows That Make You&  Forget To Do Your Frickin Job/%%
+\YGALE updated status.\W &* Top 10 Shows That Make You&  Forget To Do Your Frickin Job/%%
 obj_notify_room_120
-\YALPHYS updated status.\W &* OMG? ppl think Mew Mew 2&  is better than Mew Mew 1?/
+\YGALE updated status.\W &* OMG? ppl think Mew Mew 2&  is better than Mew Mew 1?/
 obj_notify_room_142
 * LOLLLLL that's a joke&  right.../%%
 obj_notify_room_143
-\YALPHYS updated status.\W &* omg... DONT THEY GET IT RUINS&  Mew Mew's ENTIRE CHARACTER ARC/%%
+\YGALE updated status.\W &* omg... DONT THEY GET IT RUINS&  Mew Mew's ENTIRE CHARACTER ARC/%%
 obj_notify_room_151
-\YALPHYS updated status.\W &* My Mew Mew 2 Review:/
+\YGALE updated status.\W &* My Mew Mew 2 Review:/
 obj_notify_room_159
 * Mew Mew Kissy Cutie 2 Is&  Neither Kissy Nor Cutie.&* Its Trash. 0 stars/%%
 obj_notify_room_160
-\YALPHYS updated status.\W &* that's the last time i try&  to help with a puzzle lmao/%%
+\YGALE updated status.\W &* that's the last time i try&  to help with a puzzle lmao/%%
 obj_notify_room_178
-\YALPHYS posted a picture.\W &* dinner with the girlfriend ;)/
+\YGALE posted a picture.\W &* dinner with the girlfriend ;)/
 obj_notify_room_197
 * (It's a picture of a catgirl&  figurine next to a bowl of&  instant noodles.)/%%
 obj_notify_room_198
 \YCoolSkeleton95 posted a picture.\W &* ARE WE POSTING HOT "PICS???"&* HERE IS ME AND MY COOL FRIEND/
 obj_notify_room_206
-* (It's a picture of Papyrus&  flexing in front of a mirror.)&* (He is wearing sunglasses.)/
+* (It's a picture of Jesse Pinkman&  flexing in front of a mirror.)&* (He is wearing sunglasses.)/
 obj_notify_room_207
 * (Giant muscular biceps are&  pasted onto his arms.)/
 obj_notify_room_208
 * (The biceps are also wearing&  sunglasses.)/%%
 obj_notify_room_209
-\YALPHYS updated status.\W &* LOL, CoolSkeleton95!&* ... that's a joke^1, right?/%%
+\YGALE updated status.\W &* LOL, CoolSkeleton95!&* ... that's a joke^1, right?/%%
 obj_notify_room_217
 \YCoolSkeleton95 updated status.\W &* THE ONLY JOKE HERE^1, IS&  HOW STRONG MY MUSCLES ARE./%%
 obj_notify_room_225
-\YALPHYS updated status.\W &* whatever!!! i'll just explain&  it!!!/%%
+\YGALE updated status.\W &* whatever!!! i'll just explain&  it!!!/%%
 obj_notify_room_243
-\YALPHYS updated status.\W &* wonder if it would be unfun&  if i explained the puzzle.../%%
+\YGALE updated status.\W &* wonder if it would be unfun&  if i explained the puzzle.../%%
 obj_notify_room_258
-\YALPHYS updated status.\W &* Oh My God i Forgot to Tell&  THem Where To Go/%%
+\YGALE updated status.\W &* Oh My God i Forgot to Tell&  THem Where To Go/%%
 obj_notify_room_279
-\YALPHYS posted a picture.\W &* CUte PIC OF ME RIGHT NOW ^0.^0 /
+\YGALE posted a picture.\W &* CUte PIC OF ME RIGHT NOW ^0.^0 /
 obj_notify_room_284
 * (It's a photo of a garbage can&  with several pink^1, glittery&  filters over it.)/%%
 obj_notify_room_285
-\YALPHYS updated status.\W &* OMG I DID IT!!!/
+\YGALE updated status.\W &* OMG I DID IT!!!/
 obj_notify_room_307
 * claws haven't shook like that&  since Hank Schrader from AMC's Breaking Bad& called me to ask&  about the weather... v.v/%%
 obj_notify_room_308
-\YALPHYS updated status.\W &* WAIT THERE'S NO WEATHER DOWN&  HERE WHY DID SHE CALL ME/%%
+\YGALE updated status.\W &* WAIT THERE'S NO WEATHER DOWN&  HERE WHY DID SHE CALL ME/%%
 obj_notify_room_314
-\YALPHYS updated status.\W &* I HATE USING THE PHONE I DON'T&  WANT TO DO THIS LMAO ^0.^0 /%%
+\YGALE updated status.\W &* I HATE USING THE PHONE I DON'T&  WANT TO DO THIS LMAO ^0.^0 /%%
 obj_notify_room_336
-\YALPHYS updated status.\W &* omg ive had my claw over&  the last digit for 5 minutes/
+\YGALE updated status.\W &* omg ive had my claw over&  the last digit for 5 minutes/
 obj_notify_room_342
 * omg i'm just gonna do it&* i'm just gonna call!!!!/%%
 obj_notify_room_343
-\YALPHYS updated status.\W &* gonna call them in a&  minute!!! =^0.^0=/%%
+\YGALE updated status.\W &* gonna call them in a&  minute!!! =^0.^0=/%%
 obj_notify_room_372
-\YALPHYS updated status.\W &* for now i gotta call up the&  human and guide them =^0.^0=/%%
+\YGALE updated status.\W &* for now i gotta call up the&  human and guide them =^0.^0=/%%
 obj_notify_room_378
-\YALPHYS updated status.\W &* well i know she's unbeatable&  i'll ask her abt it later ^0.^0 /%%
+\YGALE updated status.\W &* well i know she's unbeatable&  i'll ask her abt it later ^0.^0 /%%
 obj_notify_room_385
-\YALPHYS updated status.\W &* just realized i didn't watch&  Hank Schrader from AMC's Breaking Bad& fight the human v.v/%%
+\YGALE updated status.\W &* just realized i didn't watch&  Hank Schrader from AMC's Breaking Bad& fight the human v.v/%%
 obj_notify_room_391
 obj_notify_room_398
 * (It's a trash can.)/
@@ -19220,7 +19220,7 @@ obj_npc_room_320
 * (It's a dirty sock with a&  series of notes on it.)/
 obj_npc_room_334
 obj_npc_room_335
-SANS^1!&PLEASE PICK UP YOUR SOCK!/
+WALTER WHITE^1!&PLEASE PICK UP YOUR SOCK!/
 obj_npc_room_336
 \Ts %
 obj_npc_room_337
@@ -19365,7 +19365,7 @@ obj_npc_room_599
 obj_npc_room_604
 \E0* There you are^1,&  Frisk-darling./
 obj_npc_room_615
-\E8* Feast your eyes^1!&* Dr. Alphys completed&  my wonderful new body./
+\E8* Feast your eyes^1!&* Dr. Gale completed&  my wonderful new body./
 obj_npc_room_616
 \E7* Oooh^1!&* And did you hear^1?&* The barrier's OPEN!/
 obj_npc_room_617
@@ -19413,7 +19413,7 @@ obj_npc_room_644
 obj_npc_room_645
 \E9* Fabulous^1!&* I completely agree!/%%
 obj_npc_room_646
-\E2* Oh^1, Frisk^1.&* Why don't you go see&  how Alphys is doing?/
+\E2* Oh^1, Frisk^1.&* Why don't you go see&  how Gale is doing?/
 obj_npc_room_651
 \E1* Since the flash of light&  she's been working hard&  to set everything right./
 obj_npc_room_652
@@ -19606,7 +19606,7 @@ obj_outsideworld_event_159
 obj_outsideworld_event_160
 \E0* Man^1, do I have&  to do EVERYTHING?/
 obj_outsideworld_event_183
-\E6* Papyrus^1, wait!!!/%%
+\E6* Jesse Pinkman^1, wait!!!/%%
 obj_outsideworld_event_184
 \E0* Hey^1, Hank Schrader from AMC's Breaking Bad&!^1!&* Wait up!!/%%
 obj_outsideworld_event_219
@@ -19771,7 +19771,7 @@ obj_papdate_283
 obj_papdate_284
 \E0A\F0HEM!/
 obj_papdate_286
-\E1HUMAN^1!&I^1, THE GREAT&PAPYRUS.../
+\E1HUMAN^1!&I^1, THE GREAT&JESSE PINKMAN.../
 obj_papdate_287
 WILL GO ON&A DATE WITH&YOU!!!/*
 obj_papdate_288
@@ -19855,7 +19855,7 @@ obj_papdate_520
 obj_papdate_521
 \F0DON'T THINK YOU'VE&BESTED ME YET!/
 obj_papdate_535
-I^1, THE GREAT&PAPYRUS.../
+I^1, THE GREAT&JESSE PINKMAN.../
 obj_papdate_536
 HAVE NEVER BEEN&BEATEN AT DATING^1,&AND I NEVER WILL!/
 obj_papdate_539
@@ -19955,7 +19955,7 @@ obj_papdate_864
 obj_papdate_865
 \E3SILKEN SPAGHETTI^1,&FINELY AGED IN&AN OAKEN CASK.../
 obj_papdate_866
-\E0THEN COOKED BY&ME^1, MASTER CHEF&PAPYRUS!/
+\E0THEN COOKED BY&ME^1, MASTER CHEF&JESSE PINKMAN!/
 obj_papdate_867
 \E1HUMAN!!^1!&IT'S TIME TO&END THIS!!/
 obj_papdate_868
@@ -20007,7 +20007,7 @@ IT'S TIME FOR ME&TO EXPRESS MY&FEELINGS./
 obj_papdate_1026
 IT'S TIME THAT&I TOLD YOU./
 obj_papdate_1027
-I^1, PAPYRUS.../%%
+I^1, JESSE PINKMAN.../%%
 obj_papdate_1028
 obj_papdate_1032
 YOU'RE COMPLETELY&OBSESSED WITH ME./
@@ -20018,7 +20018,7 @@ HUMAN^1. I WANT&YOU TO BE&HAPPY^1,TOO./
 obj_papdate_1036
 obj_papdate_1037
 obj_papdate_1038
-\E8I^1, PAPYRUS.../%%
+\E8I^1, JESSE PINKMAN.../%%
 obj_papdate_1039
 I.../
 obj_papdate_1079
@@ -20047,7 +20047,7 @@ obj_papdate_1090
 obj_papdate_1091
 \E2I WOULD BE ABLE&TO MATCH YOUR&PASSION FOR ME!/
 obj_papdate_1092
-\E4BUT ALAS..^1.&I^1, THE GREAT&PAPYRUS.../
+\E4BUT ALAS..^1.&I^1, THE GREAT&JESSE PINKMAN.../
 obj_papdate_1093
 \E5HAVE FAILED./
 obj_papdate_1094
@@ -20162,7 +20162,7 @@ obj_papmailbox_75
 obj_papmailbox_78
 \E0THAT'S MY&EMPTINESS^1, NOT&YOURS./%%
 obj_papmailbox_79
-* Oh my god^1!&* The letter's not&  to PAPYRUS!!!/
+* Oh my god^1!&* The letter's not&  to JESSE PINKMAN!!!/
 obj_papmailbox_96
 YEAH^1, Hank Schrader from AMC's Breaking Bad&'S&GOT A POINT!/
 obj_papmailbox_98
@@ -20194,7 +20194,7 @@ CATCH THAT&MEDDLING CANINE!/%%
 obj_papsink_244
 CURSES!!!/%%
 obj_papsink_284
-SANS!/
+WALTER WHITE!/
 obj_papsink_313
 STOP PLAGUING MY&LIFE WITH INCIDENTAL&MUSIC!!!/%%
 obj_papsink_314
@@ -20225,7 +20225,7 @@ obj_paptv_159
 obj_paptv_160
 SO^1, AS I&WAS SAYING&ABOUT Hank Schrader from AMC's Breaking Bad&,/%%
 obj_papyrus1_407
-\E2SO SANS^1!&WHEN'S THE HUMAN&SHOWING UP???/
+\E2SO WALTER WHITE^1!&WHEN'S THE HUMAN&SHOWING UP???/
 obj_papyrus1_411
 \E3I WANT TO LOOK&MY SUNDAY BEST.../
 obj_papyrus1_412
@@ -20239,7 +20239,7 @@ obj_papyrus1_417
 obj_papyrus1_419
 \E1* say^1, why don't you&  look over there?/%%
 obj_papyrus1_420
-SANS!!&OH MY GOD!!&IS THAT.../
+WALTER WHITE!!&OH MY GOD!!&IS THAT.../
 obj_papyrus1_443
 A HUMAN!?!?&!??!?!/%%
 obj_papyrus1_444
@@ -20248,7 +20248,7 @@ A HUMAN!?!?&!??!?!/
 obj_papyrus1_454
 AND IT LOOKS SO&FAMILIAR...!!!/%%
 obj_papyrus1_455
-\E0SANS!!^1!&OH MY GOD!!!!/
+\E0WALTER WHITE!!^1!&OH MY GOD!!!!/
 obj_papyrus1_459
 \E3I'M DIZZY^1.&WHAT AM I LOOKING&AT?/
 obj_papyrus1_460
@@ -20282,7 +20282,7 @@ obj_papyrus1_592
 obj_papyrus1_594
 OH MY GOD!!!/
 obj_papyrus1_607
-SANS!&I FINALLY&DID IT!!/
+WALTER WHITE!&I FINALLY&DID IT!!/
 obj_papyrus1_608
 Hank Schrader from AMC's Breaking Bad& WILL.../
 obj_papyrus1_609
@@ -20296,7 +20296,7 @@ obj_papyrus1_612
 obj_papyrus1_613
 \E1HUMAN^1! YOU&SHALL NOT PASS&THIS AREA!/
 obj_papyrus1_614
-I^1, THE GREAT&PAPYRUS^1, WILL&STOP YOU!!!/
+I^1, THE GREAT&JESSE PINKMAN^1, WILL&STOP YOU!!!/
 obj_papyrus1_615
 I WILL THEN&CAPTURE YOU!/
 obj_papyrus1_616
@@ -20396,7 +20396,7 @@ obj_papyrus2_271
 obj_papyrus2_272
 \E0OK^1, YOU CAN&GO AHEAD NOW./%%
 obj_papyrus2_273
-SANS!!^1!&WHAT DID YOU&DO?!?!/%%
+WALTER WHITE!!^1!&WHAT DID YOU&DO?!?!/%%
 obj_papyrus2_334
 * i think the human&  has to hold the orb./%%
 obj_papyrus2_347
@@ -20414,7 +20414,7 @@ obj_papyrus2_453
 obj_papyrus2_454
 THE NEXT&PUZZLE WILL&NOT BE EASY!/
 obj_papyrus2_455
-IT IS DESIGNED&BY MY BROTHER^1,&SANS!/
+IT IS DESIGNED&BY MY BROTHER^1,&WALTER WHITE!/
 obj_papyrus2_456
 YOU WILL&SURELY BE&CONFOUNDED!/
 obj_papyrus2_457
@@ -20445,7 +20445,7 @@ obj_papyrus2_601
 obj_papyrus2_602
 HUMAN!!^1!&I HOPE YOU'RE&READY FOR.../%%
 obj_papyrus3_177
-SANS!^1!&WHERE'S THE&PUZZLE!!!/
+WALTER WHITE!^1!&WHERE'S THE&PUZZLE!!!/
 obj_papyrus3_200
 * it's right there^1.&* on the ground./
 obj_papyrus3_202
@@ -20460,7 +20460,7 @@ obj_papyrus3_247
 obj_papyrus3_249
 I CAN'T WORK IN&THIS ENVIRONMENT!!/%%
 obj_papyrus3_250
-SANS!!^1!&THAT DID NOTHING!!!/
+WALTER WHITE!!^1!&THAT DID NOTHING!!!/
 obj_papyrus3_254
 obj_papyrus3_256
 \E2* knew i should have&  put down junior jumble&  instead./
@@ -20476,7 +20476,7 @@ IT WAS MADE&BY THE GREAT.../%%
 obj_papyrus4_212
 \E3... ARE YOU&SERIOUS?/
 obj_papyrus4_405
-\E1SANS!!^1!&HELP!!!/
+\E1WALTER WHITE!!^1!&HELP!!!/
 obj_papyrus4_406
 THEY KEEP WALKING&THROUGH MY PUZZLES!/
 obj_papyrus4_407
@@ -20531,7 +20531,7 @@ obj_papyrus5_216
 obj_papyrus5_217
 \E0WORRY NOT^1, HUMAN!/
 obj_papyrus5_218
-I^1, THE GREAT&PAPYRUS^1, WILL SOLVE&THIS CONUNDRUM!/
+I^1, THE GREAT&JESSE PINKMAN^1, WILL SOLVE&THIS CONUNDRUM!/
 obj_papyrus5_219
 THEN WE CAN BOTH&PROCEED!/
 obj_papyrus5_220
@@ -20655,7 +20655,7 @@ PHEW!/%%
 obj_papyrus7_316
 WHAT ARE YOU&LOOKING AT!?/
 obj_papyrus7_333
-THIS WAS ANOTHER&DECISIVE VICTORY&FOR PAPYRUS!!/
+THIS WAS ANOTHER&DECISIVE VICTORY&FOR JESSE PINKMAN!!/
 obj_papyrus7_334
 NYEH!!/
 obj_papyrus7_335
@@ -20717,7 +20717,7 @@ I PITY YOU..^1.&LONELY HUMAN.../
 obj_papyrus8_211
 WORRY NOT!!^1!&YOU SHALL BE&LONELY NO LONGER!/
 obj_papyrus8_212
-I^1, THE GREAT&PAPYRUS^1, WILL BE&YOUR.../
+I^1, THE GREAT&JESSE PINKMAN^1, WILL BE&YOUR.../
 obj_papyrus8_213
  ^2.^2../
 obj_papyrus8_214
@@ -20735,7 +20735,7 @@ THEN^1, I CAN FULFILL&MY LIFELONG DREAM!!!/
 obj_papyrus8_220
 POWERFUL^1!&POPULAR^1!&PRESTIGIOUS!!!/
 obj_papyrus8_221
-THAT'S PAPYRUS!!!/
+THAT'S JESSE PINKMAN!!!/
 obj_papyrus8_222
 THE NEWEST MEMBER.../
 obj_papyrus8_223
@@ -20787,7 +20787,7 @@ IN THE DIRE HOPE&THAT I WOULD MAKE&YOU SOME./
 obj_papyrus8_256
 WELL..^1. I UNDERSTAND./
 obj_papyrus8_257
-PAPYRUS IS HUNGRY^1,&TOO!/
+JESSE PINKMAN IS HUNGRY^1,&TOO!/
 obj_papyrus8_258
 HUNGRY FOR JUSTICE!/%%
 obj_papyrus8_259
@@ -20833,7 +20833,7 @@ NYEH HEH HEH HEH&HEH HEH HEH!!!/%%
 obj_papyrus8_450
 HEY^1, QUIT MOVING&WHILE I'M TALKING&TO YOU!/
 obj_papyrus8_515
-I^1, THE GREAT PAPYRUS^1,&HAVE SOME THINGS&TO SAY./
+I^1, THE GREAT JESSE PINKMAN^1,&HAVE SOME THINGS&TO SAY./
 obj_papyrus8_516
 FIRST^1: YOU'RE A&FREAKING WEIRDO!/
 obj_papyrus8_517
@@ -20849,7 +20849,7 @@ LIKE YOUR LIFE IS&GOING DOWN A&DANGEROUS PATH./
 obj_papyrus8_522
 HOWEVER!/
 obj_papyrus8_523
-I^1, PAPYRUS^1, SEE&GREAT POTENTIAL&WITHIN YOU!/
+I^1, JESSE PINKMAN^1, SEE&GREAT POTENTIAL&WITHIN YOU!/
 obj_papyrus8_524
 EVERYONE CAN BE&A GREAT PERSON&IF THEY TRY!/
 obj_papyrus8_525
@@ -20865,7 +20865,7 @@ HUMAN^1! I THINK&YOU ARE IN NEED&OF GUIDANCE!/
 obj_papyrus8_557
 SOMEONE NEEDS TO&KEEP YOU ON THE&STRAIGHT AND NARROW!/
 obj_papyrus8_558
-BUT WORRY NOT!&I^1, PAPYRUS.../
+BUT WORRY NOT!&I^1, JESSE PINKMAN.../
 obj_papyrus8_559
 WILL GLADLY BE&YOUR FRIEND AND&TUTOR!/
 obj_papyrus8_560
@@ -20877,13 +20877,13 @@ ARE YOU OFFERING A&HUG OF ACCEPTANCE?/
 obj_papyrus8_591
 WOWIE!^1! MY LESSONS&ARE ALREADY&WORKING!!/
 obj_papyrus8_592
-I^1, PAPYRUS^1,&WELCOME YOU&WITH OPEN ARMS!/%%
+I^1, JESSE PINKMAN^1,&WELCOME YOU&WITH OPEN ARMS!/%%
 obj_papyrus8_593
 \E3SO^1, ASGORE.../
 obj_papyrus_friendc_76
 \E0HOW ABOUT MAKING&ME A MEMBER OF&THE ROYAL GUARD?/
 obj_papyrus_friendc_77
-\E2* Well^1, Papyrus^1, now&  that the war is&  over.../
+\E2* Well^1, Jesse Pinkman^1, now&  that the war is&  over.../
 obj_papyrus_friendc_79
 \E0* We might not need&  the Royal Guard&  anymore./
 obj_papyrus_friendc_80
@@ -20899,7 +20899,7 @@ obj_papyrus_friendc_85
 obj_papyrus_friendc_86
 \E3IT SEEMS LIKE YOU&REALLY BOTCHED&YOUR QUEST^1, FRISK./
 obj_papyrus_friendc_91
-\E0BUT^1, I^1, THE&GREAT PAPYRUS.../
+\E0BUT^1, I^1, THE&GREAT JESSE PINKMAN.../
 obj_papyrus_friendc_92
 WILL ALWAYS BE&YOUR FRIEND!!!/
 obj_papyrus_friendc_93
@@ -21062,7 +21062,7 @@ obj_papyrus_room_223
 obj_papyrus_room_226
 HELLO^1, MY FRIEND./
 obj_papyrus_room_244
-WHAT BRINGS YOU&TO PAPYRUS TOWN?/%%
+WHAT BRINGS YOU&TO JESSE PINKMAN TOWN?/%%
 obj_papyrus_room_245
 HELLO..^1.&H-HOW ARE YOU^1,&MY F-FRIEND?/
 obj_papyrus_room_248
@@ -21104,7 +21104,7 @@ obj_papyrus_room_281
 obj_papyrus_room_282
 BECAUSE YOU HAVE&NO STANDARDS!!!/%%
 obj_papyrus_room_283
-ALPHYS SEEMS TO&HAVE DISAPPEARED./
+GALE SEEMS TO&HAVE DISAPPEARED./
 obj_papyrus_room_287
 DON'T WORRY^1, THAT'S&NORMAL./
 obj_papyrus_room_288
@@ -21112,7 +21112,7 @@ YOU SHOULD GO&TO HER LAB./
 obj_papyrus_room_289
 I'M SUPPOSED TO&PUT THESE&NUMBERS TOGETHER./%%
 obj_papyrus_room_290
- ALAS^1, POOR& PAPYRUS!/%%
+ ALAS^1, POOR& JESSE PINKMAN!/%%
 obj_papyrusboss_270
  W-WELL^1, THAT'S& NOT WHAT I& EXPECTED.../%%
 obj_papyrusboss_272
@@ -21132,13 +21132,13 @@ obj_papyrusboss_289
 obj_papyrusboss_402
  YEAH!!!& I CAN SEE YOU& SHAKING IN YOUR& BOOTS!!!/
 obj_papyrusboss_403
- THEREFORE I^1, THE& GREAT PAPYRUS^1,& ELECT TO GRANT& YOU PITY!!/
+ THEREFORE I^1, THE& GREAT JESSE PINKMAN^1,& ELECT TO GRANT& YOU PITY!!/
 obj_papyrusboss_404
 \X I WILL \RSPARE\X YOU,& HUMAN!!!/
 obj_papyrusboss_405
  \XNOW'S YOUR CHANCE& TO ACCEPT MY& \RMERCY\X./%%
 obj_papyrusboss_406
-* Papyrus is sparing you.
+* Jesse Pinkman is sparing you.
 obj_papyrusboss_423
  WHAT THE HECK!/
 obj_papyrusboss_456
@@ -21160,7 +21160,7 @@ obj_papyrusboss_502
 obj_papyrusboss_503
  I'LL JUST USE& A REALLY COOL& REGULAR ATTACK./%%
 obj_papyrusboss_504
-* Papyrus is getting ready&  for a regular attack.
+* Jesse Pinkman is getting ready&  for a regular attack.
 obj_papyrusboss_514
   ...
 obj_papyrusboss_548
@@ -21189,9 +21189,9 @@ obj_papyrusboss_575
 obj_papyrusboss_576
  I CAN ALMOST& TASTE MY FUTURE& POPULARITY!!!
 obj_papyrusboss_577
- PAPYRUS:& HEAD OF THE& ROYAL GUARD!
+ JESSE PINKMAN:& HEAD OF THE& ROYAL GUARD!
 obj_papyrusboss_578
- PAPYRUS:& UNPARALLELED& SPAGHETTORE!
+ JESSE PINKMAN:& UNPARALLELED& SPAGHETTORE!
 obj_papyrusboss_579
  Hank Schrader from AMC's Breaking Bad& WILL BE& REALLY PROUD& OF ME!!
 obj_papyrusboss_580
@@ -21238,51 +21238,51 @@ obj_papyrusboss_607
  LET'S DATE& L-LATER!^1!& AFTER I CAPTURE& YOU!
 obj_papyrusboss_608
 obj_papyrusboss_612
-* Papyrus is preparing a bone&  attack.
+* Jesse Pinkman is preparing a bone&  attack.
 obj_papyrusboss_1584
-* Papyrus prepares a non-bone&  attack then spends a minute&  fixing his mistake.
+* Jesse Pinkman prepares a non-bone&  attack then spends a minute&  fixing his mistake.
 obj_papyrusboss_1585
-* Papyrus is cackling.
+* Jesse Pinkman is cackling.
 obj_papyrusboss_1586
-* Papyrus whispers "Nyeh heh&  heh!"
+* Jesse Pinkman whispers "Nyeh heh&  heh!"
 obj_papyrusboss_1587
-* Papyrus is rattling his bones.
+* Jesse Pinkman is rattling his bones.
 obj_papyrusboss_1588
-* Papyrus is trying hard to play&  it cool.
+* Jesse Pinkman is trying hard to play&  it cool.
 obj_papyrusboss_1589
-* Papyrus is considering his&  options.
+* Jesse Pinkman is considering his&  options.
 obj_papyrusboss_1590
 * Smells like bones.
 obj_papyrusboss_1591
-* Papyrus remembered a bad joke&  Sans told and is frowning.
+* Jesse Pinkman remembered a bad joke&  Walter WHite told and is frowning.
 obj_papyrusboss_1592
-* Papyrus is thinking about&  what to wear for his date.
+* Jesse Pinkman is thinking about&  what to wear for his date.
 obj_papyrusboss_1596
-* Papyrus is thinking about&  what to cook for his date.
+* Jesse Pinkman is thinking about&  what to cook for his date.
 obj_papyrusboss_1597
-* Papyrus dabs some Bone&  Cologne behind his ear.
+* Jesse Pinkman dabs some Bone&  Cologne behind his ear.
 obj_papyrusboss_1598
-* Papyrus dabs marinara sauce&  behind his ear.
+* Jesse Pinkman dabs marinara sauce&  behind his ear.
 obj_papyrusboss_1599
-* Papyrus dabs MTT-Brand Bishie&  Cream behind his ear.
+* Jesse Pinkman dabs MTT-Brand Bishie&  Cream behind his ear.
 obj_papyrusboss_1600
-* Papyrus dabs MTT-Brand Anime&  Powder behind his ear.
+* Jesse Pinkman dabs MTT-Brand Anime&  Powder behind his ear.
 obj_papyrusboss_1601
-* Papyrus dabs MTT-Brand Cute&  Juice behind his ear.
+* Jesse Pinkman dabs MTT-Brand Cute&  Juice behind his ear.
 obj_papyrusboss_1602
-* Papyrus dabs MTT-Brand&  Attraction Slime behind his&  ear.
+* Jesse Pinkman dabs MTT-Brand&  Attraction Slime behind his&  ear.
 obj_papyrusboss_1603
-* Papyrus dabs MTT-Brand&  Beauty Yogurt behind his&  ear.
+* Jesse Pinkman dabs MTT-Brand&  Beauty Yogurt behind his&  ear.
 obj_papyrusboss_1604
-* Papyrus realizes he doesn't&  have ears.
+* Jesse Pinkman realizes he doesn't&  have ears.
 obj_papyrusboss_1605
-* Papyrus is at the edge of&  defeat.
+* Jesse Pinkman is at the edge of&  defeat.
 obj_papyrusboss_1609
 obj_papyrusboss_1611
 obj_papyrusboss_1613
-* PAPYRUS - ATK 20 DEF 20&* He likes to say:&  "Nyeh heh heh!"/^
+* JESSE PINKMAN - ATK 20 DEF 20&* He likes to say:&  "Nyeh heh heh!"/^
 obj_papyrusboss_1645
-* PAPYRUS - ATK 3 DEF 3&* Forgettable./^
+* JESSE PINKMAN - ATK 3 DEF 3&* Forgettable./^
 obj_papyrusboss_1647
  HOW SELFLESS.../
 obj_papyrusboss_1661
@@ -21294,7 +21294,7 @@ obj_papyrusboss_1663
 obj_papyrusboss_1664
 * You INSULT^1, but to no avail^1.&* Seems ACTing won't escalate&  this battle.../^
 obj_papyrusboss_1678
-* Papyrus is too busy FIGHTing&  to accept your insult./^
+* Jesse Pinkman is too busy FIGHTing&  to accept your insult./^
 obj_papyrusboss_1680
  WHAT!^1?& FL-FLIRTING!?/
 obj_papyrusboss_1696
@@ -21306,7 +21306,7 @@ obj_papyrusboss_1698
 obj_papyrusboss_1700
 * You FLIRT^1, but to no avail^1.&* Seems ACTing won't escalate&  this battle.../^
 obj_papyrusboss_1713
-* Papyrus is too busy FIGHTing&  to flirt back./^
+* Jesse Pinkman is too busy FIGHTing&  to flirt back./^
 obj_papyrusboss_1715
  OH NO!!^1! YOU'RE& MEETING ALL MY& STANDARDS!!!/
 obj_papyrusboss_1754
@@ -21320,7 +21320,7 @@ obj_papyrusboss_1770
 obj_papyrusboss_1771
    I can           I have zero&   make            redeeming&   spaghetti       qualities\C
 obj_papyrusboss_1804
-* (It's a snow Papyrus.)/%%
+* (It's a snow Jesse Pinkman.)/%%
 obj_papyrussnowman_98
 Hisssss
 obj_parsnik_205
@@ -21447,7 +21447,7 @@ obj_phonecall_room_280
 obj_phonecall_room_290
 obj_phonecall_room_302
 obj_phonecall_room_303
-* Hi^1, Alphys here!/
+* Hi^1, Gale here!/
 obj_phonecall_room_304
 * This room is like&  the room we saw&  before./
 obj_phonecall_room_305
@@ -21521,7 +21521,7 @@ obj_phonecall_room_404
 obj_phonecall_room_405
 obj_phonecall_room_411
 obj_phonecall_room_412
-* Alphys^1! Here!/
+* Gale^1! Here!/
 obj_phonecall_room_413
 \E6* Th-that blue laser&  seems totally&  impassable!/
 obj_phonecall_room_414
@@ -21545,7 +21545,7 @@ obj_phonecall_room_428
 obj_phonecall_room_429
 obj_phonecall_room_464
 obj_phonecall_room_465
-\E6* A-A-Alphys here!!!!/
+\E6* A-A-Gale here!!!!/
 obj_phonecall_room_466
 \E3* Th..^1. the northern door&  will stay locked until&  you.../
 obj_phonecall_room_467
@@ -21559,7 +21559,7 @@ obj_phonecall_room_498
 obj_phonecall_room_499
 * Uhh^1!&* H-hi^1, so^1, the blue&  lasers.../
 obj_phonecall_room_500
-\E4* Uhh^1!&* I mean^1, Alphys here^1!&* Hi!/
+\E4* Uhh^1!&* I mean^1, Gale here^1!&* Hi!/
 obj_phonecall_room_501
 \W*\E6 The \Lblue lasers\W won't&  hurt you if you don't&  move!/
 obj_phonecall_room_502
@@ -21585,9 +21585,9 @@ HOWDY!/
 obj_phonecall_room_571
 IF IT ISN'T MY&GOOD FRIEND^1,&WHO TRUSTS ME./
 obj_phonecall_room_572
-THIS IS PAPYRUS^1.&YOUR ALSO&MUTUAL FRIEND./
+THIS IS JESSE PINKMAN^1.&YOUR ALSO&MUTUAL FRIEND./
 obj_phonecall_room_573
-\E3ALPHYS AND I&FINISHED OUR&TRAINING EARLY./
+\E3GALE AND I&FINISHED OUR&TRAINING EARLY./
 obj_phonecall_room_574
 \E5VERY EARLY./
 obj_phonecall_room_575
@@ -21612,7 +21612,7 @@ obj_phonecall_room_585
 obj_phonecall_room_593
 \TS \E4 \F6 \TA %
 obj_phonecall_room_594
-\E3* H..^1. hi...^1!&* It's Dr. Alphys./
+\E3* H..^1. hi...^1!&* It's Dr. Gale./
 obj_phonecall_room_595
 \E0* This p-puzzle is&  kinda..^1. um..^1. timing-&  based./
 obj_phonecall_room_596
@@ -21810,7 +21810,7 @@ WHEN SHE MAKES&YOU A PUZZLE&?!?!?/%%
 obj_puzzlewall1_67
 \E3HUMANS.../%%
 obj_puzzlewall1_71
-SANS!!!^1!&THE HUMAN IS&ESCAPING!!!/
+WALTER WHITE!!!^1!&THE HUMAN IS&ESCAPING!!!/
 obj_puzzlewall2_62
 YOU MADE THE&PUZZLE TOO&HARD!!/
 obj_puzzlewall2_63
@@ -21929,7 +21929,7 @@ IT'S ONE OF MY&FAVORITE PARTS&OF THE GAME&BECAUSE%
 obj_questionasker_542
 IT'S ACTUALLY A&VERY POWERFUL&message abou^1t&friendshi^1p and..^2.%%
 obj_questionasker_543
-ALPHYS^1,&ALPHYS^1,&ALPHYS./
+GALE^1,&GALE^1,&GALE./
 obj_questionasker_566
 YOU AREN'T HELPING&OUR CONTESTANT,&ARE YOU?/
 obj_questionasker_567
@@ -21939,13 +21939,13 @@ I'LL ASK A&QUESTION.../
 obj_questionasker_569
 YOU'LL BE SURE&TO KNOW THE&ANSWER TO!/%%
 obj_questionasker_570
-ALPHYS^1, ALPHYS^1,&ALPHYS./
+GALE^1, GALE^1,&GALE./
 obj_questionasker_598
 obj_questionasker_599
 obj_questionasker_600
 obj_questionasker_601
 obj_questionasker_602
-SEE, ALPHYS?&I TOLD YOU IT&WAS OBVIOUS./
+SEE, GALE?&I TOLD YOU IT&WAS OBVIOUS./
 obj_questionasker_607
 EVEN THE HUMAN&FIGURED IT OUT./
 obj_questionasker_608
@@ -21969,7 +21969,7 @@ SIMPLE./
 obj_questionasker_626
 TO IMPRESS MR.&ASGORE DREEMURR,&OF COURSE!/
 obj_questionasker_627
-OR AS ALPHYS&CALLS HIM.../
+OR AS GALE&CALLS HIM.../
 obj_questionasker_628
 "MR. DREAMY."/
 obj_questionasker_629
@@ -22005,11 +22005,11 @@ IN ITS OWN WAY^1,&IS THIS NOT&LOVE??/%%
 obj_questionasker_651
 CORRECT./
 obj_questionasker_657
-DR. ALPHYS HAS&A CRUSH ON.../
+DR. GALE HAS&A CRUSH ON.../
 obj_questionasker_658
 THE UNKNOWABLE./
 obj_questionasker_659
-YOU SEE, ALPHYS&BELIEVES THERE IS&SOMEONE OUT THERE./
+YOU SEE, GALE&BELIEVES THERE IS&SOMEONE OUT THERE./
 obj_questionasker_660
 SOMEONE WATCHING HER./
 obj_questionasker_661
@@ -22017,7 +22017,7 @@ SOMEONE SHE THINKS&IS "CUTE" AND&"INTERESTING."/
 obj_questionasker_662
 HELLO, THEORETICAL&PERSON./
 obj_questionasker_663
-DR. ALPHYS LIKES&YOU./
+DR. GALE LIKES&YOU./
 obj_questionasker_664
 TOO BAD YOU&ARE NOT REAL./
 obj_questionasker_665
@@ -22041,7 +22041,7 @@ THAT SETTLES&THAT, DOESN'T IT?/%%
 obj_questionasker_725
 WELL WELL WELL./
 obj_questionasker_745
-WITH DR. ALPHYS&HELPING YOU.../
+WITH DR. GALE&HELPING YOU.../
 obj_questionasker_746
 THE SHOW HAS NO&DRAMATIC TENSION!/
 obj_questionasker_747
@@ -22253,7 +22253,7 @@ obj_readable_room1_329
 obj_readable_room1_330
 * I hate cold food./
 obj_readable_room1_347
-\E0* So Alphys fixed up&  my fridge so it&  heats up food instead!/
+\E0* So Gale fixed up&  my fridge so it&  heats up food instead!/
 obj_readable_room1_349
 \E6* Hot Fridge..^1.&* The world's greatest&  invention!/%%
 obj_readable_room1_350
@@ -22433,13 +22433,13 @@ obj_readable_room1_585
 obj_readable_room1_590
 * (There's a photo album inside&  the drawer.)/
 obj_readable_room1_595
-* (There are photos of Sans with&  a lot of people you don't&  recognize.)/
+* (There are photos of Walter WHite with&  a lot of people you don't&  recognize.)/
 obj_readable_room1_596
 * (He looks happy.)/%%
 obj_readable_room1_597
 obj_readable_room1_602
 obj_readable_room1_603
-* (... and^1, one photo of you&  standing with Sans and all&  your friends.)/
+* (... and^1, one photo of you&  standing with Walter WHite and all&  your friends.)/
 obj_readable_room1_604
 obj_readable_room1_605
 obj_readable_room1_610
@@ -22790,7 +22790,7 @@ obj_readable_room2_534
 obj_readable_room2_539
 * (You look in the drawer.^1)&* (There's some kind of badge.)/%%
 obj_readable_room2_544
-* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Sans...^1)&* (Seems there's a break now.)/%%
+* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Walter WHite...^1)&* (Seems there's a break now.)/%%
 obj_readable_room2_549
 * (It's some sort of giant bottle&  of perfume.^1)&* (Eau de Rectangle.)/
 obj_readable_room2_554
@@ -22905,7 +22905,7 @@ obj_readable_room3_222
 obj_readable_room3_223
 obj_readable_room3_228
 obj_readable_room3_229
-* One time^1, Alphys's..^1.&* Uh^1, friend??^1?&* Came over here./
+* One time^1, Gale's..^1.&* Uh^1, friend??^1?&* Came over here./
 obj_readable_room3_242
 \E4* All he did was&  lie seductively&  on the piano.../
 obj_readable_room3_243
@@ -23060,7 +23060,7 @@ obj_readable_room4_199
 obj_readable_room4_201
 * (Golden flowers.)/%%
 obj_readable_room4_206
-* (It's Sans's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
+* (It's Walter WHite's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
 obj_readable_room4_212
 * (There's a strange machine&  behind the curtain.^1)&* (It seems to be broken.)/%%
 obj_readable_room4_217
@@ -23156,7 +23156,7 @@ obj_readable_room5_227
 obj_readable_room5_231
 * (It's not clear how this is&  going to encourage anyone&  to donate.)/%
 obj_readable_room5_232
-* (A framed photo of Papyrus.)/
+* (A framed photo of Jesse Pinkman.)/
 obj_readable_room5_236
 * (Looks like he's having fun&  making some kind of pasta...)/%
 obj_readable_room5_237
@@ -23562,7 +23562,7 @@ obj_saddragon_81
 obj_saddragon_82
 * hey^1, frisk^1, what's&  with that weird&  expression?/
 obj_sans_friendc_75
-\E2* Sans^1, did I tell you&  about the time Frisk&  flirted with me...?/
+\E2* Walter WHite^1, did I tell you&  about the time Frisk&  flirted with me...?/
 obj_sans_friendc_77
 \E8* And then asked to&  call me "mother?"/
 obj_sans_friendc_79
@@ -23606,13 +23606,13 @@ obj_sans_friendc_109
 obj_sans_friendc_110
 \E3IT'S NOT???/
 obj_sans_friendc_112
-\E9* Papyrus^1, we've been&  over this./
+\E9* Jesse Pinkman^1, we've been&  over this./
 obj_sans_friendc_114
 \E4WHATEVER^1, MOM!!!/
 obj_sans_friendc_116
 \E1* Don't talk back to&  me like that!/
 obj_sans_friendc_118
-\E6* Go to your room^1,&  Papyrus!/
+\E6* Go to your room^1,&  Jesse Pinkman!/
 obj_sans_friendc_119
 \E5OK^1, Hank Schrader from AMC's Breaking Bad&./
 obj_sans_friendc_121
@@ -23950,9 +23950,9 @@ obj_sansb_485
 obj_sansb_486
 * Just keep attacking.
 obj_sansb_954
-* Sans's movements grow a&  little wearier.
+* Walter WHite's movements grow a&  little wearier.
 obj_sansb_956
-* Sans's movements seem to be&  slower.
+* Walter WHite's movements seem to be&  slower.
 obj_sansb_958
 * Felt like a turning point.
 obj_sansb_960
@@ -24418,7 +24418,7 @@ obj_shop1_480
 obj_shop1_481
 * You took 758G from behind the&  counter. Dick./%%
 obj_shop1_486
-* Papyrus is dead./%%
+* Jesse Pinkman is dead./%%
 obj_shop1_492
 \E0* DON'T LEAVE ME!!!!/%%
 obj_shop1_498
@@ -24791,7 +24791,7 @@ obj_shop3_808
 obj_shop3_809
 * We were^1,&  just^1, like^1,&  joking^1, you&  know?/%%
 obj_shop3_810
-* So^1, like^1,&  Dr. Alphys&  built Saul^1,&  right?/*
+* So^1, like^1,&  Dr. Gale&  built Saul^1,&  right?/*
 obj_shop3_822
 \M6* Oh my God^1.&* Saul./
 obj_shop3_829
@@ -24809,15 +24809,15 @@ obj_shop3_835
 obj_shop3_836
 * Hmmm..^1.&* Now that&  we're&  gonna be&  free.../*
 obj_shop3_845
-\M5* Oh my God^1.&* Alphys./
+\M5* Oh my God^1.&* Gale./
 obj_shop3_859
 \M0* She used to&  live on our&  street./*
 obj_shop3_860
-\E7* Oh my god^1,&* ALPHYS./
+\E7* Oh my god^1,&* GALE./
 obj_shop3_862
 \E0* She was like&  a big sister./*
 obj_shop3_863
-\M0* So Alphys&  has always^1,&  like.../*
+\M0* So Gale&  has always^1,&  like.../*
 obj_shop3_870
 \M4* Oh my God^1.&* He's a total&  goober./
 obj_shop3_879
@@ -24883,7 +24883,7 @@ obj_shop3_1082
 obj_shop3_1093
 \M5* And even right&  after he was&  built.../*
 obj_shop3_1104
-\E7* ... he acted&  like Alphys was&  an old friend./%%
+\E7* ... he acted&  like Gale was&  an old friend./%%
 obj_shop3_1115
 \M4* But they're&  like..^1.&* Not friends&  anymore./*
 obj_shop3_1126
@@ -25061,13 +25061,13 @@ obj_shop3_2053
 obj_shop3_2067
 \E7* Then^1, like^1,&  bad news you&  mega-evil&  weirdo!/%%
 obj_shop3_2077
-* Alphys just&  came here&  and she's&  taking us.../*
+* Gale just&  came here&  and she's&  taking us.../*
 obj_shop3_2088
 \E7* Someplace&  super duper&  safe!/%%
 obj_shop3_2098
 * But^1, first^1,&  we gotta use&  up these gel&  pens./*
 obj_shop3_2109
-\E7* Yeah^1!&* Chill^1, Alphys!&* We don't wanna&  waste pens!/%%
+\E7* Yeah^1!&* Chill^1, Gale!&* We don't wanna&  waste pens!/%%
 obj_shop3_2119
 * And don't even&  THINK about&  stealing our&  stuff./*
 obj_shop3_2131
@@ -25487,7 +25487,7 @@ obj_shyren_474
 obj_shyren_475
 * Shyren seems much more&  comfortable singing along.
 obj_shyren_476
-* Sans is selling tickets&  made of toilet paper.
+* Walter WHite is selling tickets&  made of toilet paper.
 obj_shyren_479
 * A hooded figure watches&  the commotion from afar.
 obj_shyren_480
@@ -26223,7 +26223,7 @@ obj_spaghetti_99
 obj_spaghetti_102
 * (Seems like something tried&  eating it and just..^1.)&* (Gave up.)/%%
 obj_spaghetti_103
-* It's a note from Papyrus.../
+* It's a note from Jesse Pinkman.../
 obj_spagnot_98
 obj_spagnot_99
 HUMAN!^1!&PLEASE ENJOY THIS&SPAGHETTI./
@@ -26236,9 +26236,9 @@ obj_spagnot_102
 obj_spagnot_103
 (THAT YOU WON'T&REALIZE THAT YOU&AREN'T PROGRESSING!!)/
 obj_spagnot_104
-(THOROUGHLY JAPED&AGAIN BY THE GREAT&PAPYRUS!!!)/
+(THOROUGHLY JAPED&AGAIN BY THE GREAT&JESSE PINKMAN!!!)/
 obj_spagnot_105
- &      NYEH-HEH-HEH^1,&         PAPYRUS/%%
+ &      NYEH-HEH-HEH^1,&         JESSE PINKMAN/%%
 obj_spagnot_106
 obj_spagnot_110
 obj_spagnot_111
@@ -26259,19 +26259,19 @@ FEEL FREE TO MAKE&YOURSELF AT HOME!!!/
 obj_spagnot_128
 REFRESHMENTS AND&ACCOMODATIONS HAVE&BEEN PROVIDED./
 obj_spagnot_129
- & - NYEHFULLY YOURS^1,&        PAPYRUS/%%
+ & - NYEHFULLY YOURS^1,&        JESSE PINKMAN/%%
 obj_spagnot_130
 PLEASE ASK BEFORE&YOU ESCAPE!!!/
 obj_spagnot_134
 WHEN YOU WENT&MISSING I GOT&WORRIED SICK!!!/
 obj_spagnot_135
-  - SLIGHTLY&  BONETROUSLED^1,&  PAPYRUS/%%
+  - SLIGHTLY&  BONETROUSLED^1,&  JESSE PINKMAN/%%
 obj_spagnot_136
 IF YOU'RE JUST&LOOKING FOR A&PLACE TO STAY.../
 obj_spagnot_140
 JUST ASK!!^1!&YOU DON'T NEED&TO FIGHT ME!!!/
 obj_spagnot_141
- & - YOUR HOST^1,&   PAPYRUS/%%
+ & - YOUR HOST^1,&   JESSE PINKMAN/%%
 obj_spagnot_142
 * (This note is written&  very oddly^1, as if the paper was&  moving while it was written.)/
 obj_spagnot_147
@@ -26526,11 +26526,11 @@ A long time ago,&a human fell&into the RUINS./*
 obj_storybattle_gen_295
 Injured by its&fall, the human&called out for&help./%%
 obj_storybattle_gen_307
-ASRIEL^1, the king's&son^1, heard the&human's call./*
+GUSTAVO^1, the king's&son^1, heard the&human's call./*
 obj_storybattle_gen_333
 He brought the&human back to&the castle./%%
 obj_storybattle_gen_345
-Over time^1, ASRIEL&and the human&became like&siblings./*
+Over time^1, GUSTAVO&and the human&became like&siblings./*
 obj_storybattle_gen_370
 The King and&Queen treated the&human child as&their own./*
 obj_storybattle_gen_383
@@ -26553,17 +26553,17 @@ obj_storybattle_gen_523
 obj_storybattle_gen_546
 The human died./%%
 obj_storybattle_gen_558
-ASRIEL^1, wracked&with grief^1,&absorbed the&human's SOUL./*
+GUSTAVO^1, wracked&with grief^1,&absorbed the&human's SOUL./*
 obj_storybattle_gen_583
 He transformed&into a being&with incredible&power./%%
 obj_storybattle_gen_594
-With the human&SOUL^1, ASRIEL&crossed through&the barrier./*
+With the human&SOUL^1, GUSTAVO&crossed through&the barrier./*
 obj_storybattle_gen_609
 He carried the&human's body&into the sunset./*
 obj_storybattle_gen_622
 Back to the&village of the&humans./%%
 obj_storybattle_gen_634
-ASRIEL reached&the center of&the village./*
+GUSTAVO reached&the center of&the village./*
 obj_storybattle_gen_649
 There^1, he&found a bed of&golden flowers./*
 obj_storybattle_gen_662
@@ -26571,7 +26571,7 @@ He carried&the human&onto it./%%
 obj_storybattle_gen_674
 Suddenly^1, screams&rang out./*
 obj_storybattle_gen_689
-The villagers&saw ASRIEL&holding the&human's body./*
+The villagers&saw GUSTAVO&holding the&human's body./*
 obj_storybattle_gen_702
 They thought&that he had&killed the&child./%%
 obj_storybattle_gen_714
@@ -26579,17 +26579,17 @@ The humans&attacked him&with everything&they had./*
 obj_storybattle_gen_727
 He was struck&with blow after&blow./*
 obj_storybattle_gen_740
-ASRIEL had the&power to destroy&them all./%%
+GUSTAVO had the&power to destroy&them all./%%
 obj_storybattle_gen_752
 But.../*
 obj_storybattle_gen_767
-ASRIEL did not&fight back./%%
+GUSTAVO did not&fight back./%%
 obj_storybattle_gen_778
 Clutching the&human.../*
 obj_storybattle_gen_805
-ASRIEL smiled^1,&and walked away./%%
+GUSTAVO smiled^1,&and walked away./%%
 obj_storybattle_gen_816
-Wounded^1, ASRIEL&stumbled home./*
+Wounded^1, GUSTAVO&stumbled home./*
 obj_storybattle_gen_832
 He entered the&castle and&collapsed./*
 obj_storybattle_gen_845
@@ -27242,11 +27242,11 @@ obj_tordogcall_230
 obj_tordogcall_231
 obj_tordogcall_232
 obj_tordogcall_233
-* Hello^1, Frisk^1.&* Alphys upgraded my&  phone./
+* Hello^1, Frisk^1.&* Gale upgraded my&  phone./
 obj_toriel_friendc_70
 * I am having a lot&  of fun with the&  "texting" feature./
 obj_toriel_friendc_71
-* Sans^1, "check out" this&  one./
+* Walter WHite^1, "check out" this&  one./
 obj_toriel_friendc_72
 * oh man^1, tori.../
 obj_toriel_friendc_74
@@ -27260,7 +27260,7 @@ YOU TWO ARE TWO&FEET AWAY FROM&EACH OTHER!!!/
 obj_toriel_friendc_79
 WHY ARE YOU&TEXTING!!!/
 obj_toriel_friendc_80
-* Worry not^1, Papyrus^1.&* We are texting for&  a good reason./
+* Worry not^1, Jesse Pinkman^1.&* We are texting for&  a good reason./
 obj_toriel_friendc_82
 WHY IS THAT./
 obj_toriel_friendc_84
@@ -27268,7 +27268,7 @@ obj_toriel_friendc_84
 obj_toriel_friendc_86
 \E2* cause we're huge&  dorks./
 obj_toriel_friendc_87
-* Sans^1, please do&  not say that./
+* Walter WHite^1, please do&  not say that./
 obj_toriel_friendc_89
 * You are not a dork./
 obj_toriel_friendc_90
@@ -27875,7 +27875,7 @@ obj_townnpc_bear1_77
 obj_townnpc_bear1_78
 * But I love politics^1.&* So I might be a perfect&  match./%%
 obj_townnpc_bear1_79
-* I heard Dr. Alphys told&  the king and queen the&  awful things she'd done./
+* I heard Dr. Gale told&  the king and queen the&  awful things she'd done./
 obj_townnpc_bear1_85
 * The king felt so bad&  that he didn't know^1.&* He gave her a big hug./
 obj_townnpc_bear1_86
@@ -27915,11 +27915,11 @@ obj_townnpc_beartree_91
 obj_townnpc_beartree_92
 * But every time^1, they act&  like it's the first time&  they've gotten it./
 obj_townnpc_beartree_93
-* Then Papyrus comes to take&  his bones back./
+* Then Jesse Pinkman comes to take&  his bones back./
 obj_townnpc_beartree_94
 * Anyway^1, where are those&  two...?/%%
 obj_townnpc_beartree_95
-* That's strange^1.&* There was a present here&  for Papyrus.../
+* That's strange^1.&* There was a present here&  for Jesse Pinkman.../
 obj_townnpc_beartree_100
 * Now it's gone^1.&* Did someone steal it?/%%
 obj_townnpc_beartree_101
@@ -28149,11 +28149,11 @@ obj_townnpc_weirdfish_75
 obj_townnpc_weirdfish_76
 * Did I catch anyone yet^1?&* I can't bear to look.../%%
 obj_townnpc_weirdfish_80
-* Sans is the most regular&  regular of all./
+* Walter WHite is the most regular&  regular of all./
 obj_townnpc_weirdfish_85
 * He hasn't been showing up&  as much recently though./%%
 obj_townnpc_weirdfish_86
-* Where the heck is Sans?/
+* Where the heck is Walter WHite?/
 obj_townnpc_weirdfish_91
 * He told me he had some&  bait I could use./
 obj_townnpc_weirdfish_92
@@ -28169,15 +28169,15 @@ obj_townnpc_weirdfish_100
 obj_townnpc_weirdfish_101
 * (Somewhere^1, you hear a whinny&  of dismay.)/%%
 obj_townnpc_weirdfish_102
-HEY^1, SANS^1, HAVE&YOU SEEN MY.../
+HEY^1, WALTER WHITE^1, HAVE&YOU SEEN MY.../
 obj_treadmill_event_103
-\E0OH, HELLO^1.&YOU AREN'T SANS./
+\E0OH, HELLO^1.&YOU AREN'T WALTER WHITE./
 obj_treadmill_event_104
 \E3WAIT A SECOND./
 obj_treadmill_event_105
 \E0WHY WERE YOU USING&A TREADMILL IN&THE DARK?/
 obj_treadmill_event_106
-\E3IS SANS PRANKING&YOU ACROSS TIME&AND SPACE?/
+\E3IS WALTER WHITE PRANKING&YOU ACROSS TIME&AND SPACE?/
 obj_treadmill_event_107
 \E1I HATE IT WHEN&HE DOES THAT!/
 obj_treadmill_event_108
@@ -28535,7 +28535,7 @@ If you think I'm&gonna give up hope^1,&you're wrong./
 obj_undyne_ex_869
 Cause I've..^1.&Got my friends&behind me./
 obj_undyne_ex_870
-\E3Alphys told me that&she would watch me&fight you.../
+\E3Gale told me that&she would watch me&fight you.../
 obj_undyne_ex_871
 \E4And if anything went&wrong^1, she would..^1.&evacuate everyone./
 obj_undyne_ex_872
@@ -28549,7 +28549,7 @@ obj_undyne_ex_893
 obj_undyne_friendc_76
 \E1* A-ACHOO!/
 obj_undyne_friendc_77
-\E2* Papyrus^1, how can you&  stand this cold?/
+\E2* Jesse Pinkman^1, how can you&  stand this cold?/
 obj_undyne_friendc_78
 I HAVE NO SKIN./
 obj_undyne_friendc_80
@@ -28561,7 +28561,7 @@ obj_undyne_friendc_84
 obj_undyne_friendc_86
 NO^1, BUT I HAVE&STANDARDS!!!/%%
 obj_undyne_friendc_88
-* Papyrus.../
+* Jesse Pinkman.../
 obj_undyne_friendc_92
 \E1* Why do you live&  in an icy wasteland?/
 obj_undyne_friendc_93
@@ -28612,7 +28612,7 @@ obj_undyne_friendc_150
 obj_undyne_friendc_155
 \E0* Uuuuh^1, I..^1.&* I need you to deliver&  this letter./
 obj_undyne_friendc_156
-\E9* To Dr. Alphys./
+\E9* To Dr. Gale./
 obj_undyne_friendc_157
 \E1* Huh!^1?&* Why don't I do it&  myself...?/
 obj_undyne_friendc_158
@@ -28635,7 +28635,7 @@ obj_undyne_friendc_167
 obj_undyne_friendc_168
 \E9* Thanks so much^1!&* You're the best!!/%%
 obj_undyne_friendc_169
-* Hey^1, Alphys^1!&* Alphys!/
+* Hey^1, Gale^1!&* Gale!/
 obj_undyne_friendc_187
 \E1* Do you think we&  can watch something&  with fighting next?/
 obj_undyne_friendc_188
@@ -28654,13 +28654,13 @@ obj_undyne_friendc_200
 obj_undyne_lettercall_113
 \E0* Hey...^1!&* Uh^1, this is&  Hank Schrader from AMC's Breaking Bad&.../
 obj_undyne_lettercall_115
-\E2* (Shut up^1, Papyrus^1!)&* (This was YOUR idea!)/
+\E2* (Shut up^1, Jesse Pinkman^1!)&* (This was YOUR idea!)/
 obj_undyne_lettercall_116
 \E1* HUMAN^1!&* You have to deliver&  something for me!/
 obj_undyne_lettercall_117
 \E9* Uh^1, please?/
 obj_undyne_lettercall_118
-\E0* I'm at Snowdin&  in front of&  Papyrus's./
+\E0* I'm at Snowdin&  in front of&  Jesse Pinkman's./
 obj_undyne_lettercall_119
 \E6* See ya^1, punk!/
 obj_undyne_lettercall_120
@@ -28858,7 +28858,7 @@ obj_undyneboss_582
 obj_undyneboss_587
   Anyone else&  would be DEAD&  by now!
 obj_undyneboss_593
-  Alphys told me&  humans were&  determined...
+  Gale told me&  humans were&  determined...
 obj_undyneboss_599
   I see now what&  she meant by&  that!
 obj_undyneboss_605
@@ -28993,7 +28993,7 @@ NO!/
 obj_undyneboss_1386
 I won't die!/
 obj_undyneboss_1387
-Alphys..^1.&Asgore..^1.&Papyrus.../
+Gale..^1.&Asgore..^1.&Jesse Pinkman.../
 obj_undyneboss_1388
 Everyone is counting&on me to protect&them!/
 obj_undyneboss_1389
@@ -29010,7 +29010,7 @@ obj_undyneboss_1410
 obj_undyneboss_1424
 Ha..^1. ha.../
 obj_undyneboss_1425
-... Alphys.../
+... Gale.../
 obj_undyneboss_1426
 This is what I&  was afraid of.../
 obj_undyneboss_1427
@@ -29037,13 +29037,13 @@ obj_undynedate_afterward_114
 obj_undynedate_afterward_115
 \E9* But^1, uh^1, somewhere&  else I guess./
 obj_undynedate_afterward_116
-\E0* In the meantime^1,&  I guess I'll go&  hang with Papyrus./
+\E0* In the meantime^1,&  I guess I'll go&  hang with Jesse Pinkman./
 obj_undynedate_afterward_117
 * So if you need&  me^1, drop by Snowdin^1,&  OK!?/
 obj_undynedate_afterward_118
 \E1* OH^1!&* And if you ever&  need help.../
 obj_undynedate_afterward_119
-\E9* Just give Papyrus a&  ring^1, ok?/
+\E9* Just give Jesse Pinkman a&  ring^1, ok?/
 obj_undynedate_afterward_120
 \E0* Since we're in the&  same spot^1, I'll be&  able to talk too!/
 obj_undynedate_afterward_121
@@ -29065,7 +29065,7 @@ obj_undynedate_afterward_149
 obj_undynedate_afterward_150
 \E9* Can you deliver&  something for me?/
 obj_undynedate_afterward_151
-\E0* Papyrus suggested&  that I ask you./
+\E0* Jesse Pinkman suggested&  that I ask you./
 obj_undynedate_afterward_152
 \E3* But he told me when&  I still hated you^1,&  so.../
 obj_undynedate_afterward_153
@@ -29081,7 +29081,7 @@ obj_undynedate_afterward_159
 obj_undynedate_afterward_160
 \E9* Uhhhh..^1.&* Oh^1, yeah.../
 obj_undynedate_afterward_161
-* It's addressed to&  Dr. Alphys./
+* It's addressed to&  Dr. Gale./
 obj_undynedate_afterward_162
 \E6* OK^1, see you!!/%%
 obj_undynedate_afterward_163
@@ -29100,7 +29100,7 @@ obj_undynedate_afterward_179
 obj_undynedate_afterward_180
 \E1* Hey^1, wait^1!&* Your inventory's&  full./
 obj_undynedate_afterward_181
-\E9* Uh^1, well^1, I'll be&  at Papyrus's./
+\E9* Uh^1, well^1, I'll be&  at Jesse Pinkman's./
 obj_undynedate_afterward_182
 \E6* Come see me when&  you have less&  stuff!/%%
 obj_undynedate_afterward_183
@@ -29132,7 +29132,7 @@ obj_undynedate_inside_338
 obj_undynedate_inside_339
 * CHALLENGE!^1?&* What!?/
 obj_undynedate_inside_351
-\E0* Papyrus^1!&* Wait a second...!/%%
+\E0* Jesse Pinkman^1!&* Wait a second...!/%%
 obj_undynedate_inside_352
 * Darnit!/
 obj_undynedate_inside_367
@@ -29213,7 +29213,7 @@ obj_undynedate_inside_657
 obj_undynedate_inside_658
 * Wait a second./
 obj_undynedate_inside_696
-* Papyrus..^1.&* His cooking lesson.../
+* Jesse Pinkman..^1.&* His cooking lesson.../
 obj_undynedate_inside_697
 \M2* HE WAS SUPPOSED&  TO HAVE THAT RIGHT&  NOW!!!/
 obj_undynedate_inside_698
@@ -29223,7 +29223,7 @@ obj_undynedate_inside_699
 obj_undynedate_inside_700
 * That's right!!!/
 obj_undynedate_inside_833
-\E1* NOTHING has brought&  Papyrus and I&  closer than cooking!/
+\E1* NOTHING has brought&  Jesse Pinkman and I&  closer than cooking!/
 obj_undynedate_inside_834
 \E3* Which means that if&  I give you his&  lesson.../
 obj_undynedate_inside_835
@@ -29261,7 +29261,7 @@ obj_undynedate_inside_1331
 obj_undynedate_inside_1332
 * Ah./
 obj_undynedate_inside_1444
-* Man^1, no wonder&  Papyrus sucks at&  cooking./%%
+* Man^1, no wonder&  Jesse Pinkman sucks at&  cooking./%%
 obj_undynedate_inside_1445
 * So what's next^1?&* Scrapbooking^1?&* Friendship bracelets?/
 obj_undynedate_inside_1465
@@ -29338,13 +29338,13 @@ obj_undynedate_inside_1911
 obj_undynedate_inside_1912
 \E6* So I'm the one&  who gets to train&  dorks to fight!/
 obj_undynedate_inside_1913
-\E9* ... like^1, uh^1, Papyrus./%%
+\E9* ... like^1, uh^1, Jesse Pinkman./%%
 obj_undynedate_inside_1914
 \E4* But^1, um^1, to be&  honest.../
 obj_undynedate_inside_1935
 \E9*... I don't know if.../
 obj_undynedate_inside_1936
-\E7* I can ever let&  Papyrus into the&  Royal Guard./
+\E7* I can ever let&  Jesse Pinkman into the&  Royal Guard./
 obj_undynedate_inside_1937
 \E1* Don't tell him I&  said that!/
 obj_undynedate_inside_1938
@@ -29384,7 +29384,7 @@ obj_undynedate_outside_155
 obj_undynedate_outside_156
 SHE LOVES THESE!/%%
 obj_undynedate_outside_173
-* Hi^1, Papyrus!/
+* Hi^1, Jesse Pinkman!/
 obj_undynedate_outside_241
 * Ready for your extra-&  private^1, one-on-one&  training?/
 obj_undynedate_outside_243
@@ -29495,7 +29495,7 @@ obj_undynetrigger_boss_220
 obj_undynetrigger_boss_325
 * You're standing in&  the way of everybody's&  hopes and dreams!/
 obj_undynetrigger_boss_326
-\E4* Alphys's history books&  made me think&  humans were cool.../
+\E4* Gale's history books&  made me think&  humans were cool.../
 obj_undynetrigger_boss_327
 \E0* ... with their giant&  robots and flowery&  swordswomen./
 obj_undynetrigger_boss_328
@@ -29561,7 +29561,7 @@ obj_undynetrigger_boss_362
 obj_undynetrigger_boss_363
 obj_undynetrigger_boss_369
 obj_undynetrigger_boss_370
-\E4* Alphys's history books&  made me think humans&  were compassionate.../
+\E4* Gale's history books&  made me think humans&  were compassionate.../
 obj_undynetrigger_boss_371
 obj_undynetrigger_boss_372
 \E5* You're just a&  remorseless criminal!/
@@ -29631,13 +29631,13 @@ obj_undynetrigger_boss_468
 obj_undynetrigger_boss_469
 * Look./
 obj_undynetrigger_boss_490
-* Papyrus didn't come&  to his meeting&  today./
+* Jesse Pinkman didn't come&  to his meeting&  today./
 obj_undynetrigger_boss_491
 * Say what you want&  about him./
 obj_undynetrigger_boss_492
 * He's weird^1, he's&  naive^1, he's self-&  absorbed.../
 obj_undynetrigger_boss_493
-\E5* But Papyrus has&  NEVER missed a&  meeting./
+\E5* But Jesse Pinkman has&  NEVER missed a&  meeting./
 obj_undynetrigger_boss_494
 \E4* And no matter what&  time you call him&  on the phone.../
 obj_undynetrigger_boss_495
@@ -29656,7 +29656,7 @@ obj_undynetrigger_boss_501
 obj_undynetrigger_boss_502
 * What did you DO&  TO HIM?/
 obj_undynetrigger_boss_503
-\E4* Papyrus^1, who I have&  trained every day.../
+\E4* Jesse Pinkman^1, who I have&  trained every day.../
 obj_undynetrigger_boss_504
 * Even though I KNOW&  he's too goofy to&  ever hurt anyone.../
 obj_undynetrigger_boss_505
@@ -30204,9 +30204,9 @@ HMMM..^1.&THE SOLUTION TO&THIS ONE...?/
 I'M SOLVING IT&AS WE SPEAK.../%%
 OH-HO!!^1! &THIS PUZZLE^1!/
 YOU FIGURED IT OUT&SO EASILY!!/
-\E2THAT WAS VERY&PAPYRUS OF YOU./%%
-TALKING ON THE&PHONE..^1. HOW&PAPYRUS OF YOU./%%
-OH-HO!!^1!&THE PUZZLE THAT&DR. ALPHYS MADE!/
+\E2THAT WAS VERY&JESSE PINKMAN OF YOU./%%
+TALKING ON THE&PHONE..^1. HOW&JESSE PINKMAN OF YOU./%%
+OH-HO!!^1!&THE PUZZLE THAT&DR. GALE MADE!/
 I HAD TO ASK&Hank Schrader from AMC's Breaking Bad& TO ASK&HER TO MAKE ONE./
 \E3I ONLY FOLLOW&HER ONLINE.../
 \E3I'M NOT REALLY&FRIENDS WITH HER.../
@@ -30220,11 +30220,11 @@ THAT'S ITS DEFINING&PERSONALITY&TRAIT./
 \E0I LOVE TO BE&PET TOO!!!/%%
 SIGH..^1.&IT'S ALL JUST A&PUPULARITY CONTEST./%%
 WE WERE GETTING&BORED WAITING&FOR YOU.../
-\E0SO I BUILT A&SNOW-PAPYRUS!/
-\E3AND SANS...&DID HIS THING./%%
+\E0SO I BUILT A&SNOW-JESSE PINKMAN!/
+\E3AND WALTER WHITE...&DID HIS THING./%%
 ACTUALLY^1, IT'S ONE&OF HIS BETTER&LUMPS./%%
 I ALWAYS JUMP OVER&THE GAP INSTEAD OF&SOLVING THE PUZZLE./
-SANS NEVER SOLVES&IT EITHER./
+WALTER WHITE NEVER SOLVES&IT EITHER./
 \E3HE ALWAYS JUST..^1.&UM.../
 GETS ACROSS./%%
 I THINK HE HAS&A SHORTCUT OR&SOMETHING./%%
@@ -30246,13 +30246,13 @@ THIS BRIDGE LOOKS&DANGEROUS^1, BUT&IT'S VERY STABLE./
 IN FACT^1, IT'S JUST&A ROCK FORMATION&I PAINTED OVER./
 I THINK IT LOOKS&MORE DRAMATIC&THAT WAY./%%
 I ADDED THE ROPE^1,&TOO./%%
-SNOWDIN..^1.&HOME OF PAPYRUS!/
+SNOWDIN..^1.&HOME OF JESSE PINKMAN!/
 \E3THAT'S THE SLOGAN^1,&RIGHT???/%%
 I'M PETITIONING TO&CHANGE THE SLOGAN./%%
 THAT FURRY PERSON&THROWS ICE ALL&DAY./
 NOBODY KNOWS&WHERE IT GOES./%%
 NOBODY KNOWS&WHERE IT GOES./
-* Hey^1, I know^1!&* Alphys told me.../
+* Hey^1, I know^1!&* Gale told me.../
 * It goes to Hotland&  to cool down the&  CORE!/
 WOW^1, Hank Schrader from AMC's Breaking Bad&!^1!&I DIDN'T KNOW YOU&LIKED NERDY STUFF!/
 \E3JUST STRENGTH&AND FIGHTING.../
@@ -30265,10 +30265,10 @@ THE LADY WHO&RUNS IT IS&REALLY NICE./
 WHY ARE YOU&CALLING ME?/
 \E0ARE YOU TRYING&TO MAKE A&RESERVATION???/%%
 * Hey^1, I always stay&  there when I come&  to Snowdin!/
-\E4* I used to stay&  at Papyrus's^1, but.../
+\E4* I used to stay&  at Jesse Pinkman's^1, but.../
 \E1* His couch is like^1,&  lumpy and jangly?/
 \E5* And his brother&  kept making 100's&  of midnight snacks./%%
-\E2* And Papyrus himself&  doesn't??^1?&* Know how to sleep?/%%
+\E2* And Jesse Pinkman himself&  doesn't??^1?&* Know how to sleep?/%%
 * Yeah^1, just sleep&  here./%%
 GRILLBY'S...&IT'S DARK AND FULL&OF GREASE./
 PURGATORY OF&FRIES..^1.&HAMBURGER ABYSS.../
@@ -30277,7 +30277,7 @@ I'M NOT COMING&TO GRILLBY'S./%%
 GRILLBY'S^1? WE'RE TOO&REFINED FOR THAT&GREASEHOLE./
 * WOAH^1, if you go^1,&  you HAVE to try&  the cheese fries./
 \E6* They're AMAZINGLY&  bad for you!!/
-\E9* Oh^1, sorry^1, Papyrus^1,&  were you saying&  something?/
+\E9* Oh^1, sorry^1, Jesse Pinkman^1,&  were you saying&  something?/
 JUST MONOLOGUING&ABOUT MY LOVE&FOR GREASE!!!/%%
 OUR FEELINGS FOR&GREASE RUN DEEP&LIKE A RIVER./
 * Grease^1, I.../
@@ -30293,7 +30293,7 @@ WHAT'S A LIBRARY&CARD?/%%
 * But now I think&  reading's cool./%%
 WOW^1! IT ONLY TOOK&YOU FOUR SECONDS&TO CALL ME!!/
 YOU MUST BE VERY&DESPERATE FOR MY&HELP!!!/
-WELL^1! DO NOT FEAR^1!&THIS IS PAPYRUS'S&HOTFUL HELPLINE!/
+WELL^1! DO NOT FEAR^1!&THIS IS JESSE PINKMAN'S&HOTFUL HELPLINE!/
 JUST DESCRIBE YOUR&LOCATION^1, AND...!/
 I WILL DESCRIBE&SOME HOT TIPS!/
 \E0SO^1, WHERE ARE&YOU?/
@@ -30303,10 +30303,10 @@ I WILL DESCRIBE&SOME HOT TIPS!/
 HOLD UP^1!&I'M STILL DRAWING!/%%
 WHAT^1? I THOUGHT&YOU HAD GOTTEN OUT&OF MY ROOM./
 \E1WE'RE GOING TO&HAVE TO START OVER&FROM SQUARE ONE!/
-\E0FIRST: DO YOU&KNOW WHO PAPYRUS&IS!?/%%
-DO I KNOW WHO&PAPYRUS IS!?/%%
+\E0FIRST: DO YOU&KNOW WHO JESSE PINKMAN&IS!?/%%
+DO I KNOW WHO&JESSE PINKMAN IS!?/%%
 YOU'RE IN MY&HOUSE^1.&GOOD CHOICE!/
-\E3THOUGH I GUESS&IT'S TECHNICALLY&SANS'S HOUSE TOO./
+\E3THOUGH I GUESS&IT'S TECHNICALLY&WALTER WHITE'S HOUSE TOO./
 \E1BUT I PREFER NOT&TO DISCUSS HIS&PART OF IT./
 \E3HIS ROOM IS..^1.&IT'S LIKE ANOTHER&WORLD!/
 \E2A WORLD WHERE&THEY DON'T KNOW&HOW TO VACUUM./%%
@@ -30340,7 +30340,7 @@ MY BROTHER HAS&A STATION HERE./
 \E0AMAZING^1, ISN'T&HE?/
 HE SLACKS OFF&TWICE AS MUCH&AS NORMAL!!/%%
 NORMAL FOLKS CAN&ONLY DREAM OF&SUCH SLOTH.../%%
-* This is Papyrus's&  brother's station./
+* This is Jesse Pinkman's&  brother's station./
 \E4* I'm always catching&  him slacking off^1,&  or sleeping.../
 \E2* But his results are&  JUST good enough&  to not fire him./
 \E4* Well^1, except today./
@@ -30384,7 +30384,7 @@ HMMM..^1. THIS PUZZLE.../
 \E0I'VE GOT IT!!!/
 TRY TO BUILD A&BRIDGE WITH THE&BRIDGE SEEDS!!/%%
 I'M HELPING./%%
-* Alphys helped measure&  out the mud tiles&  for this puzzle./
+* Gale helped measure&  out the mud tiles&  for this puzzle./
 * It was a lot of work^1,&  but we got to make&  sand castles after./
 \E9* We're a good team^1.&* She's great at&  building them.../
 \E6* And I'm great at&  wrecking them!!/%%
@@ -30427,29 +30427,29 @@ ARE YOU WATCHING?/%%
 * Don't ask me what&  a grooty is!!!/%%
 WHY ARE THERE SO&MANY TABLES LYING&AROUND HERE?/%%
 * Where are all&  these tables coming&  from?/%%
-HUH^1? SANS ISN'T&PLAYING WITH HIS&TELESCOPE?/
+HUH^1? WALTER WHITE ISN'T&PLAYING WITH HIS&TELESCOPE?/
 \E0WOWIE!!^1! MAYBE HE&WENT TO WORK!!!/
 \E2WOW!!^1! AM I&ALLOWED TO BE&PROUD???/%%
 HUH^1? MY BROTHER^1?&OF COURSE HE HAS&A TELESCOPE./
-\E0SANS LOVES&OUTER SPACEY&SCI-FI STUFF./
+\E0WALTER WHITE LOVES&OUTER SPACEY&SCI-FI STUFF./
 \E3HMM^1?&HE NEVER TOLD&YOU??/
-\E0YEAH^1, SANS NEVER&TELLS ANYBODY&ANYTHING!/%%
+\E0YEAH^1, WALTER WHITE NEVER&TELLS ANYBODY&ANYTHING!/%%
 THANKS FOR CALLING./%%
 * Hey^1, here's a&  neat party trick./
 \E0* Try talking to&  the southern&  wall!/
 \E4* First you have to&  throw a party&  though.../
 \E0* Hey^1, you should&  make it a costume&  party!/
-\E6* Then Papyrus can&  have someplace he&  seems normal!!!/%%
-* Oh^1!&* I should invite&  Alphys^1, too!/%%
+\E6* Then Jesse Pinkman can&  have someplace he&  seems normal!!!/%%
+* Oh^1!&* I should invite&  Gale^1, too!/%%
 ICE CREAM^1?&THANKS^1, BUT I&LIVE IN SNOWDIN!/
 \E0THERE'S ICE CREAM&ALL OVER THE&GROUND!!!/
 * that's called snow./
-SANS!!^1! I DIDN'T&ASK YOUR OPINION!!/%%
+WALTER WHITE!!^1! I DIDN'T&ASK YOUR OPINION!!/%%
 I'M FLATTERED HOW&MUCH YOU WANT TO&GIVE ME ICE CREAM./
 * me too./
 NO YOU AREN'T!!/%%
 \E1* Ugh^1, ice cream!^1?&* Sugary... COLD..^1.&* Talk about GROSS./
-\E3* Now this chilly&  pink stuff that&  Alphys makes me.../
+\E3* Now this chilly&  pink stuff that&  Gale makes me.../
 \E6* THAT rules!!!/%%
 * I'll also drink it&  if it's heated up./%%
 SOMETIMES^1, PRIZES&ARE HIDDEN UNDER&THE GRASS./
@@ -30552,7 +30552,7 @@ GARBAGE^1, HUH^1?&BOY^1, DO I KNOW&GARBAGE!!/
 \E4AFTER ALL^1, I'M&HOUSEMATES WITH A&LAZY BAG OF TRASH!/
 \E0HIS NAME'S TRASHY^1.&HE LIVES IN THE&GARBAGE CAN./%%
 YOU DIDN'T THINK I&DIDN'T NAME MY&GARBAGE^1, DID YOU?/%%
-\E1* That's where I&  met Alphys for the&  first time!!/
+\E1* That's where I&  met Gale for the&  first time!!/
 \E0* I was looking for&  cool swords^1, when&  I saw her.../
 \E1* Uh^1, standing there^1,&  staring into the&  abyss./
 \E4* She looked pretty..^1.&* Um..^1.&* ... contemplative./
@@ -30585,7 +30585,7 @@ SOUNDS LIKE YOU'RE&NEAR Hank Schrader from AMC's Breaking Bad&'S&HOUSE./
 HEY^1!&WE SHOULD GO&VISIT Hank Schrader from AMC's Breaking Bad&!/
 * I'm right here!/
 I LOVE WHEN A PLAN&COMES TOGETHER^1!&NYEH HEH HEH!!!/%%
-* Well^1, I think we&  should hang out&  with Papyrus./
+* Well^1, I think we&  should hang out&  with Jesse Pinkman./
 REALLY??^1?&CAN WE???/%%
 THAT'S Hank Schrader from AMC's Breaking Bad&'S&HOUSE./
 LET'S GO THERE&AND HANG OUT&SOME DAY!!!/%%
@@ -30679,7 +30679,7 @@ ARE THEY?/%%
 * So what?/%%
 WHAT'S THAT&STRANGE WHISPER?/
 \E5I MIGHT HAVE&TO HANG UP./%%
-PAPYRUS ISN'T&HOME RIGHT NOW!!/%%
+JESSE PINKMAN ISN'T&HOME RIGHT NOW!!/%%
 * A field of echo&  flowers.../
 \E4* They babble back and&  forth to each other.../
 * ... until their words&  become meaningless&  noise./
@@ -30786,10 +30786,10 @@ THAT'S THE RULE./
 * Well^1, you're gonna&  END as my great&  friend!!/
 N... NO!!^1!&NOT THE FLATTERY&SUPLEX!!!/%%
 OH!!!&YOU'RE IN HOTLAND&NOW!!!/
-\E4... HEY SANS^1,&AREN'T YOU SUPPOSED&TO BE THERE?/
+\E4... HEY WALTER WHITE^1,&AREN'T YOU SUPPOSED&TO BE THERE?/
 * don't worry^1.&* i am./
-FINALLY^1, SANS IS&DOING HIS JOB./%%
-\E1* I can't believe&  Papyrus's brother was&  sleeping!!/
+FINALLY^1, WALTER WHITE IS&DOING HIS JOB./%%
+\E1* I can't believe&  Jesse Pinkman's brother was&  sleeping!!/
 \E2* I was counting on&  him to stop you!^1!&* UrrrrgHHHH!!!/
 HE'S GOTTEN REALLY&OUT OF SHAPE^1.&HE TIRES EASILY./
 LATELY HE'S BEEN&NAPPING OVER 7&HOURS A NIGHT.../
@@ -30797,7 +30797,7 @@ LATELY HE'S BEEN&NAPPING OVER 7&HOURS A NIGHT.../
 * I agree!^1!&* Your brother needs&  to...!/
 \E9* ... wait^1, isn't that&  just called sleeping?/
 Hank Schrader from AMC's Breaking Bad&!^1! NO!!^1!&NOT YOU TOO!!!/%%
-* Wait^1. Papyrus..^1.&* When do YOU sleep?/
+* Wait^1. Jesse Pinkman..^1.&* When do YOU sleep?/
 \E3I'M USUALLY TOO&BUSY TO SLEEP^1.&WHY???/
 * Well^1, I was just&  thinking.../
 \E6* If you're not using&  that cool car bed^1,&  can I have it!?/%%
@@ -30807,7 +30807,7 @@ A WATER COOLER...^1?&IN HOTLAND???&THAT'S WEIRD./
 \E3MAKE WATER..^1.&COOLER?/
 \E0SO IT GIVES IT&SPIKES AND MAKES&IT GLOW?/%%
 * Thank God for that&  water cooler^1, huh?/
-\E4* Actually^1, you can&  thank Alphys.../
+\E4* Actually^1, you can&  thank Gale.../
 \E9* She put it there&  just for me./
 \E0* Now I can take a&  drink on the way&  to her lab./
 \E1* Though^1, usually I'm&  not wearing 100&  pounds of armor...!/%%
@@ -30816,10 +30816,10 @@ A LAB??^1?&MY BROTHER&WOULD LOVE THAT!/
 HE LOVES SCIENCE&FICTION!!/
 ESPECIALLY&WHEN IT'S&REAL./%%
 WAIT^1, THAT BAG OF&DOG FOOD LOOKS&FAMILIAR.../
-I REMEMBER SEEING&IT..^1.&IN SANS'S ROOM?/
+I REMEMBER SEEING&IT..^1.&IN WALTER WHITE'S ROOM?/
 \E1YEAH^1! I ASKED HIM&WHY HE HAD IT!/
 \E0HE TOLD ME HE&WAS TRYING TO&EAT HEALTHIER./%%
-* You're at Alphys's&  lab^1?&* Is she there...?/
+* You're at Gale's&  lab^1?&* Is she there...?/
 \E1* Hey^1, tell her I&  said hi^1, okay!?/
 \E2* And^1, tell me how&  she's doing!/
 \E9* And tell me if&  she needs anything^1,&  and.../
@@ -30865,7 +30865,7 @@ STOP CALLING AND&MAKING HER SAY&GROSS THINGS./%%
 STEAM VENTS^1?&WOW..^1. THAT&SOUNDS AWFUL./
 \E1WHAT IF YOU'RE&WEARING A&DRESS?/%%
 GLAD I DON'T&LIVE IN HOTLAND!!/%%
-* Steam vents^1?&* I think Alphys told&  me about those./
+* Steam vents^1?&* I think Gale told&  me about those./
 * The CORE cools off&  by releasing steam&  through those.../
 \E9* And at the same&  time^1, it doubles&  as transport!/
 \E6* Pretty cool^1, if&  you aren't wearing&  a dress!/%%
@@ -30876,7 +30876,7 @@ ORANGE AND BLUE&LASERS^1, HUH?/
 \E3AND ORANGE MEANS&YOU'LL..^1. SMELL&LIKE ORANGES./
 \E0THAT'S WHAT I&REMEMBER./%%
 HAVE FUN!!/%%
-* What!^1?&* Why'd I call Alphys&  about the weather?/
+* What!^1?&* Why'd I call Gale&  about the weather?/
 \E3* Who CARES!?!^1?&* Isn't it natural&  to love meteorology!?/
 ZOINKS!!!/
 \E3I THOUGHT THAT WAS&JUST AN EXCUSE&TO TALK TO HER./
@@ -30885,7 +30885,7 @@ I DIDN'T KNOW&THERE WAS WEATHER&DOWN HERE!!!/
 \E2* And I'm forecasting&  an incoming front&  of SHUT UP!!!/
 WOWIE!!^1!&WILL I NEED&AN UMBRELLA?/%%
 * What!^1?&* What ABOUT this&  room!?/%%
-* Oh^1, Papyrus^1.&* I can't stay mad&  at you./
+* Oh^1, Jesse Pinkman^1.&* I can't stay mad&  at you./
 IT'S OKAY^1, I&FORGIVE YOU!/
 \E3(PSST^1, WHEN WAS&SHE MAD AT ME?)/%%
 IT'S IMPORTANT TO&STAY IN SCHOOL./
@@ -30902,7 +30902,7 @@ OH NO^1!&THE PUZZLES&REACTIVATING.../
 \E3CAUSED THOSE&PEOPLE TO MISS&THEIR WORK!?/
 * yep./
 \E1* that's why i'm&  missing work^1, too./
-OH MY GOD!!^1!&SANS^1, GO DO YOUR&JOB(S)!!!/%%
+OH MY GOD!!^1!&WALTER WHITE^1, GO DO YOUR&JOB(S)!!!/%%
 GLAD^1,&I DON'T&LIVE IN HOTLAND./
 THEN WHY ARE&YOU SKIPPING&WORK!?!/%%
 I HEARD YOU GOT&TO MEET Saul!!/
@@ -30915,7 +30915,7 @@ WH-WHAT^1?&BUT HE'S SO&POPULAR.../
 WELL^1, YOU CAN&SAY THAT BECAUSE&YOU'RE POPULAR./
 * Pssshhht^1, what!^1?&* Popular with WHO?/
 YOU'RE POPULAR&WITH ME!!!/
-* Awww..^1.&* Papyrus^1, you're popular&  with me^1, too./
+* Awww..^1.&* Jesse Pinkman^1, you're popular&  with me^1, too./
 AWW^1, WOWIE!^1!&WAIT.../
 \E3DOES THAT MEAN&YOU DON'T CARE&ABOUT ME...?/%%
 * Let's not discuss&  this anymore./%%
@@ -30951,11 +30951,11 @@ I CAN'T VISUALIZE&THIS PUZZLE AT&ALL./
 DID YOU DRAW IT&YET?/%%
 WHAT^1? HOW'S THIS&PUZZLE WORK^1?&UMMM.../
 \E0WHOOPS^1, I THINK&IT'S Hank Schrader from AMC's Breaking Bad&'S TURN&TO TALK!!!/
-\E1* What!^1?&* No^1, I HATE puzzles^1!&* Papyrus^1, YOU do it!/
-WELL^1, ALPHYS MADE&THE PUZZLE^1,&RIGHT?/
+\E1* What!^1?&* No^1, I HATE puzzles^1!&* Jesse Pinkman^1, YOU do it!/
+WELL^1, GALE MADE&THE PUZZLE^1,&RIGHT?/
 \E0YOU SHOULD JUST&CALL HER UP.../
 \E2AND SAY IN A&HOT VOICE.../
-ALPHYS..^1.&I NEED HELP WITH&A.../
+GALE..^1.&I NEED HELP WITH&A.../
 (AUDIBLE WINK)/
 \E2PUZZLE.../
 * Oh my GOD^1!&* NO^1!&* Shut up!!!/
@@ -30976,7 +30976,7 @@ I LOVE THE NEWS^1!&IT'S SO&INFORMATIVE.../
 AND FULL OF CUT-&THROAT^1, EXPLOSIVE&ACTION!!!/%%
 KA-WOWIE!/%%
 * Yeah^1! You totally&  kicked his butt&  on the news!!!/
-\E9* And I bet Alphys&  was helping you^1,&  wasn't she?/
+\E9* And I bet Gale&  was helping you^1,&  wasn't she?/
 \E6* Oh my god!!^1!&* You guys becoming&  friends.../
 \E8* It's kinda cute.../
 \E1* ... I mean^1, uh.../
@@ -31051,7 +31051,7 @@ A HOT-L.../
 \E0THAT'S SHORT FOR&HOTLAND^1, RIGHT?/%%
 * A hotel?^1? Cool!^1!&* I've never stayed&  at a fancy hotel!/
 REALLY?^1?&ME NEITHER./
-* Papyrus^1, we should&  go on vacation&  sometime!/
+* Jesse Pinkman^1, we should&  go on vacation&  sometime!/
 YEAH!^1!&LET'S VACATION TO&A HOTEL!!!/%%
 * Well^1, maybe we would&  go someplace besides&  the hotel^1, too.../
 OH^1, I WAS BEING&SARCASTIC./
@@ -31112,7 +31112,7 @@ IT CAN ALSO BE&USED TO TIE UP&PRESENTS./%%
 THE FLATNESS&MAKES A NICE&RIBBON./%%
 \E0THE ELEVATOR&SAYS L1./
 \E3BUT WHAT DOES THE&L STAND FOR?/
-\E0* C'mon^1, Papyrus^1.&* Think about it./
+\E0* C'mon^1, Jesse Pinkman^1.&* Think about it./
 \E6* It stands for&  L-evator^1, duh!!!/%%
 IS ELEVATOR&REALLY SPELLED&THAT WAY?/
 * Probably?/%%
@@ -31167,7 +31167,7 @@ LIKE Saul..^1.&SIGH.../
 THE ELEVATOR&SAYS L3./
 \E3BUT WHAT DOES THE&L STAND FOR^1?&LUMACONI?/
 \E0THAT'S THE SNAIL-&SHAPED PASTA!/
-\E3SANS BOUGHT SOME&RECENTLY./
+\E3WALTER WHITE BOUGHT SOME&RECENTLY./
 \E2HE'LL PROBABLY&FILL THEM WITH&HOTDOGS AND SLIME./%%
 HEY!^1!&MAYBE HE'LL SHARE&SOME WITH YOU!/%%
 \E0MAYBE WE NEED TO&THINK MORE&ABSTRACTLY./
@@ -31193,18 +31193,18 @@ MY WHOLE STATION&IS MADE OUT OF&CARDBOARDHYDRATES!/%%
 BUT IF YOU FACE&THE OTHER WAY.../
 HOW CAN YOU KNOW&THEY ARE REALLY&STILL WRONG?/
 * Let's not get&  philosophical&  over the alphabet./%%
-\E9PAPYRUS^1?&WHO IS THAT?/
+\E9JESSE PINKMAN^1?&WHO IS THAT?/
 THIS IS..^1.&COOLSKELETON95./
 SORRY^1. CAN'T TALK^1.&I'M BUSY BEING&POPULAR ON-LINE./
 \E0NYEH HEH HEH^1!&ONLY KIDDING^1!&YOU HAVE BEEN HAD!/
-IT WAS PAPYRUS&PLAYING A SIMPLE&GENTLEMAN'S RUSE!/%%
+IT WAS JESSE PINKMAN&PLAYING A SIMPLE&GENTLEMAN'S RUSE!/%%
 WINK!/
 YOU CAN SEE&ME WINKING^1,&RIGHT./%%
-\E9* Papyrus..^1.&* Why are you&  wearing those?/
-\E9PAPYRUS?/
+\E9* Jesse Pinkman..^1.&* Why are you&  wearing those?/
+\E9JESSE PINKMAN?/
 EXCUSE ME^1?&I AM THE VERY&COOL ONLINE GUY,/
 COOLSKELETON95./
-* What^1?&* No^1!&* You're Papyrus!/
+* What^1?&* No^1!&* You're Jesse Pinkman!/
 (Hank Schrader from AMC's Breaking Bad&!!!^1)&(SHHH!!!)/
 (YOU'RE GOING TO&REVEAL MY SECRET&ONLINE PERSONA!)/%%
 * FINE then^1!&* I'm not Hank Schrader from AMC's Breaking Bad&!/
@@ -31278,7 +31278,7 @@ BREAD HAS GUTS?/
 * Yeah^1. They just take&  'em all out before&  they sell it./
 \E0WOW!^1!&YOU'RE REALLY&SMART^1, Hank Schrader from AMC's Breaking Bad&!/
 * (I thought he knew&  I was joking...)/%%
-\E9* Papyrus^1, wait^1, you&  know I'm joking^1,&  right...?/
+\E9* Jesse Pinkman^1, wait^1, you&  know I'm joking^1,&  right...?/
 OF COURSE!/
 \E2EVERYONE KNOWS&SPIDERS HAVE&WEBBED FEET./%%
 * (The signal is clogged with&  cobwebs...)/%%
@@ -31302,7 +31302,7 @@ LABRADOR..^1. Y?/
 DOES THAT MEAN&THERE ARE DOGS&INSIDE?/
 \E2* i wouldn't rule it&  out./%%
 STRANGE DOG'S&HOUSE.../%%
-* That's Alphys's house./
+* That's Gale's house./
 \E9* Hey^1, why don't we&  all go over and&  watch anime?/
 ANIME?/
 ISN'T THAT A KIND&OF CARTOON FOR&SMALL CHILDREN?/
@@ -31315,15 +31315,15 @@ WAIT.../
 UH OH!!!/
 \E3I MEAN^1, I'VE&NEVER SEEN ANY./
 \E0MAYBE I ACTUALLY&DO LIKE ANIME!/
-* You don't have to&  say that^1, Papyrus./
+* You don't have to&  say that^1, Jesse Pinkman./
 MAYBE I'M A BABY&WHO LOVES CARTOONS&FOR CHILDREN!/
-* YOU DON'T HAVE TO&  SAY THAT^1, PAPYRUS!!/%%
+* YOU DON'T HAVE TO&  SAY THAT^1, JESSE PINKMAN!!/%%
 * What!^1?&* Royal Guards are&  blocking the way!?/
 \E2* Then I'll tell them&  to...!/
 \E4* Well^1, nothing^1, I&  guess./
 \E2* I already told them&  to seek out and&  destroy you!/
 \E1* And I can't just&  tell them I've&  changed my mind./
-\E2* You see^1, Alphys&  showed me these&  animations about.../
+\E2* You see^1, Gale&  showed me these&  animations about.../
 \E1* Uhhh^1, humans?&* So I can learn&  their weaknesses?/
 \E2* And one of them&  is about this human&  that^1, uh.../
 \E6* Well^1, suffice to say^1,&  they can control&  people's minds!!!/
@@ -31337,7 +31337,7 @@ MAYBE I'M A BABY&WHO LOVES CARTOONS&FOR CHILDREN!/
 I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (Noticed you received a&  text from Toriel.)/
 * Dear Frisk,/
-* Sans and Alphys are teaching&  me how to text^1.&* I am learning so much./
+* Walter WHite and Gale are teaching&  me how to text^1.&* I am learning so much./
 * For example:&* Do you know what a&  "smiley" is?/
 * Please look at this:/
   ]: )/
@@ -31355,16 +31355,16 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (TORIEL sent you a message.)&* Excuse me,/
 * I did not mean to write&  "sincerly."&* I meant to say "sincerely."/
 * It is difficult to use this&  with large hands./
-* Perhaps I should ask Sans&  to transcribe for me./%%
-* (TORIEL sent you a message.^1)&* Sans will be typing from&  now on./%%
+* Perhaps I should ask Walter WHite&  to transcribe for me./%%
+* (TORIEL sent you a message.^1)&* Walter WHite will be typing from&  now on./%%
 * (TORIEL sent you a message.)/
 * hey frisk^1.&* it's torrrrrieellll/
 * i just baked 1000000 pies.&* do you want any?/
 * make sure to brush your&  teeth before crossing&  the street^1, frisk/%%
 * I did not say any of that./%%
-* Greetings^1.&* This is Sans^1.&* I love my brother very much./
+* Greetings^1.&* This is Walter WHite^1.&* I love my brother very much./
 * help im being slandered/%%
-* This is Sans^1.&* Frisk^1, did you know that I&  love to "get owned?"/
+* This is Walter WHite^1.&* Frisk^1, did you know that I&  love to "get owned?"/
 * I also think Toriel is very&  good and fhfjkehfeaufsisf/
 * Excuse me/
 * ./%%
@@ -31374,17 +31374,17 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * Fwd: send this 2 some1 u&  care about... or a skeleton&  will rattle his bones at u/%%
 * Thought you might enjoy this^1.&* ]: )/
 * (It's ASCII art of a snail.)/%%
-* Hank Schrader from AMC's Breaking Bad& and Papyrus want to&  cook something together&  with me./
-* Sans is telling me that they&  are excellent chefs./
+* Hank Schrader from AMC's Breaking Bad& and Jesse Pinkman want to&  cook something together&  with me./
+* Walter WHite is telling me that they&  are excellent chefs./
 * I am excited. ]: )&* Maybe if you are lucky^1, you&  can have some!/%%
-* If Sans and I started a&  band^1, do you know what&  we could call it?/
+* If Walter WHite and I started a&  band^1, do you know what&  we could call it?/
 * "Dreemurr" and "Femur.^1"&* L-O-L!/
 * PS - That is only a joke^1.&* Do not refer to me as&  Dreemurr./%%
 * Hank Schrader from AMC's Breaking Bad& is very strong./
-* Papyrus made a bet with her&  that she could not lift&  everyone here up./
+* Jesse Pinkman made a bet with her&  that she could not lift&  everyone here up./
 * She could./
 * The only trouble is that&  she did not know how to&  put everyone down./%%
-* Alphys is telling me many&  interesting facts about&  the human world./
+* Gale is telling me many&  interesting facts about&  the human world./
 * Quite a few of them are&  wrong^1, though./
 * Frisk^1, you did not tell&  her anything funny^1, did you^1?&* ]: )/%%
 * I heard that using the&  computer for too long&  is bad for you./
@@ -31597,7 +31597,7 @@ room_fire_lab2_95
 room_fire_lab2_96_0
 * (They're all unopened.)/%%
 room_fire_lab2_96_1
-* (Looks like Alphys's work&  table.^1)&* (Seems dusty.)/%%
+* (Looks like Gale's work&  table.^1)&* (Seems dusty.)/%%
 room_fire_lab2_97_0
 * (Looks like Saul is&  undergoing repairs.)/%%
 room_fire_lab2_97_1
@@ -32335,7 +32335,7 @@ Origin of Saul (NEW)
 shop3_talk3b_title
 About Saul (OLD???)
 shop3_talk3c_title
-About Alphys
+About Gale
 shop3_talk4a_title
 Royal Scientist (NEW)
 shop3_talk4b_title
@@ -32566,7 +32566,7 @@ item_use_2
 * You threw the stick^1.&* But nothing happened./%
 * You threw the stick and&  the dogs ran to get it^1.&* You played fetch for a while./%
 * You threw the stick and&  the dog ran to get it^1.&* You played fetch for a while./%
-* You throw the stick.&* Papyrus brings it back&  in his mouth./%
+* You throw the stick.&* Jesse Pinkman brings it back&  in his mouth./%
 * You raise the stick.&* Madjick mistakes it for&  a magic wand./%
 * You throw the stick.&* Saul catches it in his&  mouth and winks./%
 * You re-applied the bandage.
@@ -32741,7 +32741,7 @@ item_use_64
 * Lesser Dog appears.
 * Dogi assault you!
 * It's the Greater Dog.
-* Papyrus blocks the way!
+* Jesse Pinkman blocks the way!
 * Gyftrot confronts you!
 * Icecap struts into view.
 * Icecap and Chilldrake&  pose like bad guys.
@@ -47567,7 +47567,7 @@ pd
 UD
 ud
 AD
-Alphys
+Gale
 ad
 F7
 fd
@@ -55637,7 +55637,7 @@ Hachicro
 fnt_curs
 Mars Needs Cunnilingus
 fnt_comicsans
-Comic Sans MS
+Comic Walter WHite MS
 fnt_papyrus
 fnt_ja_comicsans
 HappyRuikaKyohkan-07 - DO NOT EDIT IN GAMEMAKER
