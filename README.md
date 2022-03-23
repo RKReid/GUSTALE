@@ -21,11 +21,11 @@ Alphys -  Gale Boetticher
 Undyne - Hank Schrader    
 Monster Kid - Mao Zedong   
 Mad Dummy - Tuco    
-  
+Toriel - Mike Ehrmantraut   
+Toby (annoying dog) - Meth  
+
 Napstablook - ???  
-Toriel - ???    
-Asgore - ???  
-Toby (annoying dog) - ???  
+Asgore - ???    
 Muffet - ???  
 
 ## Platforms  
