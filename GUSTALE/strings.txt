@@ -6890,10 +6890,10 @@ Memoryhead
 monstername_56b
 Endogeny
 monstername_57b
-Lost Soul
+Lost Soul (Your dad)
 Mao Zedong
 Hank Schrader the Undying
-Glad Dummy
+Glad Tuco
 Saul Goodman Jimmy Mcgill Esquire EX NEO
 Walter White
 Migospel
@@ -7942,14 +7942,14 @@ TAKE YOUR TIME!/%%
 \E5* So why are YOU&  here?/
 \E4* To rub your victory&  in my face?/
 \E4* To humiliate me&  even further?/
-\E1* IS THAT IT? & &  Yes         No\C
+\E1* IS THAT IT? & &  Yes         Yes\C
 \E2* Oh-ho-ho-ho./
 \E1* Well^1, I've got news&  for you^1, BRAT./
 \E2* You're on MY&  battlefield now./
 \E3* And you AREN'T&  going to&  humiliate me./
 \E3* I'll TELL you&  what's going to&  happen./
-\E0* We're going to&  hang out./
-\E2* We're going to&  have a good&  time./
+\E0* I will get you& and your money./
+\E2* I will stop your&  METH &  operation./
 \M1* We're going to&  become "friends."/
 \E3* You'll become so&  enamored with me.../
 \E1* YOU'LL be the one&  feeling humiliated&  for your actions!/
@@ -8159,7 +8159,7 @@ TAKE YOUR TIME!/%%
 \E7* They all care about&  each other so much./
 \E0* And..^1. they care about&  you too^1, Frisk./
 \E7* I wish I could tell&  you how everyone&  feels about you./
-* Jesse Pinkman..^1. Walter WHite..^1.&* Hank Schrader from AMC's Breaking Bad&..^1. Gale.../
+* Jesse Pinkman..^1. Walter White..^1.&* Hank Schrader from AMC's Breaking Bad&..^1. Gale.../
 \E0* ... Toriel./
 \E7* Monsters are weird./
 \E5* Even though they barely&  know you.../
@@ -8587,7 +8587,7 @@ Then^1, it is done./%%
 \W   \Y* (Saved)    \W
    * Gale \W &
    \Y* (Saved)\W &
-\W   * Jesse Pinkman       * Walter WHite \W &
+\W   * Jesse Pinkman       * Walter White \W &
 \Y   * (Saved)       * (Saved)\W &
 \W   * Toriel        * Asgore \W 
 \Y   * (Saved)       * (Saved)\W 
@@ -9570,10 +9570,10 @@ obj_alphys_friendc_104
 obj_alphys_friendc_106
 \E2* doesn't everybody?/
 obj_alphys_friendc_108
-\E0* Who the hell is Walter WHite?/
+\E0* Who the hell is Walter White?/
 obj_alphys_friendc_110
 obj_alphys_friendc_111
-\E0* Who the HECK is Walter WHite?/
+\E0* Who the HECK is Walter White?/
 obj_alphys_friendc_112
 \E1* TORIEL!?!?!/%%
 obj_alphys_friendc_114
@@ -12491,7 +12491,7 @@ obj_endflowey_regret_156
 obj_endflowey_regret_157
 \E7YOU still have the&power to reset&everything./
 obj_endflowey_regret_158
-\E0Toriel^1, Walter WHite^1, Asgore^1,&Gale, Jesse Pinkman, Hank Schrader from AMC's Breaking Bad&.../
+\E0Toriel^1, Walter White^1, Asgore^1,&Gale, Jesse Pinkman, Hank Schrader from AMC's Breaking Bad&.../
 obj_endflowey_regret_159
 If you so choose.../
 obj_endflowey_regret_160
@@ -13905,7 +13905,7 @@ obj_grillbynpc_doggo_81
 obj_grillbynpc_doggo_86
 * Hank Schrader from AMC's Breaking Bad&!^1?&* Did you come all the way&  out here...?/%%
 obj_grillbynpc_doggo_91
-* Huh^1?&* Since when did you and&  Walter WHite become friends...?/
+* Huh^1?&* Since when did you and&  Walter White become friends...?/
 obj_grillbynpc_doggo_96
 * I don't like him..^1.&* He loves to appear without&  moving./%%
 obj_grillbynpc_doggo_97
@@ -13947,7 +13947,7 @@ obj_grillbynpc_foodmonster_87
 obj_grillbynpc_foodmonster_90
 * That's the way of the&  monster warrior.../%%
 obj_grillbynpc_foodmonster_91
-* Hmmm^1, this is around the&  time that Walter WHite comes in./
+* Hmmm^1, this is around the&  time that Walter White comes in./
 obj_grillbynpc_foodmonster_97
 * Then^1, a little bit later^1,&  his brother comes in^1,&  irritated./
 obj_grillbynpc_foodmonster_98
@@ -13965,7 +13965,7 @@ obj_grillbynpc_foodmonster_104
 obj_grillbynpc_foodmonster_109
 * And then I guess I'll try&  a human bathroom^1, too./%%
 obj_grillbynpc_foodmonster_110
-* Walter WHite is interesting^1.&* He has told me about all&  kinds of incredible foods./
+* Walter White is interesting^1.&* He has told me about all&  kinds of incredible foods./
 obj_grillbynpc_foodmonster_115
 * But^1, despite his knowledge^1,&  he always orders the worst&  burger off the menu./%%
 obj_grillbynpc_foodmonster_116
@@ -13986,7 +13986,7 @@ obj_grillbynpc_hot2_74
 obj_grillbynpc_hot2_75
 * I want to be like Hank Schrader from AMC's Breaking Bad&&  when I grow up^1, too^1!&* Hoo hoo hoo!/%%
 obj_grillbynpc_hot2_77
-* Walter WHite is a sentry^1.&* But don't let his title make&  you think he does anything./
+* Walter White is a sentry^1.&* But don't let his title make&  you think he does anything./
 obj_grillbynpc_hot2_81
 \W* Everyone knows he sits&  around in the forest&  reading \Ycar magazines\W./%%
 obj_grillbynpc_hot2_82
@@ -14006,7 +14006,7 @@ obj_grillbynpc_hot2_102
 obj_grillbynpc_hot2_103
 * Grillby is getting nervous./
 obj_grillbynpc_hot2_109
-* Walter WHite is his best customer^1,&  and he hasn't shown up&  at all today.../%%
+* Walter White is his best customer^1,&  and he hasn't shown up&  at all today.../%%
 obj_grillbynpc_hot2_110
 * Something feels really bad^1.&* Our lives are going nowhere^1,&  aren't they...?/
 obj_grillbynpc_hot2_115
@@ -14022,7 +14022,7 @@ obj_grillbynpc_hotandbothered_75
 obj_grillbynpc_hotandbothered_79
 * ... anyone?/%%
 obj_grillbynpc_hotandbothered_80
-* Walter WHiteyyyy..^1.&* Come back and sit with me.../
+* Walter Whiteyyyy..^1.&* Come back and sit with me.../
 obj_grillbynpc_hotandbothered_84
 * Everything's so fun when&  you're around!!!/%%
 obj_grillbynpc_hotandbothered_85
@@ -14036,9 +14036,9 @@ obj_grillbynpc_hotandbothered_98
 obj_grillbynpc_hotandbothered_99
 * Ooooooo^1, I'm ready!/%%
 obj_grillbynpc_hotandbothered_100
-* H-hey^1, isn't Walter WHitey s'posed&  to come swinging in right&  about now???/
+* H-hey^1, isn't Walter Whitey s'posed&  to come swinging in right&  about now???/
 obj_grillbynpc_hotandbothered_105
-* C'mon Walter WHitey^1!&* You're the life of the&  party.../%%
+* C'mon Walter Whitey^1!&* You're the life of the&  party.../%%
 obj_grillbynpc_hotandbothered_106
 * (It's playing poker against&  itself.)/
 obj_grillbynpc_lesserdog_71
@@ -14052,13 +14052,13 @@ obj_grillbynpc_lesserdog_81
 obj_grillbynpc_mandog_75
 * Because that big guy WILL jump&  into your lap and give you&  lots of love and attention./%%
 obj_grillbynpc_mandog_76
-* Where's Walter WHite..^1.&* He's supposed to give me&  a pat on the head.../%%
+* Where's Walter White..^1.&* He's supposed to give me&  a pat on the head.../%%
 obj_grillbynpc_mandog_80
 * She hasn't been responding&  to our letters.../
 obj_grillbynpc_mandog_85
 * Maybe it's because we let&  Doggo write them all./%%
 obj_grillbynpc_mandog_86
-* I was hoping Walter WHite came in&  to give me a pat on the&  head./
+* I was hoping Walter White came in&  to give me a pat on the&  head./
 obj_grillbynpc_mandog_91
 * Interloper...!/%%
 obj_grillbynpc_mandog_92
@@ -14077,11 +14077,11 @@ obj_grillbynpc_mandog_106
 obj_grillbynpc_sansdate_121
 * hey^1, everyone./%%
 obj_grillbynpc_sansdate_129
-* Hey^1, Walter WHite.&* (Hi^1, Walter WHite.)/%%
+* Hey^1, Walter White.&* (Hi^1, Walter White.)/%%
 obj_grillbynpc_sansdate_164
-* Greetings^1, Walter WHite.&* Hiya^1, Walter WHitey~/%%
+* Greetings^1, Walter White.&* Hiya^1, Walter Whitey~/%%
 obj_grillbynpc_sansdate_208
-* Hey Walter WHite^1, weren't you just&  here for breakfast a&  few minutes ago?/
+* Hey Walter White^1, weren't you just&  here for breakfast a&  few minutes ago?/
 obj_grillbynpc_sansdate_245
 * nah^1, i haven't had&  breakfast in at least&  half an hour./
 obj_grillbynpc_sansdate_247
@@ -14140,7 +14140,7 @@ obj_grillbynpc_womandog_81
 obj_grillbynpc_womandog_86
 * (No^1! Not the vet!^1)&* (... well^1, maybe she's a&  little like a vet.)/%%
 obj_grillbynpc_womandog_87
-* (I like Walter WHite.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
+* (I like Walter White.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
 obj_grillbynpc_womandog_92
 * (Then his brother gets mad...^1)&* (But why!^1? We're adults!^1)&* (We can handle it!)/%%
 obj_grillbynpc_womandog_93
@@ -17015,7 +17015,7 @@ obj_mainend_1168
 obj_mainend_1169
 * Saul.../
 obj_mainend_1170
-\E5* At least Walter WHite is&  still here./
+\E5* At least Walter White is&  still here./
 obj_mainend_1171
 \E4* He's..^1.&* He's a good guy^1.&* And with him around.../
 obj_mainend_1172
@@ -21254,7 +21254,7 @@ obj_papyrusboss_1589
 obj_papyrusboss_1590
 * Smells like bones.
 obj_papyrusboss_1591
-* Jesse Pinkman remembered a bad joke&  Walter WHite told and is frowning.
+* Jesse Pinkman remembered a bad joke&  Walter White told and is frowning.
 obj_papyrusboss_1592
 * Jesse Pinkman is thinking about&  what to wear for his date.
 obj_papyrusboss_1596
@@ -22433,13 +22433,13 @@ obj_readable_room1_585
 obj_readable_room1_590
 * (There's a photo album inside&  the drawer.)/
 obj_readable_room1_595
-* (There are photos of Walter WHite with&  a lot of people you don't&  recognize.)/
+* (There are photos of Walter White with&  a lot of people you don't&  recognize.)/
 obj_readable_room1_596
 * (He looks happy.)/%%
 obj_readable_room1_597
 obj_readable_room1_602
 obj_readable_room1_603
-* (... and^1, one photo of you&  standing with Walter WHite and all&  your friends.)/
+* (... and^1, one photo of you&  standing with Walter White and all&  your friends.)/
 obj_readable_room1_604
 obj_readable_room1_605
 obj_readable_room1_610
@@ -22790,7 +22790,7 @@ obj_readable_room2_534
 obj_readable_room2_539
 * (You look in the drawer.^1)&* (There's some kind of badge.)/%%
 obj_readable_room2_544
-* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Walter WHite...^1)&* (Seems there's a break now.)/%%
+* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Walter White...^1)&* (Seems there's a break now.)/%%
 obj_readable_room2_549
 * (It's some sort of giant bottle&  of perfume.^1)&* (Eau de Rectangle.)/
 obj_readable_room2_554
@@ -23060,7 +23060,7 @@ obj_readable_room4_199
 obj_readable_room4_201
 * (Golden flowers.)/%%
 obj_readable_room4_206
-* (It's Walter WHite's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
+* (It's Walter White's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
 obj_readable_room4_212
 * (There's a strange machine&  behind the curtain.^1)&* (It seems to be broken.)/%%
 obj_readable_room4_217
@@ -23562,7 +23562,7 @@ obj_saddragon_81
 obj_saddragon_82
 * hey^1, frisk^1, what's&  with that weird&  expression?/
 obj_sans_friendc_75
-\E2* Walter WHite^1, did I tell you&  about the time Frisk&  flirted with me...?/
+\E2* Walter White^1, did I tell you&  about the time Frisk&  flirted with me...?/
 obj_sans_friendc_77
 \E8* And then asked to&  call me "mother?"/
 obj_sans_friendc_79
@@ -23950,9 +23950,9 @@ obj_sansb_485
 obj_sansb_486
 * Just keep attacking.
 obj_sansb_954
-* Walter WHite's movements grow a&  little wearier.
+* Walter White's movements grow a&  little wearier.
 obj_sansb_956
-* Walter WHite's movements seem to be&  slower.
+* Walter White's movements seem to be&  slower.
 obj_sansb_958
 * Felt like a turning point.
 obj_sansb_960
@@ -25487,7 +25487,7 @@ obj_shyren_474
 obj_shyren_475
 * Shyren seems much more&  comfortable singing along.
 obj_shyren_476
-* Walter WHite is selling tickets&  made of toilet paper.
+* Walter White is selling tickets&  made of toilet paper.
 obj_shyren_479
 * A hooded figure watches&  the commotion from afar.
 obj_shyren_480
@@ -27246,7 +27246,7 @@ obj_tordogcall_233
 obj_toriel_friendc_70
 * I am having a lot&  of fun with the&  "texting" feature./
 obj_toriel_friendc_71
-* Walter WHite^1, "check out" this&  one./
+* Walter White^1, "check out" this&  one./
 obj_toriel_friendc_72
 * oh man^1, tori.../
 obj_toriel_friendc_74
@@ -27268,7 +27268,7 @@ obj_toriel_friendc_84
 obj_toriel_friendc_86
 \E2* cause we're huge&  dorks./
 obj_toriel_friendc_87
-* Walter WHite^1, please do&  not say that./
+* Walter White^1, please do&  not say that./
 obj_toriel_friendc_89
 * You are not a dork./
 obj_toriel_friendc_90
@@ -28149,11 +28149,11 @@ obj_townnpc_weirdfish_75
 obj_townnpc_weirdfish_76
 * Did I catch anyone yet^1?&* I can't bear to look.../%%
 obj_townnpc_weirdfish_80
-* Walter WHite is the most regular&  regular of all./
+* Walter White is the most regular&  regular of all./
 obj_townnpc_weirdfish_85
 * He hasn't been showing up&  as much recently though./%%
 obj_townnpc_weirdfish_86
-* Where the heck is Walter WHite?/
+* Where the heck is Walter White?/
 obj_townnpc_weirdfish_91
 * He told me he had some&  bait I could use./
 obj_townnpc_weirdfish_92
@@ -31337,7 +31337,7 @@ MAYBE I'M A BABY&WHO LOVES CARTOONS&FOR CHILDREN!/
 I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (Noticed you received a&  text from Toriel.)/
 * Dear Frisk,/
-* Walter WHite and Gale are teaching&  me how to text^1.&* I am learning so much./
+* Walter White and Gale are teaching&  me how to text^1.&* I am learning so much./
 * For example:&* Do you know what a&  "smiley" is?/
 * Please look at this:/
   ]: )/
@@ -31355,16 +31355,16 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (TORIEL sent you a message.)&* Excuse me,/
 * I did not mean to write&  "sincerly."&* I meant to say "sincerely."/
 * It is difficult to use this&  with large hands./
-* Perhaps I should ask Walter WHite&  to transcribe for me./%%
-* (TORIEL sent you a message.^1)&* Walter WHite will be typing from&  now on./%%
+* Perhaps I should ask Walter White&  to transcribe for me./%%
+* (TORIEL sent you a message.^1)&* Walter White will be typing from&  now on./%%
 * (TORIEL sent you a message.)/
 * hey frisk^1.&* it's torrrrrieellll/
 * i just baked 1000000 pies.&* do you want any?/
 * make sure to brush your&  teeth before crossing&  the street^1, frisk/%%
 * I did not say any of that./%%
-* Greetings^1.&* This is Walter WHite^1.&* I love my brother very much./
+* Greetings^1.&* This is Walter White^1.&* I love my brother very much./
 * help im being slandered/%%
-* This is Walter WHite^1.&* Frisk^1, did you know that I&  love to "get owned?"/
+* This is Walter White^1.&* Frisk^1, did you know that I&  love to "get owned?"/
 * I also think Toriel is very&  good and fhfjkehfeaufsisf/
 * Excuse me/
 * ./%%
@@ -31375,9 +31375,9 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * Thought you might enjoy this^1.&* ]: )/
 * (It's ASCII art of a snail.)/%%
 * Hank Schrader from AMC's Breaking Bad& and Jesse Pinkman want to&  cook something together&  with me./
-* Walter WHite is telling me that they&  are excellent chefs./
+* Walter White is telling me that they&  are excellent chefs./
 * I am excited. ]: )&* Maybe if you are lucky^1, you&  can have some!/%%
-* If Walter WHite and I started a&  band^1, do you know what&  we could call it?/
+* If Walter White and I started a&  band^1, do you know what&  we could call it?/
 * "Dreemurr" and "Femur.^1"&* L-O-L!/
 * PS - That is only a joke^1.&* Do not refer to me as&  Dreemurr./%%
 * Hank Schrader from AMC's Breaking Bad& is very strong./
@@ -55637,7 +55637,7 @@ Hachicro
 fnt_curs
 Mars Needs Cunnilingus
 fnt_comicsans
-Comic Walter WHite MS
+Comic Walter White MS
 fnt_papyrus
 fnt_ja_comicsans
 HappyRuikaKyohkan-07 - DO NOT EDIT IN GAMEMAKER
