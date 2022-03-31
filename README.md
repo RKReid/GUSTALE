@@ -45,6 +45,6 @@ I have tested GUSTALE on a PSVita emulator, and it ran perfectly, as seen below
 ![Gus](https://github.com/RKReid/GUSTALE/blob/main/minerals.PNG?raw=true)  
 ![Gus](https://github.com/RKReid/GUSTALE/blob/main/hedgfj.PNG?raw=true)  
 ![Gus](https://github.com/RKReid/GUSTALE/blob/main/gustale%20walter%20white%20sans.png?raw=true)   
-
+![Gus](https://github.com/RKReid/GUSTALE/blob/main/jesse.PNG?raw=true)   
 
 https://rkreid.github.io/GUSTALE/saul%20ex.webm
