@@ -1,128 +1,128 @@
-<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c6b802ddd3b3d807eeb05dfcd1b275e3c6dd19db95698b89992c70ae52d894dce4dfc9061c691a539564adad165d2512c9b4c6b1dde99bab147cbc037dd69e6c3c4d27a2ae0899231f66e19d34509bc7db57dd93aa68fe098ed4b1028def36e25a6c6603f0b782a7feb1d2e7abfd67b8b8da4a0dd2c5fcc4868570000cd046a96bb0e27cf974e4192c906e0cb9670bc6b32e3bc3-->
+<!--Sce-Np-Trophy-Signature: GUS9b98c0100000000000000c6b802ddd3b3d807eeb05dfcd1b275e3c6dd19db95698b89992c70ae52d894dce4dfc9061c691a539564adad165d2512c9b4c6b1dde99bab147cbc037dd69e6c3c4d27a2ae0899231f66e19d34509bc7db57dd93aa68fe098ed4b1028def36e25a6c6603f0b782a7feb1d2e7abfd67b8b8da4a0dd2c5fcc4868570000cd046a96bb0e27cf974e4192c906e0cb9670bc6b32e3bc3-->
 <trophyconf version="1.1" platform="psp2,ps4" policy="large">
  <npcommid>NPWR13830_00</npcommid>
  <trophyset-version>01.00</trophyset-version>
  <parental-level license-area="default">0</parental-level>
- <title-name>Undertale</title-name>
- <title-detail>Undertale</title-detail>
+ <title-name>Gustale</title-name>
+ <title-detail>Gustale</title-detail>
  <trophy id="000" hidden="no" ttype="P" pid="-1">
-  <name>Don't You Have Anything Better to Do?</name>
-  <detail>Obtain all other Undertale trophies.</detail>
+  <name>THE ONE PIECE!!!!!!!!!!!!!!!</name>
+  <detail>The one piece is reallLlll!!!!!!!!!!!!!!!!!!!!!!</detail>
  </trophy>
- <trophy id="001" hidden="yes" ttype="B" pid="000">
-  <name>Don't Worry, I Have Lots of Ideas for Trophies</name>
-  <detail>Get an item.</detail>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Waltuh</name>
+  <detail>Put your dick away waltuh</detail>
  </trophy>
- <trophy id="002" hidden="yes" ttype="B" pid="000">
-  <name>Like Getting Items</name>
-  <detail>Get two items.</detail>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Pizzahut</name>
+  <detail>NOBODY out pizzas the hut.</detail>
  </trophy>
- <trophy id="003" hidden="yes" ttype="B" pid="000">
-  <name>Or Getting More Items</name>
-  <detail>Get three items.</detail>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>You wouldn't download a car</name>
+  <detail>Steal three items.</detail>
  </trophy>
- <trophy id="004" hidden="yes" ttype="S" pid="000">
-  <name>Help Me, I'm Out of Ideas</name>
-  <detail>Get four items.</detail>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Greatest Legal mind I've ever known</name>
+  <detail>Become a legal mind by having 4 things.</detail>
  </trophy>
- <trophy id="005" hidden="yes" ttype="B" pid="000">
-  <name>Ruins</name>
-  <detail>Enter the Ruins.</detail>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Waltuh, you can call me Finger</name>
+  <detail>Meet the Kid Named Finger</detail>
  </trophy>
- <trophy id="006" hidden="yes" ttype="B" pid="000">
-  <name>Mouse</name>
-  <detail>Reach the mouse hole in the Ruins.</detail>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Chicanery</name>
+  <detail>Reach the chicanery hole in the Ruins.</detail>
  </trophy>
- <trophy id="007" hidden="yes" ttype="B" pid="000">
-  <name>Exodus</name>
-  <detail>Arrive at Snowdin.</detail>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Jesse! We NEED to cook!</name>
+  <detail>Arrive at the Snowdin meth lab.</detail>
  </trophy>
- <trophy id="008" hidden="yes" ttype="S" pid="000">
-  <name>Manna</name>
-  <detail>Get to the Spaghetti save point in Snowdin.</detail>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>I hope she made lots of SPAGHETTI</name>
+  <detail>Spaghetti</detail>
  </trophy>
- <trophy id="009" hidden="yes" ttype="S" pid="000">
-  <name>Midpoint</name>
-  <detail>Arrive at Waterfall.</detail>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Get to the place with AMC's Hank Schrader from the Hit AMC Show Breaking Bad and featured in AMC's Hit Show Better Call Saul!</name>
+  <detail>hank schrader minerals</detail>
  </trophy>
- <trophy id="010" hidden="yes" ttype="S" pid="000">
-  <name>Rain</name>
-  <detail>Reach the place where it rains.</detail>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Meth</name>
+  <detail>Reach the place where meth is made.</detail>
  </trophy>
- <trophy id="011" hidden="yes" ttype="S" pid="000">
-  <name>Final Stretch</name>
-  <detail>Enter Hotland.</detail>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Better Call Saul!</name>
+  <detail>If youre Breaking Bad, then you Better Call Saul!</detail>
  </trophy>
- <trophy id="012" hidden="yes" ttype="S" pid="000">
-  <name>Final Stretch II</name>
-  <detail>Reach Hotland 2F.</detail>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Gene Takovic- A Cinnabon story</name>
+  <detail>Reach Gene's Place</detail>
  </trophy>
- <trophy id="013" hidden="yes" ttype="G" pid="000">
-  <name>Final Stretch II</name>
-  <detail>Reach Hotland 3F.</detail>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Saul Gone</name>
+  <detail>Hey, you're Better Call Saul!</detail>
  </trophy>
- <trophy id="014" hidden="yes" ttype="G" pid="000">
-  <name>Good Luck</name>
-  <detail>Reach the second save point in the CORE.</detail>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>JimmyMCSaulGoodGeneovic</name>
+  <detail>Reach JimmyMCSaulGoodGeneovic EX.</detail>
  </trophy>
- <trophy id="015" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 1</name>
-  <detail>Donate 2G to the Dog Shrine.</detail>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Finger Level 1</name>
+  <detail>Finger 2G to Finger Shrine.</detail>
  </trophy>
- <trophy id="016" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 2</name>
-  <detail>Donate 6G to the Dog Shrine.</detail>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Fingernation Level 2</name>
+  <detail>Finger 6G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="017" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 3</name>
-  <detail>Donate 12G to the Dog Shrine.</detail>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Fingernation Level 3</name>
+  <detail>Finger 12G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="018" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 4</name>
-  <detail>Donate 20G to the Dog Shrine.</detail>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Fingernation Level 4</name>
+  <detail>Finger 20G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="019" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 5</name>
-  <detail>Donate 30G to the Dog Shrine.</detail>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Fingernation Level 5</name>
+  <detail>Finger 30G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="020" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 6</name>
-  <detail>Donate 43G to the Dog Shrine.</detail>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Fingernation Level 6</name>
+  <detail>Finger 43G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="021" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 7</name>
-  <detail>Donate 59G to the Dog Shrine.</detail>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fingernation Level 7</name>
+  <detail>Finger 59G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="022" hidden="yes" ttype="B" pid="000">
-  <name>Dognation Level 8</name>
-  <detail>Donate 78G to the Dog Shrine.</detail>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Fingernation Level 8</name>
+  <detail>Finger 78G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="023" hidden="yes" ttype="S" pid="000">
-  <name>Dognation Level 9</name>
-  <detail>Donate 100G to the Dog Shrine.</detail>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Fingernation Level 9</name>
+  <detail>Finger 100G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="024" hidden="yes" ttype="S" pid="000">
-  <name>Dognation Level 10</name>
-  <detail>Donate 125G to the Dog Shrine.</detail>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Fingernation Level 10</name>
+  <detail>Finger 125G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="025" hidden="yes" ttype="S" pid="000">
-  <name>Dognation Level 11</name>
-  <detail>Donate 155G to the Dog Shrine.</detail>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Fingernation Level 11</name>
+  <detail>Finger 155G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="026" hidden="yes" ttype="S" pid="000">
-  <name>Dognation Level 12</name>
-  <detail>Donate 190G to the Dog Shrine.</detail>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Fingernation Level 12</name>
+  <detail>Finger 190G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="027" hidden="yes" ttype="G" pid="000">
-  <name>Dognation Level 13</name>
-  <detail>Donate 230G to the Dog Shrine.</detail>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Fingernation Level 13</name>
+  <detail>Finger 230G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="028" hidden="yes" ttype="G" pid="000">
-  <name>Dognation Level 14</name>
-  <detail>Donate 280G to the Dog Shrine.</detail>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Fingernation Level 14</name>
+  <detail>Finger 280G to the Finger Shrine.</detail>
  </trophy>
- <trophy id="029" hidden="yes" ttype="G" pid="000">
-  <name>Dognation Level 15</name>
-  <detail>Donate 350G to the Dog Shrine.</detail>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Fingernation Level 15</name>
+  <detail>Finger 350G to the Finger Shrine.</detail>
  </trophy>
 </trophyconf>
