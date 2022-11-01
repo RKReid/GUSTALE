@@ -14259,62 +14259,62 @@ obj_gyftrotnpc_72
 obj_gyftrotnpc_76
 * Good riddance^1!&* Maybe I'll finally get&  some peace and quiet!/%%
 obj_gyftrotnpc_77
-  You cannot give&  up just yet.../
+  Asshole&  fuckface.../
 obj_heartdefeated_0_0
-  \[C]^1!&  Stay determined.../%%
+  \[C]^1!&  penis.../%%
 obj_heartdefeated_0_1
-  \[C], this is just&  a bad dream.../
+  \[C], i fucking hate you.../
 obj_heartdefeated_100_0
-  Wake up^1!&  It's not over!/%%
+  Wake up^1!&  asshole!/%%
 obj_heartdefeated_100_1
   \[C]! It's like&  he says.../
 obj_heartdefeated_101_0
-  You have to&  stay determined.../%%
+  You have to&  stay hard.../%%
 obj_heartdefeated_101_1
-  \[C]! Please&  don't give up.../
+  \[C]! Please&  pay Rob for his very good work.../
 obj_heartdefeated_102_0
   Have some&  KROMER.../%%
 obj_heartdefeated_102_1
   \[C]! You're&  \[C]!/
 obj_heartdefeated_103_0
-  You can't quit^1!&  Stay determined.../%%
+  This boss is too easy^1!&  loser/%%
 obj_heartdefeated_103_1
-  \[C], is this&  a kind of joke?/
+  \[C], is this&  a kind of chicanery?/
 obj_heartdefeated_104_0
-  Cut it out^1!&  Wake up!/%%
+  gayballs^1!&  Wake up!/%%
 obj_heartdefeated_104_1
-  \[C], it's not&  time to leave!/
+  \[C], it's not&  time to cum!/
 obj_heartdefeated_105_0
   Hold on!/%%
 obj_heartdefeated_105_1
-  \[C], gather&  your strength./
+  \[C], gather&  your unnamed item./
 obj_heartdefeated_106_0
-  Stay determined!/%%
+  You're not you when you're hungry!/%%
 obj_heartdefeated_106_1
   \[C], you have&  to keep going./
 obj_heartdefeated_107_0
 obj_heartdefeated_107_1
 obj_heartdefeated_200_0
 obj_heartdefeated_200_1
-  Our fate rests &  upon you.../
+  You really suck &  at this game`.../
 obj_heartdefeated_201_0
 obj_heartdefeated_201_1
-  You're going to&  be alright!/
+  L + ratio &  bozo!/
 obj_heartdefeated_202_0
 obj_heartdefeated_202_1
-  Don't lose hope!/
+  idiot!/
 obj_heartdefeated_203_0
 obj_heartdefeated_203_1
-  It cannot end&  now!/
+  Waltuh, put your dick away &  now, Waltuh!/
 obj_heartdefeated_204_0
 obj_heartdefeated_204_1
-  geeettttttt&  dunked on!!!/
+  you've been &  fortnit4ed!!!/
 obj_heartdefeated_300_0
   if we're really&  friends.../
 obj_heartdefeated_300_1
-  you won't come back./%%
+  Waltuh, put your dick away Waltuh./%%
 obj_heartdefeated_300_2
-* But it refused^5.%%
+* literally 1984^5.%%
 obj_heartdefeated_343
 * The fire isn't burning hot...&* Just pleasantly warm.&* You could put your hand inside./%%
 obj_hearthflame_57
