@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001e2d056175186559685e2de6408b73cbb9587c1d8b3e24340929de6782dd4340a65e9fbf88bd2cf1e586c861dcbb24f9274f245ae089170f7b1a13167836145d8defd54b293688da97eae17249135857355a3e390a332457c2ab5c453fbaaaaf2320d69fb3ab26751ef32a93a44eae876ef0c92edbbba7dfa92dfc48d214a30f9c8d696420a226b2dd95247572ec2d2c0194b65d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13830_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>UNDERTALE</title-name>
+ <title-detail>UNDERTALE</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>キミ、よっぽどヒマなんだね</name>
+  <detail>「UNDERTALE」のトロフィーをすべて獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>大丈夫ワン、トロフィーのネタならいくらでもあるワン</name>
+  <detail>アイテムを1つ入手する。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>「アイテムを入手する」とか…</name>
+  <detail>アイテムを2つ入手する。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>「さらにアイテムを入手する」とか…</name>
+  <detail>アイテムを3つ入手する。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>…ダメだワン、もうネタ切れワン</name>
+  <detail>アイテムを4つ入手する。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>いせき</name>
+  <detail>「いせき」に到着する。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>ネズミ</name>
+  <detail>「いせき」で「ネズミのあな」のセーブポイントに到着する。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>旅立ち</name>
+  <detail>「スノーフル」エリアに入る。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>恵み</name>
+  <detail>「スノーフル」で「スパゲティひろば」のセーブポイントに到着する。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>折り返し</name>
+  <detail>「ウォーターフェル」に到着する。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>雨降り</name>
+  <detail>雨の降る場所に到着する。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>追い込み</name>
+  <detail>「ホットランド」エリアに入る。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>追い込みII</name>
+  <detail>「ホットランド2F」に到着する。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>追い込みIII</name>
+  <detail>「ホットランド3F」に到着する。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>ついに</name>
+  <detail>「コア」の2つめのセーブポイントに到着する。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル1</name>
+  <detail>「イヌじんじゃ」でおさい銭を2Gいれる。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル2</name>
+  <detail>「イヌじんじゃ」でおさい銭を6Gいれる。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル3</name>
+  <detail>「イヌじんじゃ」でおさい銭を12Gいれる。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル4</name>
+  <detail>「イヌじんじゃ」でおさい銭を20Gいれる。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル5</name>
+  <detail>「イヌじんじゃ」でおさい銭を30Gいれる。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル6</name>
+  <detail>「イヌじんじゃ」でおさい銭を43Gいれる。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル7</name>
+  <detail>「イヌじんじゃ」でおさい銭を59Gいれる。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>イヌじんじゃ　レベル8</name>
+  <detail>「イヌじんじゃ」でおさい銭を78Gいれる。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>イヌじんじゃ　レベル9</name>
+  <detail>「イヌじんじゃ」でおさい銭を100Gいれる。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>イヌじんじゃ　レベル10</name>
+  <detail>「イヌじんじゃ」でおさい銭を125Gいれる。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>イヌじんじゃ　レベル11</name>
+  <detail>「イヌじんじゃ」でおさい銭を150Gいれる。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>イヌじんじゃ　レベル12</name>
+  <detail>「イヌじんじゃ」でおさい銭を190Gいれる。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>イヌじんじゃ　レベル13</name>
+  <detail>「イヌじんじゃ」でおさい銭を230Gいれる。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>イヌじんじゃ　レベル14</name>
+  <detail>「イヌじんじゃ」でおさい銭を280Gいれる。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>イヌじんじゃ　レベル15</name>
+  <detail>「イヌじんじゃ」でおさい銭を350Gいれる。</detail>
+ </trophy>
+</trophyconf>
